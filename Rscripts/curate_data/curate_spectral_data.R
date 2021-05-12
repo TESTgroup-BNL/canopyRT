@@ -82,8 +82,8 @@ spec_info <- spec_info %>%
          PLSR_LeafAge_days=plsr_leaf_age_days, Instrument)
 panama_2016_leaf_refl_out <- data.frame(spec_info,spectra)
 write.csv(panama_2016_leaf_refl_out, 
-          file = file.path(output_dir,"data","NGEE-Tropics_Panama_2016_Leaf_Spectral_Reflectance.csv"), 
-          row.names = F)
+          file = file.path(output_dir,"data","compiled_data",
+                           "NGEE-Tropics_Panama_2016_Leaf_Spectral_Reflectance.csv"), row.names = F)
 rm(ecosis_id,dat_raw,panama_2016_leaf_refl,panama_2016_leaf_refl_out,spectra,spec_info,temp_sub_spec)
 
 
@@ -98,8 +98,9 @@ dat_raw[dat_raw==-9999]=NA
 head(dat_raw)
 
 panama_2017_leaf_refl <- dat_raw %>%
-  select(Site=`Location Name`,Sample_ID=SampleID,Sample_Date=`Measurement Date`,Species_Code=Species,
-         Canopy_position,Branch_Number,GasEx_Leaf_Age,Relative_leaf_age,GasEx_Leaf_Age_Revised,Leaf_age_revised,
+  select(Site=`Location Name`,Sample_ID=SampleID,Sample_Date=`Measurement Date`,Species_Code=Species_Code,
+         Genus=`Latin Genus`,Species=`Latin Species`,Canopy_position,Branch_Number,GasEx_Leaf_Age,
+         Relative_leaf_age,GasEx_Leaf_Age_Revised,Leaf_age_revised,
          Sample_type,Instrument=`Instrument Model`,`350`:`2500`)
 head(panama_2017_leaf_refl)[,1:35]
 spectra <- panama_2017_leaf_refl %>% 
@@ -113,13 +114,13 @@ hist(plsr_leaf_age_days)
 spec_info <- panama_2017_leaf_refl[,names(panama_2017_leaf_refl) %notin% seq(350,2500,1)]
 spec_info$plsr_leaf_age_days <- plsr_leaf_age_days
 spec_info <- spec_info %>%
-  select(Site, Sample_ID, Sample_Date, Species_Code, Canopy_position,
+  select(Site, Sample_ID, Sample_Date, Species_Code, Genus, Species, Canopy_position,
          Branch_Number,GasEx_Leaf_Age,Relative_leaf_age,GasEx_Leaf_Age_Revised,Leaf_age_revised,
          Sample_type,PLSR_LeafAge_days=plsr_leaf_age_days, Instrument)
 panama_2017_leaf_refl_out <- data.frame(spec_info,spectra)
 write.csv(panama_2017_leaf_refl_out, 
-          file = file.path(output_dir,"data","NGEE-Tropics_Panama_2017_Leaf_Spectral_Reflectance.csv"), 
-          row.names = F)
+          file = file.path(output_dir,"data","compiled_data",
+                           "NGEE-Tropics_Panama_2017_Leaf_Spectral_Reflectance.csv"), row.names = F)
 rm(ecosis_id,dat_raw,panama_2017_leaf_refl,panama_2017_leaf_refl_out,spectra,spec_info,temp_sub_spec)
 #--------------------------------------------------------------------------------------------------#
 
@@ -130,7 +131,7 @@ graphics.off()          # close any open graphics
 closeAllConnections()   # close any open connections to files
 
 ### Combine datasets - here we should standardize the columns/names
-input_dir <- file.path("~/Data/Dropbox/MANUSCRIPTS/BNL_TEST/canopyRT/data/")
+input_dir <- file.path("~/Data/Dropbox/MANUSCRIPTS/BNL_TEST/canopyRT/data/compiled_data")
 panama_2016_leaf_refl <- read.csv(file = file.path(input_dir,"NGEE-Tropics_Panama_2016_Leaf_Spectral_Reflectance.csv"))
 panama_2017_leaf_refl <- read.csv(file = file.path(input_dir,"NGEE-Tropics_Panama_2017_Leaf_Spectral_Reflectance.csv"))
 

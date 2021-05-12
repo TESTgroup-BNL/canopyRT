@@ -55,7 +55,7 @@ custom_prior <- TRUE # TRUE/FALSE
 
 #--------------------------------------------------------------------------------------------------#
 ### Get data
-inputdir <- file.path("~/Data/Dropbox/MANUSCRIPTS/BNL_TEST/canopyRT/data/")
+inputdir <- file.path("~/Data/Dropbox/MANUSCRIPTS/BNL_TEST/canopyRT/data/compiled_data/")
 load(file.path(inputdir,"NGEETropics_Leaf_Reflectance.RData"))
 #--------------------------------------------------------------------------------------------------#
 
@@ -87,6 +87,8 @@ if (! file.exists(out.dir)) dir.create(out.dir,recursive=TRUE)
 output_sample_info_all <- data.frame(Spectra_Name=refl_samp_info,Location=dataset[,"Site"],
                                      Instrument=dataset[,"Instrument"],
                                      Species_Code=dataset[,"Species_Code"],
+                                     Genus=dataset[,"Genus"],
+                                     Species=dataset[,"Species"],
                                      Canopy_position=dataset[,"Canopy_position"],
                                      PLSR_LeafAge_days=dataset[,"PLSR_LeafAge_days"],
                                      Measurement_Date=dataset[,"Sample_Date"])
