@@ -98,8 +98,9 @@ names_output_sample_info <- names(output_sample_info_all)
 
 #--------------------------------------------------------------------------------------------------#
 ### Subset spectra
-Start.wave <- 400 # 470 480
+Start.wave <- 470 # 470 480; to avoid the "ski jump" < 450 nm with some spectra
 End.wave <- 2500
+subset_waves <- seq(Start.wave,End.wave,1)
 
 abs.Start.wave <- 400  # start abs calc wavelength
 abs.End.wave <- 700    # end abs calc wavelength
@@ -325,8 +326,8 @@ names(leaf_vis_absorption_final) <- c(names_output_sample_info,"Leaf_VIS_Spectra
 ## Licor Fs absorption
 data(sensor.rsr)
 licor.abs <- array(NA,dim=c(dim(mod.params)[1],3))
-for (i in 1:dim(mod.params)[1] ) {
-  #for (i in 1:10 ) {
+#for (i in 1:dim(mod.params)[1] ) {
+for (i in 1:6 ) {
   # Using observed refl data instead of modeled
   #refl <- spectral.response(unlist(sub_refl_data[i,]), 'licor')
   # Using modeled reflectance spectra
