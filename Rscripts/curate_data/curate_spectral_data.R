@@ -64,7 +64,7 @@ dat_raw[dat_raw==-9999]=NA
 head(dat_raw)
 
 panama_2016_leaf_refl <- dat_raw %>%
-  select(Site=Location,Sample_ID=BNL_Barcode,Sample_Date=`Measurement Date`,Species_Code=`Species_Code`,
+  select(Site=Location,Sample_ID=BNL_Barcode,Sample_Date=Sample_Date,Species_Code=`Species_Code`,
          Genus=`Latin Genus`,Species=`Latin Species`,Canopy_position,Instrument=`Instrument Model`,`350`:`2500`)
 head(panama_2016_leaf_refl)[,1:10]
 spectra <- panama_2016_leaf_refl %>% 

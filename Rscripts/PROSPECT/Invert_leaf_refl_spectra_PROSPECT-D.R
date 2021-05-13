@@ -66,7 +66,8 @@ load(file.path(inputdir,"NGEETropics_Leaf_Reflectance.RData"))
 
 #--------------------------------------------------------------------------------------------------#
 ### Import leaf spectra and leaf trait / species info
-dataset <- NGEETropics_leaf_reflectance$Panama2016_leaf_refl
+dataID <- "Panama2016"  #Panama2016, Panama2017
+dataset <- NGEETropics_leaf_reflectance[[paste0(dataID,"_leaf_refl")]]
 head(dataset)[,1:15]
 
 Start.wave <- 350
@@ -79,7 +80,7 @@ spectra <- droplevels(dataset[,spec_waves])
 
 #--------------------------------------------------------------------------------------------------#
 ## Output directory
-dataID <- "Panama2016"
+
 out.dir <- file.path(here::here(),"R_Output",dataID,"PROSPECTD",'Range_400_700nm')
 if (! file.exists(out.dir)) dir.create(out.dir,recursive=TRUE)
 #--------------------------------------------------------------------------------------------------#
