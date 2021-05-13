@@ -66,7 +66,7 @@ load(file.path(inputdir,"NGEETropics_Leaf_Reflectance.RData"))
 
 #--------------------------------------------------------------------------------------------------#
 ### Import leaf spectra and leaf trait / species info
-dataID <- "Panama2016"  #Panama2016, Panama2017
+dataID <- "Panama2017"  #Panama2016, Panama2017
 dataset <- NGEETropics_leaf_reflectance[[paste0(dataID,"_leaf_refl")]]
 head(dataset)[,1:15]
 
