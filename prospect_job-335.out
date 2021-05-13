@@ -953,3 +953,1386 @@ here() starts at /data/sserbin/canopyRT
    2.04; Cm: 1.18; residual: 1.10 
 2021-05-13 08:46:07 INFO   [message] : 
    Running 1000 more iterations ( 16001 to 17000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7773.875 7773.323 7764.878 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7773.875 7773.323 7768.682 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7773.875 7773.841 7766.352 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7772.484 7773.841 7769.523 . Please wait! runMCMC terminated after 13.549seconds
+2021-05-13 08:46:08 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.16; Cbrown: 1.16; Cw: 
+   1.71; residual: 1.16 
+2021-05-13 08:46:08 INFO   [message] : 
+   Running 1000 more iterations ( 17001 to 18000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7772.517 7774.256 7768.056 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7773.126 7772.349 7771.453 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7770.465 7773.451 7771.453 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7772.733 7773.451 7771.453 . Please wait! runMCMC terminated after 14.496seconds
+2021-05-13 08:46:09 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.14; Cbrown: 1.14; Cw: 
+   1.59; residual: 1.18 
+2021-05-13 08:46:09 INFO   [message] : 
+   Running 1000 more iterations ( 18001 to 19000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7772.733 7773.451 7771.453 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7773.166 7773.601 7770.163 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7770.975 7773.508 7771.381 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7769.927 7773.712 7771.782 . Please wait! runMCMC terminated after 15.474seconds
+2021-05-13 08:46:10 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.12; Cbrown: 1.19; Cw: 
+   1.59; residual: 1.25 
+2021-05-13 08:46:10 INFO   [message] : 
+   Running 1000 more iterations ( 19001 to 20000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7769.943 7772.952 7771.782 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7770.202 7771.088 7769.628 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7769.582 7769.756 7772.563 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7769.582 7769.756 7768.206 . Please wait! runMCMC terminated after 16.464seconds
+2021-05-13 08:46:11 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.18; Cw: 1.53; 
+   residual: 1.54 
+2021-05-13 08:46:11 INFO   [message] : 
+   Running 1000 more iterations ( 20001 to 21000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7773.449 7770.035 7771.334 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7773.167 7771.399 7767.623 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7770.068 7771.399 7767.758 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7770.494 7771.399 7767.758 . Please wait! runMCMC terminated after 17.458seconds
+2021-05-13 08:46:12 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.13; Cw: 1.41; Cm: 
+   1.10; residual: 1.30 
+2021-05-13 08:46:12 INFO   [message] : 
+   Running 1000 more iterations ( 21001 to 22000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7772.88 7773.524 7767.758 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7770.862 7773.224 7767.963 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7768.864 7770.554 7764.786 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7772.932 7769.93 7763.87 . Please wait! runMCMC terminated after 18.452seconds
+2021-05-13 08:46:13 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.12; Cw: 1.28; Cm: 
+   1.12; residual: 1.15 
+2021-05-13 08:46:13 INFO   [message] : 
+   Running 1000 more iterations ( 22001 to 23000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7772.311 7773.922 7770.935 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7770.811 7774.222 7773.014 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7773.361 7774.586 7772.873 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7773.036 7774.586 7770.139 . Please wait! runMCMC terminated after 19.499seconds
+2021-05-13 08:46:14 INFO   [message] : 
+   The following parameters exceed threshold: Car: 1.14; Cbrown: 1.15; Cw: 
+   1.18; Cm: 1.12 
+2021-05-13 08:46:14 INFO   [message] : 
+   Running 1000 more iterations ( 23001 to 24000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7774.589 7772.41 7770.571 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7769.885 7771.55 7773.081 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7770.739 7773.36 7773.32 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7771.552 7773.324 7773.67 . Please wait! runMCMC terminated after 20.526seconds
+2021-05-13 08:46:16 INFO   [message] : 
+   The following parameters exceed threshold: Car: 1.22; Cbrown: 1.16; Cw: 
+   1.13; Cm: 1.12 
+2021-05-13 08:46:16 INFO   [message] : 
+   Running 1000 more iterations ( 24001 to 25000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7771.835 7772.767 7773.127 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7772.371 7772.767 7772.402 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7772.363 7769.949 7771.18 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7772.109 7768.603 7770.891 . Please wait! runMCMC terminated after 21.598seconds
+2021-05-13 08:46:17 INFO   [message] : 
+   The following parameters exceed threshold: Car: 1.23; Canth: 1.11; 
+   Cbrown: 1.19; Cw: 1.12; Cm: 1.10 
+2021-05-13 08:46:17 INFO   [message] : 
+   Running 1000 more iterations ( 25001 to 26000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7774.862 7768.985 7772.106 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7773.37 7771.341 7771.726 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7772.604 7772.639 7774.24 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7774.148 7772.639 7774.157 . Please wait! runMCMC terminated after 22.682seconds
+2021-05-13 08:46:18 INFO   [message] : 
+   The following parameters exceed threshold: Car: 1.25; Canth: 1.13; 
+   Cbrown: 1.17; Cw: 1.16; Cm: 1.11 
+2021-05-13 08:46:18 INFO   [message] : 
+   Running 1000 more iterations ( 26001 to 27000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7772.824 7771.704 7773.33 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7772.745 7774.032 7771.61 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7772.735 7769.821 7769.188 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7773.849 7772.688 7770.204 . Please wait! runMCMC terminated after 23.762seconds
+2021-05-13 08:46:19 INFO   [message] : 
+   The following parameters exceed threshold: Car: 1.26; Canth: 1.17; 
+   Cbrown: 1.16; Cw: 1.14 
+2021-05-13 08:46:19 INFO   [message] : 
+   Running 1000 more iterations ( 27001 to 28000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7772.781 7767.468 7771.693 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7771.757 7771.275 7772.193 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7770.599 7774.872 7769.958 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7770.599 7773.518 7771.932 . Please wait! runMCMC terminated after 24.834seconds
+2021-05-13 08:46:20 INFO   [message] : 
+   The following parameters exceed threshold: Car: 1.22; Canth: 1.13; 
+   Cbrown: 1.17; Cw: 1.13 
+2021-05-13 08:46:20 INFO   [message] : 
+   Running 1000 more iterations ( 28001 to 29000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7772.446 7771.807 7771.644 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7773.252 7771.607 7770.784 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7770.74 7773.657 7772.505 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7772.098 7772.946 7772.371 . Please wait! runMCMC terminated after 25.926seconds
+2021-05-13 08:46:21 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.11; Car: 1.17; Canth: 
+   1.14; Cbrown: 1.21; Cw: 1.19 
+2021-05-13 08:46:21 INFO   [message] : 
+   Running 1000 more iterations ( 29001 to 30000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7770.099 7769.172 7771.273 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7769.037 7771.01 7770.49 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7771.635 7773.296 7769.492 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7772.601 7772.971 7770.359 . Please wait! runMCMC terminated after 27.027seconds
+2021-05-13 08:46:22 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.13; Car: 1.13; Canth: 
+   1.11; Cbrown: 1.15; Cw: 1.16 
+2021-05-13 08:46:22 INFO   [message] : 
+   Running 1000 more iterations ( 30001 to 31000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7771.474 7771.079 7769.408 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7770.001 7767.923 7771.856 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7772.075 7771.666 7771.905 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7771.512 7771.617 7774.517 . Please wait! runMCMC terminated after 28.141seconds
+2021-05-13 08:46:23 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.14; Car: 1.11; Cw: 1.12 
+2021-05-13 08:46:23 INFO   [message] : 
+   Running 1000 more iterations ( 31001 to 32000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7771.52 7771.896 7770.828 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7768.575 7768.029 7772.237 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7767.232 7771.498 7771.153 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7767.866 7772.334 7771.718 . Please wait! runMCMC terminated after 29.289seconds
+2021-05-13 08:46:24 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.12; Car: 1.12; Cw: 1.12 
+2021-05-13 08:46:24 INFO   [message] : 
+   Running 1000 more iterations ( 32001 to 33000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7772.648 7774.72 7771.116 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7771.982 7772.123 7770.766 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7768.273 7773.489 7773.461 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7768.361 7772.494 7771.168 . Please wait! runMCMC terminated after 30.409seconds
+2021-05-13 08:46:26 INFO   [message] : 
+   The following parameters exceed threshold: Canth: 1.11; Cw: 1.11 
+2021-05-13 08:46:26 INFO   [message] : 
+   Running 1000 more iterations ( 33001 to 34000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7773.229 7771.886 7772.09 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7774.399 7770.348 7771.091 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7771.068 7773.429 7773.546 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7772.41 7773.951 7774.651 . Please wait! runMCMC terminated after 31.548seconds
+2021-05-13 08:46:27 INFO   [message] : 
+   The following parameters exceed threshold: Canth: 1.11; Cw: 1.14 
+2021-05-13 08:46:27 INFO   [message] : 
+   Running 1000 more iterations ( 34001 to 35000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7773.404 7770.459 7772.838 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7773.124 7772.599 7767.552 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7771.152 7764.955 7767.063 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7769.352 7767.74 7769.926 . Please wait! runMCMC terminated after 32.829seconds
+2021-05-13 08:46:28 INFO   [message] : 
+   The following parameters exceed threshold: Canth: 1.11; Cw: 1.19 
+2021-05-13 08:46:28 INFO   [message] : 
+   Running 1000 more iterations ( 35001 to 36000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7766.556 7771.897 7772.392 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7772.435 7771.325 7771.261 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7772.99 7771.499 7771.297 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7772.333 7772.68 7769.763 . Please wait! runMCMC terminated after 34.005seconds
+2021-05-13 08:46:29 INFO   [message] : 
+   The following parameters exceed threshold: Canth: 1.11; Cw: 1.20 
+2021-05-13 08:46:29 INFO   [message] : 
+   Running 1000 more iterations ( 36001 to 37000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7774.224 7771.514 7772.782 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7771.596 7771.831 7769.808 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7767.338 7769.938 7772.094 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7772.091 7770.421 7772.448 . Please wait! runMCMC terminated after 35.166seconds
+2021-05-13 08:46:30 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.21 
+2021-05-13 08:46:30 INFO   [message] : 
+   Running 1000 more iterations ( 37001 to 38000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7771.649 7774.728 7771.883 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7773.337 7772.442 7771.878 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7770.021 7768.068 7770.752 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7772.364 7768.655 7768.911 . Please wait! runMCMC terminated after 36.359seconds
+2021-05-13 08:46:32 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.18 
+2021-05-13 08:46:32 INFO   [message] : 
+   Running 1000 more iterations ( 38001 to 39000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7773.303 7771.47 7770.641 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7773.683 7767.11 7773.988 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7769.27 7773.376 7771.902 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7771.524 7774.085 7770.045 . Please wait! runMCMC terminated after 37.531seconds
+2021-05-13 08:46:33 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.15 
+2021-05-13 08:46:33 INFO   [message] : 
+   Running 1000 more iterations ( 39001 to 40000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7774.081 7771.017 7771.138 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7772.541 7768.983 7773.064 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7770.286 7774.044 7773.232 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7770.286 7774.044 7768.29 . Please wait! runMCMC terminated after 38.734seconds
+2021-05-13 08:46:34 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.15 
+2021-05-13 08:46:34 INFO   [message] : 
+   Running 1000 more iterations ( 40001 to 41000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7767.637 7774.154 7771.851 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7771.341 7772.943 7773.536 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7771.891 7769.981 7772.066 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7772.792 7771.943 7772.383 . Please wait! runMCMC terminated after 39.976seconds
+2021-05-13 08:46:35 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.18 
+2021-05-13 08:46:35 INFO   [message] : 
+   Running 1000 more iterations ( 41001 to 42000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7773.968 7768.943 7770.502 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7770.495 7767.612 7773.124 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7770.721 7772.405 7770.175 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7770.8 7771.741 7770.025 . Please wait! runMCMC terminated after 41.194seconds
+2021-05-13 08:46:36 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.16 
+2021-05-13 08:46:36 INFO   [message] : 
+   Running 1000 more iterations ( 42001 to 43000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7770.1 7773.641 7773.118 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7771.571 7774.638 7767.531 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7772.594 7771.972 7772.132 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7774.15 7772.655 7772.333 . Please wait! runMCMC terminated after 42.443seconds
+2021-05-13 08:46:38 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.14 
+2021-05-13 08:46:38 INFO   [message] : 
+   Running 1000 more iterations ( 43001 to 44000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7772.761 7771.497 7772.548 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7772.744 7770.644 7769.395 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7774.341 7770.771 7770.88 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7775.03 7770.848 7769.421 . Please wait! runMCMC terminated after 43.6479999999999seconds
+2021-05-13 08:46:39 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.12 
+2021-05-13 08:46:39 INFO   [message] : 
+   Running 1000 more iterations ( 44001 to 45000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7773.545 7770.421 7771.32 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7767.6 7773.396 7772.925 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7771.751 7771.966 7771.593 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7770.407 7773.273 7773.503 . Please wait! runMCMC terminated after 45.0119999999999seconds
+2021-05-13 08:46:40 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.10 
+2021-05-13 08:46:40 INFO   [message] : 
+   Running 1000 more iterations ( 45001 to 46000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7773.566 7771.627 7773.846 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7773.277 7773.971 7773.024 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7768.97 7772.5 7773.842 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7770.331 7768.336 7771.033 . Please wait! runMCMC terminated after 46.2089999999999seconds
+2021-05-13 08:46:42 INFO   [message] : 
+   624 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:46:42 INFO   [message] : 
+   Running 1000 more iterations ( 46001 to 47000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7771.758 7771.642 7773.213 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7770.159 7772.205 7770.278 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7769.33 7773.658 7771.352 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7771.991 7773.51 7772.398 . Please wait! runMCMC terminated after 47.4619999999999seconds
+2021-05-13 08:46:44 INFO   [message] : 
+   670 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:46:44 INFO   [message] : 
+   Running 1000 more iterations ( 47001 to 48000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7768.072 7773.292 7771.246 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7771.463 7771.199 7774.066 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7767.896 7771.06 7770.365 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7769.949 7770.389 7772.581 . Please wait! runMCMC terminated after 48.6759999999999seconds
+2021-05-13 08:46:45 INFO   [message] : 
+   1306 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:46:45 INFO   [message] : 
+   Running 1000 more iterations ( 48001 to 49000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7772.657 7765.827 7772.5 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7774.123 7772.716 7770.906 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7771.2 7770.641 7773.757 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7772.155 7773.192 7773.757 . Please wait! runMCMC terminated after 50.0089999999999seconds
+2021-05-13 08:46:47 INFO   [message] : 
+   1644 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:46:47 INFO   [message] : 
+   Running 1000 more iterations ( 49001 to 50000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7770.209 7773.852 7773.724 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7773.661 7774.583 7773.625 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7773.264 7772.683 7769.253 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7770.747 7773.658 7771.649 . Please wait! runMCMC terminated after 51.2549999999999seconds
+2021-05-13 08:46:49 INFO   [message] : 
+   1708 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:46:49 INFO   [message] : 
+   Running 1000 more iterations ( 50001 to 51000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7772.48 7772.775 7770.258 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7772.233 7770.079 7774.085 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7773.594 7771.662 7773.816 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7772.904 7773.928 7773.851 . Please wait! runMCMC terminated after 52.5159999999999seconds
+2021-05-13 08:46:51 INFO   [message] : 
+   2066 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:46:51 INFO   [message] : 
+   Running 1000 more iterations ( 51001 to 52000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7771.37 7772.072 7771.78 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7772.868 7771.416 7765.833 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7769.77 7773.655 7768.886 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7767.782 7774.032 7768.241 . Please wait! runMCMC terminated after 53.7729999999999seconds
+2021-05-13 08:46:53 INFO   [message] : 
+   2438 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:46:53 INFO   [message] : 
+   Running 1000 more iterations ( 52001 to 53000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7773.789 7774.502 7771.082 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7773.601 7773.566 7770.984 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7774.133 7772.256 7771.218 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7774.02 7770.913 7770.761 . Please wait! runMCMC terminated after 55.041seconds
+2021-05-13 08:46:55 INFO   [message] : 
+   2824 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:46:55 INFO   [message] : 
+   Running 1000 more iterations ( 53001 to 54000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7769.143 7772.716 7766.676 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7772.408 7770.016 7771.826 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7774.013 7767.42 7771.663 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7770.762 7770.726 7771.764 . Please wait! runMCMC terminated after 56.331seconds
+2021-05-13 08:46:56 INFO   [message] : 
+   3265 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:46:56 INFO   [message] : 
+   Running 1000 more iterations ( 54001 to 55000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7769.01 7772.184 7771.659 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7772.068 7771.027 7771.072 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7770.336 7773.338 7771.751 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7772.105 7771.64 7769.926 . Please wait! runMCMC terminated after 57.741seconds
+2021-05-13 08:46:58 INFO   [message] : 
+   3678 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:46:58 INFO   [message] : 
+   Running 1000 more iterations ( 55001 to 56000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7771.508 7771.12 7771.605 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7774.134 7773.088 7773.184 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7771.676 7771.153 7771.184 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7772.6 7771.697 7771.419 . Please wait! runMCMC terminated after 59.024seconds
+2021-05-13 08:47:00 INFO   [message] : 
+   3732 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:47:00 INFO   [message] : 
+   Running 1000 more iterations ( 56001 to 57000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7773.912 7772.38 7769.923 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7772.69 7769.648 7767.001 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7768.996 7773.404 7768.309 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7768.969 7773.546 7768.004 . Please wait! runMCMC terminated after 60.313seconds
+2021-05-13 08:47:02 INFO   [message] : 
+   4205 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:47:02 INFO   [message] : 
+   Running 1000 more iterations ( 57001 to 58000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7771.894 7767.064 7772.329 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7767.266 7768.444 7774.285 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7771.901 7773.17 7772.62 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7772.732 7774.425 7772.747 . Please wait! runMCMC terminated after 61.608seconds
+2021-05-13 08:47:04 INFO   [message] : 
+   4652 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:47:04 INFO   [message] : 
+   Running 1000 more iterations ( 58001 to 59000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7774.291 7769.236 7771.386 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7772.611 7774.646 7772.49 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7770.393 7769.957 7770.862 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7768.391 7772.598 7771.412 . Please wait! runMCMC terminated after 62.904seconds
+2021-05-13 08:47:06 INFO   [message] : 
+   4720 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:47:06 INFO   [message] : 
+   Running 1000 more iterations ( 59001 to 60000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7773.9 7768.676 7773.039 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7774.179 7771.036 7771.093 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7772.159 7772.021 7771.177 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7768.132 7773.833 7772.81 . Please wait! runMCMC terminated after 64.324seconds
+[1] "*** Calculating error stats ***"
+[1] " "
+[1] " "
+[1] "*** Starting new inversion ***"
+[1] " "
+[1] " "
+[1] " "
+[1] "Inverting: BNL10402"
+2021-05-13 08:47:12 INFO   [message] : 
+   Running initial 2000 iterations. 
+2021-05-13 08:47:12 INFO   [message] : 
+   12 NA values in model output. Returning loglike = -1e+10 
+2021-05-13 08:47:12 INFO   [message] : 
+   11 NA values in model output. Returning loglike = -1e+10 
+2021-05-13 08:47:12 INFO   [message] : 
+   1 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 300 of 2001 . Current logp  6427.027 6528.08 6216.435 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 2001 . Current logp  6585.856 6593.133 6592.115 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 2001 . Current logp  6611.548 6836.592 6596.453 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1200 of 2001 . Current logp  6789.034 7067.405 7059.876 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1500 of 2001 . Current logp  7164.994 7212.206 7160.975 . Please wait! 2021-05-13 08:47:13 INFO   [message] : 
+   7 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 1800 of 2001 . Current logp  7369.832 7329.211 7282.287 . Please wait!  Running DEzs-MCMC, chain  1 iteration 2001 of 2001 . Current logp  7376.006 7610.271 7747.362 . Please wait! runMCMC terminated after 1.78699999999998seconds
+2021-05-13 08:47:13 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.42; Cab: 1.66; Car: 
+   1.15; Canth: 1.28; Cbrown: 1.20; Cw: 1.63; Cm: 1.48; residual: 1.47 
+2021-05-13 08:47:13 INFO   [message] : 
+   Running 1000 more iterations ( 2001 to 3000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7711.797 7914.901 7747.362 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7947.951 7939.768 7747.362 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7947.951 8019.505 7852.272 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7947.951 8019.505 7852.272 . Please wait! runMCMC terminated after 2.48599999999999seconds
+2021-05-13 08:47:14 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.34; Cab: 1.18; Cbrown: 
+   1.12; Cw: 2.10; Cm: 3.28; residual: 4.09 
+2021-05-13 08:47:14 INFO   [message] : 
+   Running 1000 more iterations ( 3001 to 4000 ). 
+2021-05-13 08:47:14 INFO   [message] : 
+   7 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7947.951 8032.017 7909.611 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8017.227 8037.895 7949.841 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8045.759 8037.895 8013.293 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8049.598 8037.895 8072.605 . Please wait! runMCMC terminated after 3.23499999999999seconds
+2021-05-13 08:47:15 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.76; Cab: 1.71; Car: 
+   1.85; Canth: 1.86; Cbrown: 1.78; Cw: 2.54; Cm: 2.33; residual: 4.43 
+2021-05-13 08:47:15 INFO   [message] : 
+   Running 1000 more iterations ( 4001 to 5000 ). 
+2021-05-13 08:47:15 INFO   [message] : 
+   3 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8059.336 8038.342 8093.711 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8095.496 8072.476 8093.711 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8101.147 8094.589 8140.77 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8101.147 8094.589 8152.724 . Please wait! runMCMC terminated after 3.98699999999997seconds
+2021-05-13 08:47:16 INFO   [message] : 
+   The following parameters exceed threshold: N: 2.04; Cab: 1.69; Car: 
+   1.88; Canth: 2.32; Cbrown: 1.80; Cm: 2.10; residual: 1.74 
+2021-05-13 08:47:16 INFO   [message] : 
+   Running 1000 more iterations ( 5001 to 6000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8139.28 8135.069 8162.328 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8164.043 8157.34 8195.708 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8164.043 8157.34 8194.85 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8177.858 8157.34 8194.85 . Please wait! runMCMC terminated after 4.77299999999994seconds
+2021-05-13 08:47:16 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.50; Cab: 1.65; Car: 
+   1.82; Canth: 2.47; Cw: 1.14; Cm: 1.41 
+2021-05-13 08:47:16 INFO   [message] : 
+   Running 1000 more iterations ( 6001 to 7000 ). 
+2021-05-13 08:47:17 INFO   [message] : 
+   6 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8200.149 8176.429 8198.559 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8210.396 8199.746 8198.559 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8210.396 8212.099 8212.312 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8210.396 8212.099 8213.831 . Please wait! runMCMC terminated after 5.70899999999997seconds
+2021-05-13 08:47:17 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.20; Cab: 1.70; Car: 
+   1.90; Canth: 1.54; Cbrown: 1.20; Cw: 1.13; Cm: 1.18 
+2021-05-13 08:47:17 INFO   [message] : 
+   Running 1000 more iterations ( 7001 to 8000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8239.702 8217.906 8214.904 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8238.868 8221.076 8223.816 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8239.8 8221.357 8234.561 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8239.8 8221.357 8234.561 . Please wait! runMCMC terminated after 6.52999999999997seconds
+2021-05-13 08:47:18 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.50; Cab: 2.02; Car: 
+   2.41; Canth: 1.25; Cbrown: 1.19; Cm: 1.46 
+2021-05-13 08:47:18 INFO   [message] : 
+   Running 1000 more iterations ( 8001 to 9000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8239.315 8221.074 8244.584 . Please wait! 2021-05-13 08:47:18 INFO   [message] : 
+   4 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8247.663 8225.348 8246.903 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8251.08 8245.676 8246.903 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8251.08 8245.676 8246.903 . Please wait! runMCMC terminated after 7.37999999999997seconds
+2021-05-13 08:47:19 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.22; Cab: 2.01; Car: 
+   2.63; Canth: 1.50; Cm: 1.33 
+2021-05-13 08:47:19 INFO   [message] : 
+   Running 1000 more iterations ( 9001 to 10000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8250.594 8245.379 8250.989 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8255.762 8243.744 8255.642 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8257.866 8250.862 8260.434 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8269.817 8253.028 8260.483 . Please wait! runMCMC terminated after 8.33299999999991seconds
+2021-05-13 08:47:20 INFO   [message] : 
+   The following parameters exceed threshold: Cab: 2.03; Car: 1.65; Canth: 
+   2.08; Cbrown: 1.14; Cm: 1.20 
+2021-05-13 08:47:20 INFO   [message] : 
+   Running 1000 more iterations ( 10001 to 11000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8305.35 8289.27 8301.45 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8555.488 8368.706 8348.508 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8657.242 8396.753 8485.006 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8678.836 8532.387 8583.552 . Please wait! runMCMC terminated after 9.29199999999992seconds
+2021-05-13 08:47:21 INFO   [message] : 
+   The following parameters exceed threshold: Cab: 1.75; Canth: 2.00; Cw: 
+   1.16 
+2021-05-13 08:47:21 INFO   [message] : 
+   Running 1000 more iterations ( 11001 to 12000 ). 
+2021-05-13 08:47:21 INFO   [message] : 
+   3 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8681.444 8737.179 8674.409 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8706.05 8737.995 8725.824 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8731.503 8749.772 8748.838 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8731.659 8755.151 8748.838 . Please wait! runMCMC terminated after 10.1469999999999seconds
+2021-05-13 08:47:22 INFO   [message] : 
+   The following parameters exceed threshold: Cab: 1.38; Canth: 1.22; Cw: 
+   1.21 
+2021-05-13 08:47:22 INFO   [message] : 
+   Running 1000 more iterations ( 12001 to 13000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8749.522 8752.805 8752.9 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8750.89 8752.805 8753.666 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8750.563 8752.805 8766.49 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8759.47 8752.805 8766.49 . Please wait! runMCMC terminated after 10.9739999999999seconds
+2021-05-13 08:47:23 INFO   [message] : 
+   The following parameters exceed threshold: Cab: 1.42; Canth: 1.23; Cw: 
+   1.22; Cm: 1.10 
+2021-05-13 08:47:23 INFO   [message] : 
+   Running 1000 more iterations ( 13001 to 14000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8761.581 8753.506 8766.49 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8761.581 8758.855 8766.599 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8761.439 8759.064 8766.599 . Please wait! 2021-05-13 08:47:23 INFO   [message] : 
+   4 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8761.439 8760.649 8766.328 . Please wait! runMCMC terminated after 11.6699999999999seconds
+2021-05-13 08:47:23 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.15; Cab: 1.46; Canth: 
+   1.21; Cw: 1.24; Cm: 1.23 
+2021-05-13 08:47:23 INFO   [message] : 
+   Running 1000 more iterations ( 14001 to 15000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8761.439 8766.743 8766.328 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8762.246 8766.463 8766.964 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8762.246 8766.463 8766.964 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8762.246 8765.972 8766.964 . Please wait! runMCMC terminated after 12.4199999999999seconds
+2021-05-13 08:47:24 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.24; Cab: 1.33; Canth: 
+   1.12; Cw: 1.34; Cm: 1.32 
+2021-05-13 08:47:24 INFO   [message] : 
+   Running 1000 more iterations ( 15001 to 16000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8764.265 8764.92 8766.964 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8764.265 8764.92 8767.063 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8764.265 8764.92 8765.044 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8769.011 8764.774 8768.528 . Please wait! runMCMC terminated after 13.2349999999999seconds
+2021-05-13 08:47:25 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.19; Cab: 1.17; Cw: 1.45; 
+   Cm: 1.28 
+2021-05-13 08:47:25 INFO   [message] : 
+   Running 1000 more iterations ( 16001 to 17000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8767.325 8765.828 8766.612 . Please wait! 2021-05-13 08:47:25 INFO   [message] : 
+   10 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8767.325 8767.84 8766.612 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8767.263 8767.355 8768.963 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8767.263 8767.355 8768.262 . Please wait! runMCMC terminated after 14.0579999999999seconds
+2021-05-13 08:47:26 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.27; Cw: 1.46; Cm: 1.32 
+2021-05-13 08:47:26 INFO   [message] : 
+   Running 1000 more iterations ( 17001 to 18000 ). 
+2021-05-13 08:47:26 INFO   [message] : 
+   6 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8766.447 8767.355 8768.82 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8767.39 8763.368 8768.151 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8766.356 8766.396 8768.151 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8766.356 8763.795 8768.151 . Please wait! runMCMC terminated after 14.8589999999999seconds
+2021-05-13 08:47:27 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.27; Cw: 1.55; Cm: 1.39 
+2021-05-13 08:47:27 INFO   [message] : 
+   Running 1000 more iterations ( 18001 to 19000 ). 
+2021-05-13 08:47:27 INFO   [message] : 
+   1 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8766.442 8765.142 8768.636 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8764.846 8767.286 8769.796 . Please wait! 2021-05-13 08:47:27 INFO   [message] : 
+   8 NA values in model output. Returning loglike = -1e+10 
+2021-05-13 08:47:27 INFO   [message] : 
+   10 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8763.958 8768.226 8769.796 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8763.958 8766.018 8769.796 . Please wait! runMCMC terminated after 15.7099999999999seconds
+2021-05-13 08:47:27 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.26; Cw: 1.51; Cm: 1.42 
+2021-05-13 08:47:27 INFO   [message] : 
+   Running 1000 more iterations ( 19001 to 20000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8764.948 8766.601 8769.796 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8766.843 8766.601 8768.817 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8766.843 8769.63 8768.817 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8766.843 8769.63 8768.799 . Please wait! runMCMC terminated after 16.5489999999999seconds
+2021-05-13 08:47:28 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.29; Cbrown: 1.14; Cw: 
+   1.50; Cm: 1.47 
+2021-05-13 08:47:28 INFO   [message] : 
+   Running 1000 more iterations ( 20001 to 21000 ). 
+2021-05-13 08:47:29 INFO   [message] : 
+   2 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8768.148 8769.63 8764.339 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8762.664 8768.543 8768.13 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8761.919 8768.543 8767.103 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8761.919 8765.467 8767.103 . Please wait! runMCMC terminated after 17.4149999999999seconds
+2021-05-13 08:47:29 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.29; Cab: 1.19; Car: 
+   1.15; Cbrown: 1.15; Cw: 1.30; Cm: 1.44; residual: 1.11 
+2021-05-13 08:47:29 INFO   [message] : 
+   Running 1000 more iterations ( 21001 to 22000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8768.415 8764.399 8766.507 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8767.252 8763.726 8765.433 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8767.982 8767.189 8766.228 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8764.599 8766.541 8765.917 . Please wait! runMCMC terminated after 18.2859999999999seconds
+2021-05-13 08:47:30 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.44; Cab: 1.22; Cbrown: 
+   1.15; Cm: 1.39 
+2021-05-13 08:47:30 INFO   [message] : 
+   Running 1000 more iterations ( 22001 to 23000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8767.43 8768.442 8765.239 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8767.45 8766.548 8765.962 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8768.492 8764.702 8767.721 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8768.492 8764.88 8768.16 . Please wait! runMCMC terminated after 19.1719999999999seconds
+2021-05-13 08:47:31 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.35; Cab: 1.20; Car: 
+   1.16; Cbrown: 1.22; Cw: 1.19; Cm: 1.27 
+2021-05-13 08:47:31 INFO   [message] : 
+   Running 1000 more iterations ( 23001 to 24000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8769.099 8765.609 8766.139 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8763.332 8767.531 8767.118 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8767.064 8766.82 8767.39 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8768.589 8767.208 8766.647 . Please wait! runMCMC terminated after 20.0959999999999seconds
+2021-05-13 08:47:32 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.30; Cab: 1.21; Car: 
+   1.16; Canth: 1.18; Cbrown: 1.22; Cw: 1.35; Cm: 1.17 
+2021-05-13 08:47:32 INFO   [message] : 
+   Running 1000 more iterations ( 24001 to 25000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8768.704 8767.492 8769.835 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8764.076 8767.705 8769.317 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8767.782 8768.529 8768.679 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8768.864 8770.229 8769.212 . Please wait! runMCMC terminated after 21.0089999999999seconds
+2021-05-13 08:47:33 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.20; Cab: 1.32; Canth: 
+   1.28; Cbrown: 1.15; Cw: 1.44 
+2021-05-13 08:47:33 INFO   [message] : 
+   Running 1000 more iterations ( 25001 to 26000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8766.531 8768.433 8769.61 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8760.446 8767.972 8766.44 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8763.703 8764.523 8768.185 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8762.753 8765.363 8768.577 . Please wait! runMCMC terminated after 21.9769999999999seconds
+2021-05-13 08:47:34 INFO   [message] : 
+   The following parameters exceed threshold: Cab: 1.29; Canth: 1.27; Cw: 
+   1.45 
+2021-05-13 08:47:34 INFO   [message] : 
+   Running 1000 more iterations ( 26001 to 27000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8766.148 8767.141 8769.027 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8767.753 8766.245 8768.834 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8768.332 8767.545 8767.788 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8768.702 8768.571 8769.041 . Please wait! runMCMC terminated after 22.9439999999999seconds
+2021-05-13 08:47:35 INFO   [message] : 
+   The following parameters exceed threshold: Cab: 1.29; Canth: 1.30; Cw: 
+   1.44 
+2021-05-13 08:47:35 INFO   [message] : 
+   Running 1000 more iterations ( 27001 to 28000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8767.818 8768.547 8769.684 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8765.692 8768.334 8762.051 . Please wait! 2021-05-13 08:47:36 INFO   [message] : 
+   7 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8768.546 8769.42 8765.578 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8768.052 8769.21 8766.261 . Please wait! runMCMC terminated after 23.865seconds
+2021-05-13 08:47:36 INFO   [message] : 
+   The following parameters exceed threshold: Cab: 1.17; Canth: 1.25; Cw: 
+   1.45 
+2021-05-13 08:47:36 INFO   [message] : 
+   Running 1000 more iterations ( 28001 to 29000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8765.621 8766.516 8766.63 . Please wait! 2021-05-13 08:47:36 INFO   [message] : 
+   4 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8759.634 8767.566 8766.63 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8766.523 8764.395 8764.603 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8765.448 8767.713 8767.495 . Please wait! runMCMC terminated after 24.8589999999999seconds
+2021-05-13 08:47:37 INFO   [message] : 
+   The following parameters exceed threshold: Cab: 1.12; Canth: 1.12; Cw: 
+   1.40 
+2021-05-13 08:47:37 INFO   [message] : 
+   Running 1000 more iterations ( 29001 to 30000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8766.199 8769.499 8761.712 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8764.166 8767.934 8766.166 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8766.948 8765.436 8766.576 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8765.789 8763.949 8768.107 . Please wait! runMCMC terminated after 25.8749999999999seconds
+2021-05-13 08:47:38 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.28 
+2021-05-13 08:47:38 INFO   [message] : 
+   Running 1000 more iterations ( 30001 to 31000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8768.399 8765.444 8767.794 . Please wait! 2021-05-13 08:47:38 INFO   [message] : 
+   6 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8768.931 8763.77 8768.972 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8766.399 8764.773 8767.417 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8767.591 8766.259 8764.188 . Please wait! runMCMC terminated after 26.925seconds
+2021-05-13 08:47:39 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.10; Cw: 1.34; Cm: 
+   1.10 
+2021-05-13 08:47:39 INFO   [message] : 
+   Running 1000 more iterations ( 31001 to 32000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8765.992 8767.446 8765.065 . Please wait! 2021-05-13 08:47:39 INFO   [message] : 
+   8 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8767.208 8765.316 8768.625 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8767.294 8768.276 8766.512 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8767.883 8766.263 8767.147 . Please wait! runMCMC terminated after 27.9589999999999seconds
+2021-05-13 08:47:40 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.17; Cw: 1.39; Cm: 
+   1.12; residual: 1.14 
+2021-05-13 08:47:40 INFO   [message] : 
+   Running 1000 more iterations ( 32001 to 33000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8767.497 8767.841 8767.678 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8761.381 8763.762 8767.48 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8762.474 8766.384 8764.172 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8764.129 8763.668 8766.508 . Please wait! runMCMC terminated after 28.9599999999999seconds
+2021-05-13 08:47:41 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.16; Cw: 1.34; 
+   residual: 1.15 
+2021-05-13 08:47:41 INFO   [message] : 
+   Running 1000 more iterations ( 33001 to 34000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8764.228 8765.512 8767.113 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8765.915 8768.991 8768.483 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8767.569 8765.768 8766.022 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8762.744 8768.021 8767.266 . Please wait! runMCMC terminated after 30.0309999999999seconds
+2021-05-13 08:47:42 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.14; Cw: 1.27; 
+   residual: 1.13 
+2021-05-13 08:47:42 INFO   [message] : 
+   Running 1000 more iterations ( 34001 to 35000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8768.36 8765.386 8766.508 . Please wait! 2021-05-13 08:47:42 INFO   [message] : 
+   1 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8767.31 8764.844 8768.035 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8766.944 8768.572 8768.114 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8767.224 8769.202 8769.086 . Please wait! runMCMC terminated after 31.1079999999999seconds
+2021-05-13 08:47:43 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.12; Cw: 1.23; 
+   residual: 1.12 
+2021-05-13 08:47:43 INFO   [message] : 
+   Running 1000 more iterations ( 35001 to 36000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8768.888 8769.971 8768.945 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8764.856 8767.885 8767.783 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8765.116 8768.08 8767.332 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8769.808 8764.234 8767.348 . Please wait! runMCMC terminated after 32.1889999999999seconds
+2021-05-13 08:47:44 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.11; Cw: 1.21 
+2021-05-13 08:47:44 INFO   [message] : 
+   Running 1000 more iterations ( 36001 to 37000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8766.496 8768.857 8767.145 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8765.335 8766.751 8765.086 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8770.15 8770.05 8766.538 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8770.15 8767.22 8764.415 . Please wait! runMCMC terminated after 33.2689999999999seconds
+2021-05-13 08:47:45 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.16; residual: 1.14 
+2021-05-13 08:47:45 INFO   [message] : 
+   Running 1000 more iterations ( 37001 to 38000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8767.679 8766.52 8764.54 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8763.901 8764.494 8766.091 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8768.296 8767.836 8768.432 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8764.966 8769.352 8767.468 . Please wait! runMCMC terminated after 34.3309999999999seconds
+2021-05-13 08:47:46 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.16; residual: 1.14 
+2021-05-13 08:47:46 INFO   [message] : 
+   Running 1000 more iterations ( 38001 to 39000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8770.354 8766.036 8764.005 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8768.605 8764.514 8768.018 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8769.464 8760.26 8768.525 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8765.627 8765.606 8766.251 . Please wait! runMCMC terminated after 35.4319999999999seconds
+2021-05-13 08:47:47 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.15; residual: 1.15 
+2021-05-13 08:47:47 INFO   [message] : 
+   Running 1000 more iterations ( 39001 to 40000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8766.576 8766.824 8768.867 . Please wait! 2021-05-13 08:47:48 INFO   [message] : 
+   4 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8767.821 8767.836 8769.246 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8764.532 8761.127 8765.474 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8762.232 8766.395 8764.894 . Please wait! runMCMC terminated after 36.4929999999999seconds
+2021-05-13 08:47:48 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.16; residual: 1.14 
+2021-05-13 08:47:48 INFO   [message] : 
+   Running 1000 more iterations ( 40001 to 41000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8765.632 8767.081 8768.2 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8764.593 8763.86 8767.283 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8767.071 8767.279 8764.714 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8765.646 8766.563 8761.186 . Please wait! runMCMC terminated after 37.6509999999999seconds
+2021-05-13 08:47:50 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.13; residual: 1.13 
+2021-05-13 08:47:50 INFO   [message] : 
+   Running 1000 more iterations ( 41001 to 42000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8767.143 8767.719 8766.723 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8768.393 8764.123 8763.579 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8766.302 8765.915 8768.029 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8767.58 8766.722 8767.364 . Please wait! runMCMC terminated after 38.7899999999998seconds
+2021-05-13 08:47:51 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.11; residual: 1.17 
+2021-05-13 08:47:51 INFO   [message] : 
+   Running 1000 more iterations ( 42001 to 43000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8763.579 8767.927 8768.413 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8762.178 8768.011 8769.21 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8768.517 8764.391 8765.661 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8766.314 8768.035 8764.379 . Please wait! runMCMC terminated after 39.8949999999998seconds
+2021-05-13 08:47:52 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.11; residual: 1.14 
+2021-05-13 08:47:52 INFO   [message] : 
+   Running 1000 more iterations ( 43001 to 44000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8768.308 8766.266 8761.868 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8766.072 8768.388 8766.142 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8769.147 8769.446 8769.039 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8768.396 8767.459 8768.425 . Please wait! runMCMC terminated after 41.0239999999998seconds
+2021-05-13 08:47:53 INFO   [message] : 
+   The following parameters exceed threshold: residual: 1.11 
+2021-05-13 08:47:53 INFO   [message] : 
+   Running 1000 more iterations ( 44001 to 45000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8765.322 8766.865 8766.881 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8766.391 8769.55 8764.663 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8762.515 8765.871 8766.406 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8767.408 8769.196 8765.56 . Please wait! runMCMC terminated after 42.2919999999997seconds
+2021-05-13 08:47:55 INFO   [message] : 
+   327 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:47:55 INFO   [message] : 
+   Running 1000 more iterations ( 45001 to 46000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8768.468 8767.998 8766.988 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8767.313 8768.757 8765.902 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8767.074 8766.739 8765.251 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8763.656 8768.936 8767.189 . Please wait! runMCMC terminated after 43.4319999999997seconds
+2021-05-13 08:47:56 INFO   [message] : 
+   624 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:47:56 INFO   [message] : 
+   Running 1000 more iterations ( 46001 to 47000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8767.915 8768.031 8769.189 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8769.539 8766.505 8768.373 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8764.176 8764.826 8768.706 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8768.176 8768.283 8768.358 . Please wait! runMCMC terminated after 44.5849999999997seconds
+2021-05-13 08:47:58 INFO   [message] : 
+   982 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:47:58 INFO   [message] : 
+   Running 1000 more iterations ( 47001 to 48000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8767.984 8763.121 8765.688 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8766.838 8766.456 8765.843 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8766.236 8768.884 8767.665 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8765.717 8766.78 8767.574 . Please wait! runMCMC terminated after 45.7629999999997seconds
+2021-05-13 08:48:00 INFO   [message] : 
+   1306 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:48:00 INFO   [message] : 
+   Running 1000 more iterations ( 48001 to 49000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8768.565 8768.395 8767.614 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8766.152 8767.251 8765.432 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8769.492 8761.943 8767.253 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8764.226 8764.879 8767.501 . Please wait! runMCMC terminated after 46.9519999999997seconds
+2021-05-13 08:48:01 INFO   [message] : 
+   1644 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:48:01 INFO   [message] : 
+   Running 1000 more iterations ( 49001 to 50000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8768.557 8768.009 8764.624 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8765.053 8769.378 8767.228 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8768.385 8765.45 8768.831 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8769.543 8766.173 8768.355 . Please wait! runMCMC terminated after 48.1109999999997seconds
+2021-05-13 08:48:03 INFO   [message] : 
+   1708 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:48:03 INFO   [message] : 
+   Running 1000 more iterations ( 50001 to 51000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8766.546 8765.254 8768.697 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8768.785 8768.379 8765.706 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8766.784 8766.249 8767.117 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8766.373 8766.982 8767.306 . Please wait! runMCMC terminated after 49.2619999999997seconds
+2021-05-13 08:48:05 INFO   [message] : 
+   2066 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:48:05 INFO   [message] : 
+   Running 1000 more iterations ( 51001 to 52000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8768.955 8763.912 8767.423 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8762.63 8768.459 8768.628 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8767.719 8766.343 8766.469 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8765.572 8764.022 8768.62 . Please wait! runMCMC terminated after 50.4459999999997seconds
+2021-05-13 08:48:06 INFO   [message] : 
+   2438 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:48:06 INFO   [message] : 
+   Running 1000 more iterations ( 52001 to 53000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8767.201 8766.92 8761.663 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8762.103 8769.591 8766.337 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8766.124 8765.164 8766.388 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8769.425 8766.103 8763.481 . Please wait! runMCMC terminated after 51.6299999999997seconds
+2021-05-13 08:48:08 INFO   [message] : 
+   2824 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:48:08 INFO   [message] : 
+   Running 1000 more iterations ( 53001 to 54000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8764.656 8766.456 8768.52 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8767.649 8768.49 8767.202 . Please wait! 2021-05-13 08:48:09 INFO   [message] : 
+   7 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8766.939 8767.308 8764.39 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8768.457 8767.355 8766.305 . Please wait! runMCMC terminated after 52.8419999999997seconds
+2021-05-13 08:48:10 INFO   [message] : 
+   3265 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:48:10 INFO   [message] : 
+   Running 1000 more iterations ( 54001 to 55000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8763.618 8766.716 8768.067 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8767.251 8767.571 8768.285 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8766.107 8768.69 8768.919 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8766.587 8768.637 8765.864 . Please wait! runMCMC terminated after 54.0399999999997seconds
+2021-05-13 08:48:12 INFO   [message] : 
+   3678 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:48:12 INFO   [message] : 
+   Running 1000 more iterations ( 55001 to 56000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8766.692 8768.736 8768.975 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8768.347 8766.893 8769.356 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8769.511 8766.256 8768.749 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8769.198 8766.924 8767.108 . Please wait! runMCMC terminated after 55.2359999999996seconds
+2021-05-13 08:48:13 INFO   [message] : 
+   3732 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:48:13 INFO   [message] : 
+   Running 1000 more iterations ( 56001 to 57000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8766.823 8766.257 8765.419 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8763.544 8767.426 8766.823 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8766.761 8764.605 8768.847 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8767.176 8766.733 8767.928 . Please wait! runMCMC terminated after 56.4399999999996seconds
+2021-05-13 08:48:15 INFO   [message] : 
+   4205 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:48:15 INFO   [message] : 
+   Running 1000 more iterations ( 57001 to 58000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8767.12 8767.1 8765.564 . Please wait! 2021-05-13 08:48:16 INFO   [message] : 
+   3 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8767.937 8765.972 8766.731 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8766.601 8766.703 8766.613 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8768.54 8761.195 8765.748 . Please wait! runMCMC terminated after 57.7719999999996seconds
+2021-05-13 08:48:17 INFO   [message] : 
+   4652 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:48:17 INFO   [message] : 
+   Running 1000 more iterations ( 58001 to 59000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8769.437 8762.623 8768.274 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8768.999 8768.34 8766.225 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8764.402 8762.523 8766.947 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8764.444 8768.016 8768.241 . Please wait! runMCMC terminated after 58.9889999999996seconds
+2021-05-13 08:48:19 INFO   [message] : 
+   4720 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:48:19 INFO   [message] : 
+   Running 1000 more iterations ( 59001 to 60000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8767.15 8766.775 8765.943 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8766.81 8766.899 8765.579 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8768.612 8766.19 8769.007 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8766.739 8765.846 8769.141 . Please wait! runMCMC terminated after 60.1789999999996seconds
+[1] "*** Calculating error stats ***"
+[1] " "
+[1] " "
+[1] "*** Starting new inversion ***"
+[1] " "
+[1] " "
+[1] " "
+[1] "Inverting: BNL11055"
+2021-05-13 08:48:24 INFO   [message] : 
+   Running initial 2000 iterations. 
+2021-05-13 08:48:25 INFO   [message] : 
+   13 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 300 of 2001 . Current logp  5026.033 4854.086 5353.141 . Please wait! 2021-05-13 08:48:25 INFO   [message] : 
+   6 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 600 of 2001 . Current logp  5904.54 5330.363 6060.434 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 2001 . Current logp  5916.34 5977.713 6211.517 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1200 of 2001 . Current logp  6595.755 6223.707 6645.585 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1500 of 2001 . Current logp  6659.836 7163.486 7289.681 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1800 of 2001 . Current logp  7060.192 7163.486 7349.304 . Please wait!  Running DEzs-MCMC, chain  1 iteration 2001 of 2001 . Current logp  7060.192 7163.486 7349.304 . Please wait! runMCMC terminated after 1.32799999999997seconds
+2021-05-13 08:48:26 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.55; Cab: 1.54; Car: 
+   2.66; Canth: 2.71; Cbrown: 1.80; Cw: 2.24; Cm: 1.17; residual: 1.16 
+2021-05-13 08:48:26 INFO   [message] : 
+   Running 1000 more iterations ( 2001 to 3000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7341.514 7346.502 7385.6 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7416.809 7432.34 7391.515 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7464.934 7460.088 7413.552 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7487.273 7461.407 7416.648 . Please wait! runMCMC terminated after 2.17499999999995seconds
+2021-05-13 08:48:26 INFO   [message] : 
+   The following parameters exceed threshold: N: 2.11; Cab: 1.86; Car: 
+   1.81; Cbrown: 5.28; Cw: 1.89; Cm: 2.49; residual: 1.62 
+2021-05-13 08:48:26 INFO   [message] : 
+   Running 1000 more iterations ( 3001 to 4000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7505.137 7461.407 7450.463 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7577.438 7504.704 7540.055 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7674.725 7814.84 7642.723 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7677.216 7857.591 7642.723 . Please wait! runMCMC terminated after 3.07899999999995seconds
+2021-05-13 08:48:27 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.32; Cab: 1.17; Car: 
+   1.87; Canth: 1.31; Cbrown: 1.24; Cw: 1.89; Cm: 1.14; residual: 1.12 
+2021-05-13 08:48:27 INFO   [message] : 
+   Running 1000 more iterations ( 4001 to 5000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7729.827 7888.008 7671.693 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7873.833 7888.008 7721.629 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7887.441 7888.008 7874.555 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7911.687 7901.62 7874.555 . Please wait! runMCMC terminated after 3.86199999999997seconds
+2021-05-13 08:48:28 INFO   [message] : 
+   The following parameters exceed threshold: N: 2.21; Car: 2.15; Canth: 
+   1.20; Cbrown: 1.14; Cw: 2.46; Cm: 1.94; residual: 1.16 
+2021-05-13 08:48:28 INFO   [message] : 
+   Running 1000 more iterations ( 5001 to 6000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7911.687 7956.771 7898.545 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7911.687 8000.474 7908.11 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7941.129 8002.283 7967.562 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7941.129 8077.177 7967.562 . Please wait! runMCMC terminated after 4.64400000000001seconds
+2021-05-13 08:48:29 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.60; Cab: 1.33; Car: 
+   2.53; Canth: 1.54; Cbrown: 1.11; Cw: 1.66; Cm: 2.05; residual: 1.18 
+2021-05-13 08:48:29 INFO   [message] : 
+   Running 1000 more iterations ( 6001 to 7000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8121.596 8077.177 8025.243 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8148.447 8099.232 8109.009 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8148.447 8140.748 8166.214 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8148.447 8140.748 8174.173 . Please wait! runMCMC terminated after 5.43600000000004seconds
+2021-05-13 08:48:30 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.26; Cab: 1.52; Car: 
+   1.68; Canth: 1.31; Cbrown: 1.21; Cw: 1.18; Cm: 1.35 
+2021-05-13 08:48:30 INFO   [message] : 
+   Running 1000 more iterations ( 7001 to 8000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8154.201 8140.748 8176.636 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8154.201 8140.748 8184.566 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8156.481 8156.618 8184.566 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8156.334 8156.618 8184.566 . Please wait! runMCMC terminated after 6.23900000000003seconds
+2021-05-13 08:48:31 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.20; Cab: 1.19; Car: 
+   1.86; Canth: 1.13; Cbrown: 1.94; Cw: 1.37; Cm: 1.25; residual: 1.11 
+2021-05-13 08:48:31 INFO   [message] : 
+   Running 1000 more iterations ( 8001 to 9000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8174.856 8180.806 8186.334 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8177.925 8187.562 8186.334 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8197.565 8187.562 8186.909 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8196.836 8187.562 8192.825 . Please wait! runMCMC terminated after 7.03200000000004seconds
+2021-05-13 08:48:31 INFO   [message] : 
+   The following parameters exceed threshold: Car: 1.59; Cbrown: 1.25; Cw: 
+   1.64; Cm: 1.16; residual: 1.15 
+2021-05-13 08:48:31 INFO   [message] : 
+   Running 1000 more iterations ( 9001 to 10000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8196.716 8187.562 8193.213 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8194.56 8187.562 8193.213 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8193.977 8197.575 8193.213 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8195.231 8197.575 8192.843 . Please wait! runMCMC terminated after 7.86600000000004seconds
+2021-05-13 08:48:32 INFO   [message] : 
+   The following parameters exceed threshold: Car: 1.46; Canth: 1.11; 
+   Cbrown: 1.25; Cw: 2.32; Cm: 1.18; residual: 1.25 
+2021-05-13 08:48:32 INFO   [message] : 
+   Running 1000 more iterations ( 10001 to 11000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8194.902 8197.575 8196.081 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8194.623 8198.511 8195.436 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8194.623 8198.511 8194.914 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8197.918 8197.488 8194.914 . Please wait! runMCMC terminated after 8.74200000000002seconds
+2021-05-13 08:48:33 INFO   [message] : 
+   The following parameters exceed threshold: Car: 1.48; Canth: 1.13; Cw: 
+   2.51; Cm: 1.21; residual: 1.37 
+2021-05-13 08:48:33 INFO   [message] : 
+   Running 1000 more iterations ( 11001 to 12000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8199.94 8197.488 8195.818 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8199.94 8197.488 8196.917 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8199.524 8197.18 8196.917 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8197.503 8197.96 8196.049 . Please wait! runMCMC terminated after 9.58100000000002seconds
+2021-05-13 08:48:34 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.12; Car: 1.64; Canth: 
+   1.11; Cw: 2.48; Cm: 1.20; residual: 1.31 
+2021-05-13 08:48:34 INFO   [message] : 
+   Running 1000 more iterations ( 12001 to 13000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8198.357 8199.823 8197.519 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8198.293 8199.233 8195.071 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8199.247 8196.601 8196.053 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8199.247 8196.601 8196.053 . Please wait! runMCMC terminated after 10.455seconds
+2021-05-13 08:48:35 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.24; Cab: 1.14; Car: 
+   1.67; Cbrown: 1.12; Cw: 2.25; residual: 1.29 
+2021-05-13 08:48:35 INFO   [message] : 
+   Running 1000 more iterations ( 13001 to 14000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8197.57 8196.309 8195.22 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8196.153 8197.85 8197.602 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8194.105 8197.152 8193.471 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8197.164 8199.367 8196.886 . Please wait! runMCMC terminated after 11.365seconds
+2021-05-13 08:48:36 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.23; Cab: 1.36; Car: 
+   1.32; Canth: 1.15; Cbrown: 1.28; Cw: 2.02; residual: 1.55 
+2021-05-13 08:48:36 INFO   [message] : 
+   Running 1000 more iterations ( 14001 to 15000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8197.164 8199.898 8196.754 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8196.602 8199.363 8192.541 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8195.675 8198.648 8199.516 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8197.627 8198.621 8199.516 . Please wait! runMCMC terminated after 12.541seconds
+2021-05-13 08:48:37 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.32; Cab: 1.44; Canth: 
+   1.49; Cbrown: 1.45; Cw: 1.67; residual: 1.86 
+2021-05-13 08:48:37 INFO   [message] : 
+   Running 1000 more iterations ( 15001 to 16000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8198.867 8196.645 8199.119 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8198.847 8192.833 8201.208 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8199.867 8195.819 8198.137 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8199.628 8196.05 8198.215 . Please wait! runMCMC terminated after 13.495seconds
+2021-05-13 08:48:38 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.27; Cab: 1.46; Car: 
+   1.18; Canth: 1.95; Cbrown: 1.63; Cw: 1.52; residual: 1.93 
+2021-05-13 08:48:38 INFO   [message] : 
+   Running 1000 more iterations ( 16001 to 17000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8198.988 8190.407 8199.376 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8199.928 8197.243 8200.858 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8199.496 8197.655 8199.765 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8196.546 8197.509 8199.851 . Please wait! runMCMC terminated after 14.442seconds
+2021-05-13 08:48:39 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.24; Cab: 1.26; Car: 
+   1.30; Canth: 1.56; Cbrown: 1.35; Cw: 1.41; residual: 1.68 
+2021-05-13 08:48:39 INFO   [message] : 
+   Running 1000 more iterations ( 17001 to 18000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8197.474 8191.463 8194.425 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8199.329 8197.558 8194.693 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8196.912 8198.625 8199.841 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8197.191 8197.094 8197.356 . Please wait! runMCMC terminated after 15.415seconds
+2021-05-13 08:48:40 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.22; Cab: 1.29; Car: 
+   1.20; Canth: 1.24; Cbrown: 1.25; Cw: 1.32; residual: 1.75 
+2021-05-13 08:48:40 INFO   [message] : 
+   Running 1000 more iterations ( 18001 to 19000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8196.425 8198.777 8196.974 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8199.815 8197.937 8198.397 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8196.392 8195.921 8199.204 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8195.629 8197.47 8199.87 . Please wait! runMCMC terminated after 16.4229999999999seconds
+2021-05-13 08:48:41 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.25; Cab: 1.31; Car: 
+   1.25; Canth: 1.30; Cbrown: 1.25; Cw: 1.19; residual: 1.63 
+2021-05-13 08:48:41 INFO   [message] : 
+   Running 1000 more iterations ( 19001 to 20000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8196.31 8198.6 8198.41 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8195.387 8199.139 8198.916 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8197.174 8195.405 8199.271 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8198.57 8195.871 8196.628 . Please wait! runMCMC terminated after 17.4099999999999seconds
+2021-05-13 08:48:42 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.28; Cab: 1.24; Car: 
+   1.18; Canth: 1.24; Cbrown: 1.24; Cm: 1.10; residual: 1.48 
+2021-05-13 08:48:42 INFO   [message] : 
+   Running 1000 more iterations ( 20001 to 21000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8197.44 8200.115 8199.576 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8194.089 8191.184 8196.27 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8193.074 8195.998 8199.367 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8193.668 8191.848 8196.406 . Please wait! runMCMC terminated after 18.4699999999999seconds
+2021-05-13 08:48:43 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.12; Cab: 1.28; Car: 
+   1.19; Canth: 1.30; Cbrown: 1.25; residual: 1.32 
+2021-05-13 08:48:43 INFO   [message] : 
+   Running 1000 more iterations ( 21001 to 22000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8199.025 8199.004 8196.628 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8198.695 8197.329 8196.882 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8200.209 8199.893 8197.293 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8195.666 8196.296 8193.184 . Please wait! runMCMC terminated after 19.5179999999999seconds
+2021-05-13 08:48:44 INFO   [message] : 
+   The following parameters exceed threshold: Cab: 1.22; Car: 1.28; Canth: 
+   1.39; Cbrown: 1.15; Cm: 1.12; residual: 1.21 
+2021-05-13 08:48:44 INFO   [message] : 
+   Running 1000 more iterations ( 22001 to 23000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8194.582 8199.718 8196.96 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8196.486 8198.77 8198.144 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8198.808 8197.124 8196.709 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8197.518 8199.515 8198.863 . Please wait! runMCMC terminated after 20.6099999999999seconds
+2021-05-13 08:48:45 INFO   [message] : 
+   The following parameters exceed threshold: Cab: 1.12; Car: 1.22; Canth: 
+   1.33; Cbrown: 1.12; residual: 1.16 
+2021-05-13 08:48:45 INFO   [message] : 
+   Running 1000 more iterations ( 23001 to 24000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8198.597 8199.456 8199.422 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8197.231 8199.235 8198.667 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8199.674 8199.752 8196.753 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8198.725 8196.424 8193.84 . Please wait! runMCMC terminated after 21.7069999999999seconds
+2021-05-13 08:48:46 INFO   [message] : 
+   The following parameters exceed threshold: Car: 1.16; Canth: 1.34; 
+   Cbrown: 1.14; residual: 1.11 
+2021-05-13 08:48:46 INFO   [message] : 
+   Running 1000 more iterations ( 24001 to 25000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8195.263 8195.34 8199.865 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8193.685 8196.845 8196.703 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8195.988 8198.696 8193.879 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8199.631 8198.383 8195.34 . Please wait! runMCMC terminated after 22.764seconds
+2021-05-13 08:48:47 INFO   [message] : 
+   The following parameters exceed threshold: Car: 1.18; Canth: 1.35; 
+   Cbrown: 1.15; residual: 1.11 
+2021-05-13 08:48:47 INFO   [message] : 
+   Running 1000 more iterations ( 25001 to 26000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8200.251 8199.336 8197.683 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8196.816 8196.18 8196.807 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8197.353 8198.594 8199.772 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8197.227 8195.927 8197.023 . Please wait! runMCMC terminated after 23.874seconds
+2021-05-13 08:48:48 INFO   [message] : 
+   The following parameters exceed threshold: Car: 1.17; Canth: 1.36; 
+   residual: 1.11 
+2021-05-13 08:48:48 INFO   [message] : 
+   Running 1000 more iterations ( 26001 to 27000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8199.578 8196.159 8198.573 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8191.945 8197.137 8198.914 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8199.94 8199.294 8196.193 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8199.733 8198.836 8195.041 . Please wait! runMCMC terminated after 24.991seconds
+2021-05-13 08:48:50 INFO   [message] : 
+   The following parameters exceed threshold: Car: 1.12; Canth: 1.34 
+2021-05-13 08:48:50 INFO   [message] : 
+   Running 1000 more iterations ( 27001 to 28000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8199.532 8200.596 8201.393 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8198.232 8196.16 8200.087 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8199.651 8198.47 8197.855 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8198.445 8199.783 8195.609 . Please wait! runMCMC terminated after 26.14seconds
+2021-05-13 08:48:51 INFO   [message] : 
+   The following parameters exceed threshold: Canth: 1.30 
+2021-05-13 08:48:51 INFO   [message] : 
+   Running 1000 more iterations ( 28001 to 29000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8197.719 8193.886 8196.139 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8198.903 8198.537 8197.735 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8200.358 8197.51 8199.959 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8199.365 8196.637 8195.129 . Please wait! runMCMC terminated after 27.301seconds
+2021-05-13 08:48:52 INFO   [message] : 
+   The following parameters exceed threshold: Canth: 1.21 
+2021-05-13 08:48:52 INFO   [message] : 
+   Running 1000 more iterations ( 29001 to 30000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8192.728 8194.862 8199.116 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8197.784 8198.391 8198.591 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8197.739 8199.268 8198.603 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8200.173 8197.663 8200.073 . Please wait! runMCMC terminated after 28.561seconds
+2021-05-13 08:48:53 INFO   [message] : 
+   The following parameters exceed threshold: Canth: 1.17 
+2021-05-13 08:48:53 INFO   [message] : 
+   Running 1000 more iterations ( 30001 to 31000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8198.799 8197.942 8199.885 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8199.852 8199.267 8193.603 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8198.693 8198.164 8195.676 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8198.461 8194.026 8198.056 . Please wait! runMCMC terminated after 29.741seconds
+2021-05-13 08:48:54 INFO   [message] : 
+   The following parameters exceed threshold: Canth: 1.17 
+2021-05-13 08:48:54 INFO   [message] : 
+   Running 1000 more iterations ( 31001 to 32000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8198.261 8198.385 8199.299 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8200.428 8194.435 8200.036 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8199.579 8199.473 8194.888 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8197.574 8198.478 8197.382 . Please wait! runMCMC terminated after 30.896seconds
+2021-05-13 08:48:56 INFO   [message] : 
+   The following parameters exceed threshold: Canth: 1.13 
+2021-05-13 08:48:56 INFO   [message] : 
+   Running 1000 more iterations ( 32001 to 33000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8197.616 8198.593 8193.405 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8197.165 8200.947 8199.613 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8198.99 8197.674 8197.836 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8199.302 8196.708 8197.653 . Please wait! runMCMC terminated after 32.0289999999999seconds
+2021-05-13 08:48:57 INFO   [message] : 
+   239 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:48:57 INFO   [message] : 
+   Running 1000 more iterations ( 33001 to 34000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8200.015 8197.329 8197.587 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8197.414 8196.598 8196.554 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8199.247 8197.774 8200.47 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8194.188 8195.993 8199.937 . Please wait! runMCMC terminated after 33.1869999999999seconds
+2021-05-13 08:48:59 INFO   [message] : 
+   456 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:48:59 INFO   [message] : 
+   Running 1000 more iterations ( 34001 to 35000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8200.002 8197.041 8197.637 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8197.016 8198.074 8199.924 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8199.588 8196.705 8196.98 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8199.018 8196.43 8198.775 . Please wait! runMCMC terminated after 34.3379999999999seconds
+2021-05-13 08:49:00 INFO   [message] : 
+   The following parameters exceed threshold: Canth: 1.11 
+2021-05-13 08:49:00 INFO   [message] : 
+   Running 1000 more iterations ( 35001 to 36000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8199.403 8197.451 8198.717 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8201.173 8199.001 8198.301 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8197.548 8198.371 8198.366 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8199.235 8194.243 8200.907 . Please wait! runMCMC terminated after 35.4809999999999seconds
+2021-05-13 08:49:01 INFO   [message] : 
+   The following parameters exceed threshold: Canth: 1.12 
+2021-05-13 08:49:01 INFO   [message] : 
+   Running 1000 more iterations ( 36001 to 37000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8199.653 8198.22 8197.519 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8199.921 8196.515 8198.005 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8198.05 8198.866 8199.841 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8197.22 8199.657 8194.197 . Please wait! runMCMC terminated after 36.6409999999998seconds
+2021-05-13 08:49:02 INFO   [message] : 
+   252 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:49:02 INFO   [message] : 
+   Running 1000 more iterations ( 37001 to 38000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8193.73 8200.232 8196.169 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8200.352 8200.686 8196.829 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8198.74 8200.098 8196.423 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8199.959 8197.465 8198.065 . Please wait! runMCMC terminated after 37.8379999999999seconds
+2021-05-13 08:49:04 INFO   [message] : 
+   544 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:49:04 INFO   [message] : 
+   Running 1000 more iterations ( 38001 to 39000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8200.366 8195.651 8195.116 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8199.275 8200.37 8197.069 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8196.479 8200.233 8193.37 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8199.617 8200.233 8196.674 . Please wait! runMCMC terminated after 39.0329999999998seconds
+2021-05-13 08:49:06 INFO   [message] : 
+   1060 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:49:06 INFO   [message] : 
+   Running 1000 more iterations ( 39001 to 40000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8196.45 8198.678 8194.789 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8189.463 8197.596 8198.173 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8199.507 8199.393 8200.256 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8200.086 8198.069 8199.604 . Please wait! runMCMC terminated after 40.2699999999999seconds
+2021-05-13 08:49:07 INFO   [message] : 
+   1338 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:49:07 INFO   [message] : 
+   Running 1000 more iterations ( 40001 to 41000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8192.831 8197.32 8192.572 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8196.805 8198.598 8200.101 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8197.889 8200.106 8200.109 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8199.222 8199.234 8199.518 . Please wait! runMCMC terminated after 41.5059999999999seconds
+2021-05-13 08:49:09 INFO   [message] : 
+   1674 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:49:09 INFO   [message] : 
+   Running 1000 more iterations ( 41001 to 42000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8198.581 8195.819 8197.453 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8194.415 8199.312 8196.521 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8196.507 8196.369 8198.187 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8198.191 8197.161 8197.622 . Please wait! runMCMC terminated after 42.7279999999999seconds
+2021-05-13 08:49:11 INFO   [message] : 
+   1979 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:49:11 INFO   [message] : 
+   Running 1000 more iterations ( 42001 to 43000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8197.515 8196.616 8200.032 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8199.321 8200.068 8195.794 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8198.642 8199.525 8200.439 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8197.241 8198.067 8196.997 . Please wait! runMCMC terminated after 43.9649999999999seconds
+2021-05-13 08:49:12 INFO   [message] : 
+   2298 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:49:12 INFO   [message] : 
+   Running 1000 more iterations ( 43001 to 44000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8194.387 8196.01 8200.148 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8198.53 8195.092 8200.535 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8199.506 8198.125 8197.554 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8199.506 8198.572 8198.564 . Please wait! runMCMC terminated after 45.2019999999999seconds
+2021-05-13 08:49:14 INFO   [message] : 
+   2672 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:49:14 INFO   [message] : 
+   Running 1000 more iterations ( 44001 to 45000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8196.766 8199.732 8198.657 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8197.246 8194.336 8195.942 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8198.668 8198.97 8196.012 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8197.944 8199.183 8193.533 . Please wait! runMCMC terminated after 46.4569999999999seconds
+2021-05-13 08:49:16 INFO   [message] : 
+   3018 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:49:16 INFO   [message] : 
+   Running 1000 more iterations ( 45001 to 46000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8200.351 8193.02 8198.69 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8196.825 8200.151 8192.58 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8199.221 8192.227 8198.545 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8199.85 8197.576 8198.959 . Please wait! runMCMC terminated after 47.7069999999999seconds
+2021-05-13 08:49:18 INFO   [message] : 
+   3378 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:49:18 INFO   [message] : 
+   Running 1000 more iterations ( 46001 to 47000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8198.378 8197.165 8198.67 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8196.141 8199.209 8197.598 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8198.333 8199.877 8201.168 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8195.737 8199.88 8199.276 . Please wait! runMCMC terminated after 48.9309999999999seconds
+2021-05-13 08:49:19 INFO   [message] : 
+   3790 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:49:19 INFO   [message] : 
+   Running 1000 more iterations ( 47001 to 48000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8199.657 8197.026 8200.207 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8199.349 8198.062 8197.916 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8192.646 8194.995 8196.322 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8199.009 8199.513 8198.964 . Please wait! runMCMC terminated after 50.1779999999999seconds
+2021-05-13 08:49:21 INFO   [message] : 
+   3858 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:49:21 INFO   [message] : 
+   Running 1000 more iterations ( 48001 to 49000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8199.425 8197.187 8199.251 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8193.9 8199.694 8196.919 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8195.62 8193.141 8197.579 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8197.316 8195.161 8198.507 . Please wait! runMCMC terminated after 51.4259999999999seconds
+2021-05-13 08:49:23 INFO   [message] : 
+   4252 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:49:23 INFO   [message] : 
+   Running 1000 more iterations ( 49001 to 50000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8200.419 8196.817 8198.46 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8196.433 8194.379 8197.535 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8196.096 8198.006 8196.402 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8199.29 8198.284 8197.607 . Please wait! runMCMC terminated after 52.6699999999998seconds
+2021-05-13 08:49:25 INFO   [message] : 
+   4696 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:49:25 INFO   [message] : 
+   Running 1000 more iterations ( 50001 to 51000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8200.053 8198.108 8200.294 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8198.377 8195.386 8199.231 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8195.813 8196.233 8200.242 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8193.809 8198.553 8199.534 . Please wait! runMCMC terminated after 53.9179999999998seconds
+[1] "*** Calculating error stats ***"
+  |                                                          |                                                  |   1%[1] " "
+[1] " "
+[1] "*** Starting new inversion ***"
+[1] " "
+[1] " "
+[1] " "
+[1] "Inverting: BNL10403"
+2021-05-13 08:49:30 INFO   [message] : 
+   Running initial 2000 iterations. 
+2021-05-13 08:49:30 INFO   [message] : 
+   20 NA values in model output. Returning loglike = -1e+10 
+ Running DEzs-MCMC, chain  1 iteration 300 of 2001 . Current logp  5479.892 4559.201 6106.455 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 2001 . Current logp  6072.548 5971.898 6116.673 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 2001 . Current logp  6349.813 6363.795 6319.694 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1200 of 2001 . Current logp  6427.945 6429.463 6427.37 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1500 of 2001 . Current logp  6466.514 6468.248 6433.841 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1800 of 2001 . Current logp  6655.122 6560.441 6740.506 . Please wait!  Running DEzs-MCMC, chain  1 iteration 2001 of 2001 . Current logp  6973.623 6861.783 6841.52 . Please wait! runMCMC terminated after 1.69seconds
+2021-05-13 08:49:32 INFO   [message] : 
+   The following parameters exceed threshold: N: 2.57; Cab: 1.72; Canth: 
+   2.07; Cbrown: 1.31; Cw: 1.40; Cm: 2.29; residual: 1.10 
+2021-05-13 08:49:32 INFO   [message] : 
+   Running 1000 more iterations ( 2001 to 3000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7126.169 7159.477 6977.862 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7146.224 7159.477 7157.746 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7146.224 7173.382 7229.699 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7146.224 7173.382 7229.699 . Please wait! runMCMC terminated after 2.46000000000004seconds
+2021-05-13 08:49:32 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.41; Cab: 1.27; Canth: 
+   1.31; Cw: 1.39; Cm: 2.42 
+2021-05-13 08:49:32 INFO   [message] : 
+   Running 1000 more iterations ( 3001 to 4000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7260.733 7203.278 7381.442 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7447.534 7308.396 7459.404 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7487.533 7594.7 7511.153 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7487.533 7594.7 7529.166 . Please wait! runMCMC terminated after 3.25700000000006seconds
+2021-05-13 08:49:33 INFO   [message] : 
+   The following parameters exceed threshold: Cab: 4.28; Car: 1.55; Canth: 
+   1.43; Cbrown: 2.10; Cw: 2.09; Cm: 1.31; residual: 1.28 
+2021-05-13 08:49:33 INFO   [message] : 
+   Running 1000 more iterations ( 4001 to 5000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7487.533 7603.901 7650.815 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7693.266 7607.822 7738.553 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7769.186 7761.11 7843.484 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7797.153 8141.024 7852.977 . Please wait! runMCMC terminated after 4.03600000000006seconds
+2021-05-13 08:49:34 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.25; Cab: 1.64; Car: 
+   1.72; Canth: 1.24; Cbrown: 2.31; Cw: 1.45; Cm: 1.15 
+2021-05-13 08:49:34 INFO   [message] : 
+   Running 1000 more iterations ( 5001 to 6000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7959.521 8141.024 7890.983 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8129.558 8159.725 8008.77 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8129.558 8192.333 8022.808 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8159.894 8192.333 8104.452 . Please wait! runMCMC terminated after 4.86800000000005seconds
+2021-05-13 08:49:35 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.64; Cab: 1.50; Car: 
+   4.05; Canth: 1.19; Cbrown: 2.30; Cw: 1.20; Cm: 1.19 
+2021-05-13 08:49:35 INFO   [message] : 
+   Running 1000 more iterations ( 6001 to 7000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8275.284 8192.333 8158.477 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8275.284 8264.498 8266.393 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8275.284 8323.869 8291.003 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8280.311 8348.158 8291.003 . Please wait! runMCMC terminated after 5.77100000000007seconds
+2021-05-13 08:49:36 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.76; Cab: 1.41; Car: 
+   3.66; Canth: 1.23; Cbrown: 1.81; Cw: 1.16; Cm: 1.50 
+2021-05-13 08:49:36 INFO   [message] : 
+   Running 1000 more iterations ( 7001 to 8000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8313.009 8353.417 8290.241 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8334.829 8355.248 8295.204 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8371.76 8362.121 8364.799 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8371.76 8362.121 8402.467 . Please wait! runMCMC terminated after 6.66800000000006seconds
+2021-05-13 08:49:37 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.45; Cab: 1.17; Car: 
+   2.09; Canth: 1.25; Cbrown: 1.97; Cw: 1.13; Cm: 1.51 
+2021-05-13 08:49:37 INFO   [message] : 
+   Running 1000 more iterations ( 8001 to 9000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8433.268 8362.121 8418.29 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8440.975 8362.121 8433.609 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8440.975 8362.121 8433.609 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8440.975 8362.121 8433.609 . Please wait! runMCMC terminated after 7.5270000000001seconds
+2021-05-13 08:49:37 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.20; Car: 1.93; Cbrown: 
+   1.71; Cw: 1.34; Cm: 1.67 
+2021-05-13 08:49:38 INFO   [message] : 
+   Running 1000 more iterations ( 9001 to 10000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8445.031 8405.731 8433.609 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8472.522 8444.314 8450.179 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8482.103 8444.314 8475.021 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8482.103 8444.324 8475.102 . Please wait! runMCMC terminated after 8.38900000000012seconds
+2021-05-13 08:49:38 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.27; Cab: 1.27; Car: 
+   1.89; Cbrown: 1.30; Cw: 1.76; Cm: 1.67; residual: 1.22 
+2021-05-13 08:49:38 INFO   [message] : 
+   Running 1000 more iterations ( 10001 to 11000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8488.29 8461.12 8475.475 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8495.698 8503.382 8475.629 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8528.958 8513.937 8493.003 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8528.958 8513.937 8493.003 . Please wait! runMCMC terminated after 9.23200000000014seconds
+2021-05-13 08:49:39 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.39; Cab: 1.72; Car: 
+   1.46; Cw: 1.35; Cm: 1.36; residual: 1.15 
+2021-05-13 08:49:39 INFO   [message] : 
+   Running 1000 more iterations ( 11001 to 12000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8528.501 8527.539 8511.481 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8528.501 8527.539 8524.675 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8527.271 8527.539 8532.187 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8527.271 8527.539 8532.187 . Please wait! runMCMC terminated after 10.0950000000001seconds
+2021-05-13 08:49:40 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.30; Cab: 1.67; Car: 
+   1.13; Cw: 1.24; Cm: 1.22; residual: 1.14 
+2021-05-13 08:49:40 INFO   [message] : 
+   Running 1000 more iterations ( 12001 to 13000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8541.866 8531.161 8532.282 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8542.088 8531.161 8532.282 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8541.081 8530.794 8532.282 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8540.586 8530.794 8531.323 . Please wait! runMCMC terminated after 10.9590000000002seconds
+2021-05-13 08:49:41 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.32; Cab: 1.70; Cw: 1.21; 
+   Cm: 1.20; residual: 1.12 
+2021-05-13 08:49:41 INFO   [message] : 
+   Running 1000 more iterations ( 13001 to 14000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8542.037 8530.794 8537.5 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8543.376 8538.849 8540.134 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8545.235 8544.275 8540.137 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8545.235 8546.314 8540.137 . Please wait! runMCMC terminated after 11.8130000000002seconds
+2021-05-13 08:49:42 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.24; Cab: 1.63; Cbrown: 
+   1.16; Cw: 1.14; Cm: 1.15; residual: 1.11 
+2021-05-13 08:49:42 INFO   [message] : 
+   Running 1000 more iterations ( 14001 to 15000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8545.213 8546.318 8540.137 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.107 8546.285 8546.038 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8545.107 8544.403 8545.286 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8545.107 8544.403 8545.286 . Please wait! runMCMC terminated after 12.7370000000001seconds
+2021-05-13 08:49:43 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.12; Cab: 1.75; Cbrown: 
+   1.37; Cm: 1.15; residual: 1.18 
+2021-05-13 08:49:43 INFO   [message] : 
+   Running 1000 more iterations ( 15001 to 16000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8542.174 8543.71 8546.639 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8542.174 8540.368 8542.242 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8546.02 8545.265 8545.722 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8546.02 8546.614 8545.722 . Please wait! runMCMC terminated after 13.7010000000001seconds
+2021-05-13 08:49:44 INFO   [message] : 
+   The following parameters exceed threshold: Cab: 1.86; Canth: 1.14; 
+   residual: 1.13 
+2021-05-13 08:49:44 INFO   [message] : 
+   Running 1000 more iterations ( 16001 to 17000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8544.464 8546.271 8544.754 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8546.435 8545.415 8546.048 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8544.758 8545.334 8544.191 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8544.757 8545.334 8544.191 . Please wait! runMCMC terminated after 14.6930000000002seconds
+2021-05-13 08:49:45 INFO   [message] : 
+   The following parameters exceed threshold: Cab: 1.69; Canth: 1.11 
+2021-05-13 08:49:45 INFO   [message] : 
+   Running 1000 more iterations ( 17001 to 18000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8542.028 8542.254 8546.025 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8542.677 8544.95 8546.025 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8546.586 8546.303 8547.514 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8546.586 8546.047 8546.944 . Please wait! runMCMC terminated after 15.6340000000002seconds
+2021-05-13 08:49:46 INFO   [message] : 
+   The following parameters exceed threshold: Cab: 1.51; Car: 1.13; Canth: 
+   1.12; Cbrown: 1.12 
+2021-05-13 08:49:46 INFO   [message] : 
+   Running 1000 more iterations ( 18001 to 19000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8545.412 8545.15 8547.419 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.957 8546.33 8546.439 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8546.506 8546.193 8547.529 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8546.506 8545.182 8546.826 . Please wait! runMCMC terminated after 16.6410000000002seconds
+2021-05-13 08:49:47 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.15; Cab: 1.43; Car: 
+   1.21; Canth: 1.21; Cbrown: 1.27 
+2021-05-13 08:49:47 INFO   [message] : 
+   Running 1000 more iterations ( 19001 to 20000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8545.913 8546.672 8545.745 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.457 8545.843 8547.18 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8546.23 8545.552 8544.984 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8546.23 8545.568 8545.421 . Please wait! runMCMC terminated after 17.6320000000002seconds
+2021-05-13 08:49:48 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.18; Cab: 1.34; Car: 
+   1.24; Canth: 1.25; Cbrown: 1.78 
+2021-05-13 08:49:48 INFO   [message] : 
+   Running 1000 more iterations ( 20001 to 21000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8542.158 8543.791 8546.95 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8543.482 8542.435 8545.337 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8547.346 8544.223 8543.304 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8547.225 8546.669 8544.414 . Please wait! runMCMC terminated after 18.6390000000002seconds
+2021-05-13 08:49:49 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.23; Cab: 1.34; Car: 
+   1.24; Canth: 1.30; Cbrown: 1.65; Cw: 1.22 
+2021-05-13 08:49:49 INFO   [message] : 
+   Running 1000 more iterations ( 21001 to 22000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8545.012 8547.477 8547.355 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.449 8545.943 8546.557 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8547.035 8542.799 8548.322 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8545.422 8543.227 8548.322 . Please wait! runMCMC terminated after 19.6370000000002seconds
+2021-05-13 08:49:50 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.27; Cab: 1.24; Car: 
+   1.22; Canth: 1.30; Cbrown: 1.77; Cw: 1.26; Cm: 1.11; residual: 1.22 
+2021-05-13 08:49:50 INFO   [message] : 
+   Running 1000 more iterations ( 22001 to 23000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8546.264 8545.598 8545.749 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.907 8543.946 8547.632 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8543.844 8545.641 8546.924 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8544.261 8544.782 8547.342 . Please wait! runMCMC terminated after 20.7050000000002seconds
+2021-05-13 08:49:51 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.32; Cab: 1.16; Car: 
+   1.33; Canth: 1.33; Cbrown: 1.80; Cw: 1.37; Cm: 1.13; residual: 1.26 
+2021-05-13 08:49:51 INFO   [message] : 
+   Running 1000 more iterations ( 23001 to 24000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8542.748 8545.779 8544.645 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.409 8544.975 8545.565 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8547.566 8545.368 8544.433 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8546.094 8546.651 8546.387 . Please wait! runMCMC terminated after 21.7710000000001seconds
+2021-05-13 08:49:52 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.29; Cab: 1.13; Car: 
+   1.36; Canth: 1.41; Cbrown: 1.72; Cw: 1.25; Cm: 1.19; residual: 1.34 
+2021-05-13 08:49:52 INFO   [message] : 
+   Running 1000 more iterations ( 24001 to 25000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8540.138 8543.216 8544.406 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.599 8548.041 8542.492 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8545.907 8547.327 8541.523 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8546.232 8545.625 8542.898 . Please wait! runMCMC terminated after 22.8750000000001seconds
+2021-05-13 08:49:53 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.30; Cab: 1.10; Car: 
+   1.35; Canth: 1.35; Cbrown: 1.78; Cw: 1.24; Cm: 1.22; residual: 1.28 
+2021-05-13 08:49:53 INFO   [message] : 
+   Running 1000 more iterations ( 25001 to 26000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8547.087 8547.85 8544.932 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.045 8547.135 8546.287 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8546.269 8540.276 8544.236 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8544.383 8539.159 8544.736 . Please wait! runMCMC terminated after 23.9450000000001seconds
+2021-05-13 08:49:54 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.25; Cab: 1.11; Car: 
+   1.31; Canth: 1.27; Cbrown: 1.87; Cw: 1.22; Cm: 1.18; residual: 1.18 
+2021-05-13 08:49:54 INFO   [message] : 
+   Running 1000 more iterations ( 26001 to 27000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8545.433 8543.063 8543.197 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.844 8545.668 8546.103 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8545.466 8545.014 8547.624 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8543.597 8543.75 8545.686 . Please wait! runMCMC terminated after 25.0380000000001seconds
+2021-05-13 08:49:55 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.26; Car: 1.31; Canth: 
+   1.15; Cbrown: 1.99; Cw: 1.26; Cm: 1.22; residual: 1.12 
+2021-05-13 08:49:55 INFO   [message] : 
+   Running 1000 more iterations ( 27001 to 28000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8546.202 8548.913 8543.87 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8544.285 8544.07 8546.742 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8545.151 8541.061 8544.981 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8547.026 8541.584 8544.641 . Please wait! runMCMC terminated after 26.1400000000001seconds
+2021-05-13 08:49:56 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.32; Car: 1.21; Canth: 
+   1.11; Cbrown: 1.92; Cw: 1.24; Cm: 1.25; residual: 1.11 
+2021-05-13 08:49:56 INFO   [message] : 
+   Running 1000 more iterations ( 28001 to 29000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8547.409 8545.453 8545.81 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8546.792 8544.256 8544.434 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8542.938 8545.639 8546.78 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8542.81 8546.027 8546.674 . Please wait! runMCMC terminated after 27.2430000000001seconds
+2021-05-13 08:49:57 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.29; Car: 1.18; Cbrown: 
+   1.85; Cw: 1.28; Cm: 1.18 
+2021-05-13 08:49:57 INFO   [message] : 
+   Running 1000 more iterations ( 29001 to 30000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8544.802 8544.228 8545.7 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8544.636 8545.65 8545.983 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8540.999 8542.003 8543.218 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8545.34 8543.723 8545.279 . Please wait! runMCMC terminated after 28.3870000000001seconds
+2021-05-13 08:49:59 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.18; Car: 1.17; Cbrown: 
+   1.68; Cw: 1.27 
+2021-05-13 08:49:59 INFO   [message] : 
+   Running 1000 more iterations ( 30001 to 31000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8546.465 8546.443 8542.697 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.333 8544.021 8544.744 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8541.426 8543.397 8542.363 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8547.198 8542.91 8541.923 . Please wait! runMCMC terminated after 29.5080000000001seconds
+2021-05-13 08:50:00 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.16; Car: 1.13; Cbrown: 
+   1.63; Cw: 1.25 
+2021-05-13 08:50:00 INFO   [message] : 
+   Running 1000 more iterations ( 31001 to 32000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8546.804 8542.728 8543.278 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8543.357 8545.183 8543.624 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8547.265 8544.726 8544.984 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8546.454 8544.455 8543.461 . Please wait! runMCMC terminated after 30.7580000000001seconds
+2021-05-13 08:50:01 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.14; Car: 1.11; Cbrown: 
+   1.55; Cw: 1.23 
+2021-05-13 08:50:01 INFO   [message] : 
+   Running 1000 more iterations ( 32001 to 33000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8543.042 8547.914 8543.579 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.967 8544.789 8546.985 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8545.111 8544.097 8541.947 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8542.993 8544.428 8546.655 . Please wait! runMCMC terminated after 31.9090000000001seconds
+2021-05-13 08:50:02 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.11; Car: 1.11; Cbrown: 
+   1.47; Cw: 1.27 
+2021-05-13 08:50:02 INFO   [message] : 
+   Running 1000 more iterations ( 33001 to 34000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8544.354 8544.479 8546.885 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8547.816 8547.361 8546.448 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8546.471 8545.787 8544.496 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8545.478 8546.493 8541.128 . Please wait! runMCMC terminated after 33.0810000000001seconds
+2021-05-13 08:50:03 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.13; Cbrown: 1.42; Cw: 
+   1.29 
+2021-05-13 08:50:03 INFO   [message] : 
+   Running 1000 more iterations ( 34001 to 35000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8548.164 8546.969 8543.743 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8542.09 8545.316 8542.634 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8542.961 8545.11 8540.27 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8546.66 8546.048 8539.845 . Please wait! runMCMC terminated after 34.256seconds
+2021-05-13 08:50:05 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.39; Cw: 1.27 
+2021-05-13 08:50:05 INFO   [message] : 
+   Running 1000 more iterations ( 35001 to 36000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8545.973 8546.264 8544.813 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8544.027 8544.466 8542.297 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8544.456 8541.505 8545.89 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8548.076 8544.725 8546.752 . Please wait! runMCMC terminated after 35.416seconds
+2021-05-13 08:50:06 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.29; Cw: 1.30 
+2021-05-13 08:50:06 INFO   [message] : 
+   Running 1000 more iterations ( 36001 to 37000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8547.283 8546.329 8545.034 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.348 8545.253 8546.165 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8544.623 8543.991 8536.003 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8544.061 8545.889 8548.188 . Please wait! runMCMC terminated after 36.57seconds
+2021-05-13 08:50:07 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.23; Cw: 1.29 
+2021-05-13 08:50:07 INFO   [message] : 
+   Running 1000 more iterations ( 37001 to 38000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8547.538 8547.16 8541.264 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8541.235 8545.182 8546.397 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8546.76 8547.109 8546.451 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8546.827 8544.567 8543.745 . Please wait! runMCMC terminated after 37.746seconds
+2021-05-13 08:50:08 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.21; Cw: 1.26 
+2021-05-13 08:50:08 INFO   [message] : 
+   Running 1000 more iterations ( 38001 to 39000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8543.419 8547.988 8545.329 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8543.063 8547.199 8544.442 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8547.263 8546.458 8543.996 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8547.263 8544.782 8547.162 . Please wait! runMCMC terminated after 38.909seconds
+2021-05-13 08:50:09 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.15; Cw: 1.20 
+2021-05-13 08:50:09 INFO   [message] : 
+   Running 1000 more iterations ( 39001 to 40000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8544.464 8547.257 8546.799 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8543.697 8546.517 8545.59 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8544.318 8547.381 8545.688 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8543.505 8546.928 8547.894 . Please wait! runMCMC terminated after 40.066seconds
+2021-05-13 08:50:10 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.12; Cw: 1.16 
+2021-05-13 08:50:10 INFO   [message] : 
+   Running 1000 more iterations ( 40001 to 41000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8546.473 8546.561 8546.671 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8546.11 8546.804 8545.23 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8545.031 8545.934 8547.482 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8546.396 8544.059 8546.018 . Please wait! runMCMC terminated after 41.239seconds
+2021-05-13 08:50:12 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.11; Cw: 1.12 
+2021-05-13 08:50:12 INFO   [message] : 
+   Running 1000 more iterations ( 41001 to 42000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8544.958 8544.048 8542.599 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.217 8543.451 8544.535 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8544.426 8544.743 8541.209 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8545.029 8544.79 8545.662 . Please wait! runMCMC terminated after 42.4700000000001seconds
+2021-05-13 08:50:13 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.12; Cw: 1.13 
+2021-05-13 08:50:13 INFO   [message] : 
+   Running 1000 more iterations ( 42001 to 43000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8544.714 8543.628 8547.643 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8546.267 8541.101 8543.986 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8547.62 8542.425 8539.407 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8548.067 8546.428 8540.697 . Please wait! runMCMC terminated after 43.683seconds
+2021-05-13 08:50:14 INFO   [message] : 
+   The following parameters exceed threshold: Cbrown: 1.10; Cw: 1.16 
+2021-05-13 08:50:14 INFO   [message] : 
+   Running 1000 more iterations ( 43001 to 44000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8546.672 8546.021 8547.507 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8541.077 8539.24 8546.431 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8545.513 8540.207 8535.158 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8540.126 8546.737 8546.671 . Please wait! runMCMC terminated after 44.914seconds
+2021-05-13 08:50:15 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.16 
+2021-05-13 08:50:15 INFO   [message] : 
+   Running 1000 more iterations ( 44001 to 45000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8543.697 8544.157 8547.249 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.043 8543.858 8543.53 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8546.461 8547.252 8542.973 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8543.65 8546.832 8543.539 . Please wait! runMCMC terminated after 46.116seconds
+2021-05-13 08:50:17 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.18 
+2021-05-13 08:50:17 INFO   [message] : 
+   Running 1000 more iterations ( 45001 to 46000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8541.42 8544.641 8545.943 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.137 8544.2 8545.124 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8544.665 8546.509 8543.435 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8540.988 8546.02 8543.798 . Please wait! runMCMC terminated after 47.325seconds
+2021-05-13 08:50:18 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.15 
+2021-05-13 08:50:18 INFO   [message] : 
+   Running 1000 more iterations ( 46001 to 47000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8548.264 8544.409 8545.126 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8544.657 8546.206 8544.364 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8544.88 8548.379 8543.296 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8543.864 8545.694 8544.604 . Please wait! runMCMC terminated after 48.557seconds
+2021-05-13 08:50:19 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.13 
+2021-05-13 08:50:19 INFO   [message] : 
+   Running 1000 more iterations ( 47001 to 48000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8545.375 8544.391 8546.609 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.128 8546.768 8543.288 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8542.773 8544.953 8545.359 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8542.954 8546.136 8544.487 . Please wait! runMCMC terminated after 49.786seconds
+2021-05-13 08:50:20 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.14 
+2021-05-13 08:50:20 INFO   [message] : 
+   Running 1000 more iterations ( 48001 to 49000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8544.422 8547.396 8544.759 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8546.608 8543.436 8546.149 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8542.885 8545.121 8545.5 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8542.859 8545.794 8545.669 . Please wait! runMCMC terminated after 51.05seconds
+2021-05-13 08:50:22 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.14 
+2021-05-13 08:50:22 INFO   [message] : 
+   Running 1000 more iterations ( 49001 to 50000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8544.103 8543.455 8546.943 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8548.135 8543.921 8547.2 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8544.543 8548.118 8547.083 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8544.824 8546.825 8546.298 . Please wait! runMCMC terminated after 52.2550000000001seconds
+2021-05-13 08:50:23 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.11 
+2021-05-13 08:50:23 INFO   [message] : 
+   Running 1000 more iterations ( 50001 to 51000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8545.759 8546.924 8546.494 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8546.943 8546.985 8542.461 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8545.071 8547.117 8542.806 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8544.512 8543.933 8544.315 . Please wait! runMCMC terminated after 53.619seconds
+2021-05-13 08:50:24 INFO   [message] : 
+   The following parameters exceed threshold: Cw: 1.10 
+2021-05-13 08:50:24 INFO   [message] : 
+   Running 1000 more iterations ( 51001 to 52000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8545.302 8544.448 8543.157 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8547.003 8541.094 8546.618 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8547.068 8546.339 8546.417 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8544.534 8543.984 8547.155 . Please wait! runMCMC terminated after 54.861seconds
+2021-05-13 08:50:26 INFO   [message] : 
+   362 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:50:26 INFO   [message] : 
+   Running 1000 more iterations ( 52001 to 53000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8546.002 8543.665 8541.369 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8547.266 8545.447 8548.333 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8544.134 8545.763 8541.357 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8546.631 8545.419 8545.655 . Please wait! runMCMC terminated after 56.118seconds
+2021-05-13 08:50:28 INFO   [message] : 
+   353 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:50:28 INFO   [message] : 
+   Running 1000 more iterations ( 53001 to 54000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8544.875 8546.344 8544.684 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8546.096 8539.676 8545.972 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8547.877 8542.026 8547.219 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8547.771 8534.987 8546.703 . Please wait! runMCMC terminated after 57.391seconds
+2021-05-13 08:50:29 INFO   [message] : 
+   752 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:50:29 INFO   [message] : 
+   Running 1000 more iterations ( 54001 to 55000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8548.067 8546.969 8542.996 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8543.33 8547.341 8545.37 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8541.159 8546.13 8546.05 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8544.956 8546.784 8548.107 . Please wait! runMCMC terminated after 58.701seconds
+2021-05-13 08:50:31 INFO   [message] : 
+   1116 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:50:31 INFO   [message] : 
+   Running 1000 more iterations ( 55001 to 56000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8542.522 8541.442 8546.939 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8544.13 8543.976 8546.217 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8547.61 8546.301 8546.624 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8543.826 8545.596 8547.962 . Please wait! runMCMC terminated after 59.987seconds
+2021-05-13 08:50:33 INFO   [message] : 
+   1494 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:50:33 INFO   [message] : 
+   Running 1000 more iterations ( 56001 to 57000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8546.819 8541.524 8546.509 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.333 8544.047 8545.98 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8545.85 8545.26 8544.776 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8546.122 8545.396 8545.564 . Please wait! runMCMC terminated after 61.42seconds
+2021-05-13 08:50:35 INFO   [message] : 
+   1931 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:50:35 INFO   [message] : 
+   Running 1000 more iterations ( 57001 to 58000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8543.259 8547.239 8543.936 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.768 8541.094 8543.592 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8541.453 8545.515 8545.472 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8539.33 8547.178 8545.382 . Please wait! runMCMC terminated after 62.6729999999999seconds
+2021-05-13 08:50:37 INFO   [message] : 
+   2336 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:50:37 INFO   [message] : 
+   Running 1000 more iterations ( 58001 to 59000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8545.747 8542.242 8544.104 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8539.643 8546.87 8543.3 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8545.982 8546.666 8542.584 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8542.321 8544.918 8538.378 . Please wait! runMCMC terminated after 63.9799999999999seconds
+2021-05-13 08:50:39 INFO   [message] : 
+   2362 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:50:39 INFO   [message] : 
+   Running 1000 more iterations ( 59001 to 60000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8545.324 8547.421 8546.354 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8545.752 8546.387 8547.722 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8546.568 8543.773 8546.594 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8547.708 8545.026 8544.34 . Please wait! runMCMC terminated after 65.2509999999999seconds
+2021-05-13 08:50:41 INFO   [message] : 
+   2831 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:50:41 INFO   [message] : 
+   Running 1000 more iterations ( 60001 to 61000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8548.158 8543.444 8545.24 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8547.972 8545.671 8542.06 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8545.14 8545.594 8538.956 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8546.252 8543.667 8547.37 . Please wait! runMCMC terminated after 66.538seconds
+2021-05-13 08:50:43 INFO   [message] : 
+   3270 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:50:43 INFO   [message] : 
+   Running 1000 more iterations ( 61001 to 62000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8545.289 8542.501 8543.767 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8543.959 8546.864 8543.823 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8542.563 8546.637 8546.061 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8544.75 8540.942 8544.057 . Please wait! runMCMC terminated after 67.846seconds
+2021-05-13 08:50:45 INFO   [message] : 
+   3723 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:50:45 INFO   [message] : 
+   Running 1000 more iterations ( 62001 to 63000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8546.813 8543.511 8545.079 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8547.297 8544.769 8546.495 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8546.784 8542.485 8541.938 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8544.185 8542.357 8545.219 . Please wait! runMCMC terminated after 69.144seconds
+2021-05-13 08:50:46 INFO   [message] : 
+   3811 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:50:46 INFO   [message] : 
+   Running 1000 more iterations ( 63001 to 64000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8545.985 8546.451 8548.037 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8546.428 8547.785 8547.693 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8541.123 8547.299 8542.24 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8544.321 8545.293 8547.35 . Please wait! runMCMC terminated after 70.455seconds
+2021-05-13 08:50:48 INFO   [message] : 
+   4284 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:50:48 INFO   [message] : 
+   Running 1000 more iterations ( 64001 to 65000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8534.733 8545.744 8546.571 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8547.101 8543.014 8545.405 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8544.879 8548.34 8546.819 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8543.452 8542.217 8546.211 . Please wait! runMCMC terminated after 71.766seconds
+2021-05-13 08:50:50 INFO   [message] : 
+   4771 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:50:50 INFO   [message] : 
+   Running 1000 more iterations ( 65001 to 66000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8544.416 8545.809 8541.303 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8546.902 8545.256 8547.471 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8547.258 8546.285 8545.56 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8546.814 8542.605 8548.216 . Please wait! runMCMC terminated after 73.1999999999999seconds
+2021-05-13 08:50:52 INFO   [message] : 
+   4871 samples after burnin is less than target 5000 . Resuming sampling. 
+2021-05-13 08:50:52 INFO   [message] : 
+   Running 1000 more iterations ( 66001 to 67000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  8544.88 8545.905 8544.298 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  8542.681 8544.395 8544.262 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  8544.364 8546.626 8545.335 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  8544.246 8543.357 8544.907 . Please wait! runMCMC terminated after 74.529seconds
+[1] "*** Calculating error stats ***"
+[1] " "
+[1] " "
+[1] "*** Starting new inversion ***"
+[1] " "
+[1] " "
+[1] " "
+[1] "Inverting: BNL11062"
+2021-05-13 08:50:58 INFO   [message] : 
+   Running initial 2000 iterations. 
+ Running DEzs-MCMC, chain  1 iteration 300 of 2001 . Current logp  4927.117 5313.062 4206.418 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 2001 . Current logp  5728.031 5552.302 5854.9 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 2001 . Current logp  6073.206 5896.273 6139.392 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1200 of 2001 . Current logp  6203.995 6140.966 6181.54 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1500 of 2001 . Current logp  6235.006 6256.251 6227.36 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1800 of 2001 . Current logp  6313.689 6317.822 6245.38 . Please wait!  Running DEzs-MCMC, chain  1 iteration 2001 of 2001 . Current logp  6727.061 6321.153 6322.587 . Please wait! runMCMC terminated after 1.452seconds
+2021-05-13 08:51:00 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.59; Cab: 1.36; Car: 
+   1.37; Canth: 1.39; Cbrown: 5.22; Cw: 2.05; Cm: 2.15; residual: 1.33 
+2021-05-13 08:51:00 INFO   [message] : 
+   Running 1000 more iterations ( 2001 to 3000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  6747.62 6670.885 6614.308 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  6908.516 6892.135 6614.308 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  6968.989 6905.43 6861.436 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  6968.989 6905.43 6891.507 . Please wait! runMCMC terminated after 2.22899999999998seconds
+2021-05-13 08:51:00 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.21; Cab: 1.56; Car: 
+   2.89; Canth: 1.71; Cbrown: 1.16; Cw: 1.32; Cm: 1.24; residual: 1.44 
+2021-05-13 08:51:00 INFO   [message] : 
+   Running 1000 more iterations ( 3001 to 4000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7009.781 7017.167 7029.482 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7009.781 7018.479 7029.482 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7076.041 7018.479 7067.348 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7077.412 7048.952 7067.348 . Please wait! runMCMC terminated after 2.89499999999998seconds
+2021-05-13 08:51:01 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.36; Cab: 1.53; Car: 
+   1.39; Canth: 1.30; Cbrown: 1.58; Cw: 2.49; Cm: 1.59; residual: 1.61 
+2021-05-13 08:51:01 INFO   [message] : 
+   Running 1000 more iterations ( 4001 to 5000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7087.871 7059.567 7067.348 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7089.947 7117.269 7067.348 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7146.736 7152.434 7111.524 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7145.889 7152.434 7111.976 . Please wait! runMCMC terminated after 3.66800000000001seconds
+2021-05-13 08:51:02 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.31; Cab: 1.55; Car: 
+   1.69; Canth: 1.94; Cbrown: 1.78; Cw: 2.82; Cm: 1.90; residual: 1.26 
+2021-05-13 08:51:02 INFO   [message] : 
+   Running 1000 more iterations ( 5001 to 6000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7160.189 7181.947 7126.918 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7177.667 7183.135 7170.393 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7202.925 7183.135 7208.393 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7202.925 7183.135 7219.093 . Please wait! runMCMC terminated after 4.48899999999998seconds
+2021-05-13 08:51:03 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.52; Cab: 1.18; Car: 
+   1.49; Canth: 1.45; Cw: 2.52; Cm: 2.43; residual: 1.26 
+2021-05-13 08:51:03 INFO   [message] : 
+   Running 1000 more iterations ( 6001 to 7000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7204.899 7247.602 7219.093 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7244.792 7250.56 7230.097 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7250.761 7256.066 7253.585 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7255.394 7256.066 7253.585 . Please wait! runMCMC terminated after 5.43599999999998seconds
+2021-05-13 08:51:04 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.19; Cab: 1.21; Car: 
+   1.16; Canth: 1.29; Cw: 1.61; Cm: 1.43; residual: 1.15 
+2021-05-13 08:51:04 INFO   [message] : 
+   Running 1000 more iterations ( 7001 to 8000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7293.825 7256.066 7254.299 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7295.642 7283.286 7263.876 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7295.642 7292.285 7263.876 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7295.642 7292.285 7285.683 . Please wait! runMCMC terminated after 6.20399999999995seconds
+2021-05-13 08:51:04 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.13; Cab: 1.12; Canth: 
+   1.35; Cm: 1.17; residual: 1.24 
+2021-05-13 08:51:04 INFO   [message] : 
+   Running 1000 more iterations ( 8001 to 9000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7298.172 7292.285 7293.033 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7301.459 7292.285 7297.212 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7304.946 7292.285 7313.304 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7305.521 7292.285 7316.955 . Please wait! runMCMC terminated after 6.96599999999995seconds
+2021-05-13 08:51:05 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.15; Cm: 1.21; residual: 
+   1.17 
+2021-05-13 08:51:05 INFO   [message] : 
+   Running 1000 more iterations ( 9001 to 10000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7343.638 7298.691 7350.313 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7343.322 7306.323 7359.158 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7355.367 7309.562 7364.837 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7424.872 7322.548 7364.837 . Please wait! runMCMC terminated after 7.72699999999998seconds
+2021-05-13 08:51:06 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.45; Cab: 1.15; Canth: 
+   1.21; Cw: 1.12; Cm: 1.50; residual: 1.14 
+2021-05-13 08:51:06 INFO   [message] : 
+   Running 1000 more iterations ( 10001 to 11000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7464.718 7322.548 7364.361 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7493.199 7458.671 7500.595 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7493.199 7474.587 7518.363 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7493.199 7474.587 7518.363 . Please wait! runMCMC terminated after 8.49299999999994seconds
+2021-05-13 08:51:07 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.51; Cab: 1.16; Canth: 
+   1.13; Cw: 1.40; Cm: 1.68; residual: 1.15 
+2021-05-13 08:51:07 INFO   [message] : 
+   Running 1000 more iterations ( 11001 to 12000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7491.951 7505.865 7520.353 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7500.533 7519.298 7522.082 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7507.958 7521.923 7522.687 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7507.958 7521.923 7522.687 . Please wait! runMCMC terminated after 9.36399999999992seconds
+2021-05-13 08:51:08 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.51; Cab: 1.12; Cw: 1.63; 
+   Cm: 1.52; residual: 1.44 
+2021-05-13 08:51:08 INFO   [message] : 
+   Running 1000 more iterations ( 12001 to 13000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7512.032 7524.748 7522.687 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7519.593 7524.787 7520.716 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7519.593 7522.337 7521.712 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7519.593 7522.656 7521.712 . Please wait! runMCMC terminated after 10.2769999999999seconds
+2021-05-13 08:51:08 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.37; Cbrown: 1.19; Cw: 
+   1.69; Cm: 1.31; residual: 1.62 
+2021-05-13 08:51:08 INFO   [message] : 
+   Running 1000 more iterations ( 13001 to 14000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7519.593 7522.656 7521.712 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7519.565 7522.656 7521.712 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7519.565 7522.656 7521.712 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7521.706 7519.249 7521.712 . Please wait! runMCMC terminated after 11.1389999999999seconds
+2021-05-13 08:51:09 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.34; Cbrown: 1.50; Cw: 
+   1.63; Cm: 1.12; residual: 2.02 
+2021-05-13 08:51:09 INFO   [message] : 
+   Running 1000 more iterations ( 14001 to 15000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7521.529 7518.917 7521.911 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7521.757 7518.955 7522.248 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7525.93 7518.955 7522.248 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7525.93 7518.955 7522.248 . Please wait! runMCMC terminated after 12.0169999999999seconds
+2021-05-13 08:51:10 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.32; Cbrown: 1.96; Cw: 
+   1.59; residual: 2.30 
+2021-05-13 08:51:10 INFO   [message] : 
+   Running 1000 more iterations ( 15001 to 16000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7525.819 7523.337 7523.385 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7526.985 7526.562 7523.385 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7526.985 7527 7527.566 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7526.985 7527 7527.566 . Please wait! runMCMC terminated after 12.9149999999999seconds
+2021-05-13 08:51:11 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.16; Cbrown: 1.69; Cw: 
+   1.45; residual: 2.27 
+2021-05-13 08:51:11 INFO   [message] : 
+   Running 1000 more iterations ( 16001 to 17000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7527.105 7526.984 7524.132 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7528.292 7526.733 7525.991 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7527.873 7529.242 7527.621 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7527.085 7529.242 7527.621 . Please wait! runMCMC terminated after 13.8459999999999seconds
+2021-05-13 08:51:12 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.19; Canth: 1.10; Cbrown: 
+   1.54; Cw: 1.41; residual: 1.98 
+2021-05-13 08:51:12 INFO   [message] : 
+   Running 1000 more iterations ( 17001 to 18000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7527.116 7529.242 7527.247 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7527.116 7529.242 7526.038 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7526.53 7529.242 7526.577 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7526.631 7529.242 7526 . Please wait! runMCMC terminated after 14.7749999999999seconds
+2021-05-13 08:51:13 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.32; Canth: 1.11; Cbrown: 
+   1.53; Cw: 1.36; Cm: 1.11; residual: 1.91 
+2021-05-13 08:51:13 INFO   [message] : 
+   Running 1000 more iterations ( 18001 to 19000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7525.462 7527.382 7527.292 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7521.882 7527.293 7524.111 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7522.35 7528.008 7523 . Please wait!  Running DEzs-MCMC, chain  1 iteration 1002 of 1002 . Current logp  7527.433 7528.008 7524.724 . Please wait! runMCMC terminated after 15.7459999999999seconds
+2021-05-13 08:51:14 INFO   [message] : 
+   The following parameters exceed threshold: N: 1.40; Car: 1.10; Canth: 
+   1.12; Cbrown: 1.48; Cw: 1.35; Cm: 1.19; residual: 1.87 
+2021-05-13 08:51:14 INFO   [message] : 
+   Running 1000 more iterations ( 19001 to 20000 ). 
+ Running DEzs-MCMC, chain  1 iteration 300 of 1002 . Current logp  7525.634 7528.202 7524.724 . Please wait!  Running DEzs-MCMC, chain  1 iteration 600 of 1002 . Current logp  7521.905 7526.701 7527.347 . Please wait!  Running DEzs-MCMC, chain  1 iteration 900 of 1002 . Current logp  7525.032 7525.918 7528.225 . Please wait! 
