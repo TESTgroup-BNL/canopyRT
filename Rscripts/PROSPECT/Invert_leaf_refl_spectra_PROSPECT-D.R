@@ -80,7 +80,7 @@ spectra <- droplevels(dataset[,spec_waves])
 #--------------------------------------------------------------------------------------------------#
 ## Output directory
 dataID <- "Panama2016"
-out.dir <- file.path(here::here(),"R_Output",dataID,"PROSPECTD.2",'Range_400_700nm')
+out.dir <- file.path(here::here(),"R_Output",dataID,"PROSPECTD",'Range_400_700nm')
 if (! file.exists(out.dir)) dir.create(out.dir,recursive=TRUE)
 #--------------------------------------------------------------------------------------------------#
 
