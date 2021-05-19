@@ -1,0 +1,17 @@
+Number_Header_Rows,1,
+ColumnName_Row_Number,1,
+Column_Delimiter,na,
+Datafile_ColumnName,Datafile_Measure,Datafile_Units
+SampleID,"Unique sample identifier of leaf sample. Corresponds to other physiological,  chemical or structural data, where measured.",N/A
+LMA,Leaf dry mass per unit area,g m-2
+Cmass,Carbon content of leaf by dry mass,mg g-1
+Nmass,Nitrogen content of leaf by dry mass,mg g-1
+CNratio,Carbon:nitrogen ratio,N/A
+Carea,Carbon content of leaf per unit leaf area,g m-2
+Narea,Nitrogen content of leaf per unit leaf area,g m-2
+Site,Identifier of the study site where samples are collected,N/A
+Date,Date of sample collection as YYYYMMDD,YYYYMMDD
+Species,Full species name,N/A
+leafAge,"Relative age of leaf based on leaf size, color, texture, damage and position on the branch. ",N/A
+canopyPosition,"Relative position of sample within canopy, described as Lower, Mid or Upper",N/A
+lightExposure,General leaf light conditions based on canopyPosition,N/A

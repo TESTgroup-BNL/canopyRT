@@ -1,0 +1,530 @@
+SampleID,Site,Latitude,Longitude,Sample_Type,Date,Species_Number,Species_ID,Full_Species_Name,Genus,Species,Leaf_Age,Canopy_Position,Light_Exposure
+BNL12601,FLMM,18.387864,-66.028765,Chem,20170306,45,GUA-OFF,Guaiacum officinale,Guaiacum,officinale,Senescent ,Upper,Sunlit
+BNL12601T,FLMM,18.387864,-66.028765,Chem,20170306,45,GUA-OFF,Guaiacum officinale,Guaiacum,officinale,Senescent ,Upper,Sunlit
+BNL12602,FLMM,18.387864,-66.028765,Chem,20170306,67,QUA-CYN,Quadrella cynophallophora,Quadrella,cynophallophora,Young,Upper,Sunlit
+BNL12603,FLMM,18.387864,-66.028765,Chem,20170306,67,QUA-CYN,Quadrella cynophallophora,Quadrella,cynophallophora,Senescent ,Upper,Sunlit
+BNL12603T,FLMM,18.387864,-66.028765,Chem,20170306,67,QUA-CYN,Quadrella cynophallophora,Quadrella,cynophallophora,Senescent ,Upper,Sunlit
+BNL12604,FLMM,18.387864,-66.028765,Chem,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature,Upper,Sunlit
+BNL12604T,FLMM,18.387864,-66.028765,Chem,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature,Upper,Sunlit
+BNL12605,FLMM,18.387864,-66.028765,Chem,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Senescent ,Upper,Sunlit
+BNL12605T,FLMM,18.387864,-66.028765,Chem,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Senescent ,Upper,Sunlit
+BNL12606,FLMM,18.387864,-66.028765,Chem,20170306,101,PET-DOM,Petitia domingensis,Petitia,domingensis,Young,Upper,Sunlit
+BNL12606T,FLMM,18.387864,-66.028765,Chem,20170306,101,PET-DOM,Petitia domingensis,Petitia,domingensis,Young,Upper,Sunlit
+BNL12607,FLMM,18.387864,-66.028765,Chem,20170306,101,PET-DOM,Petitia domingensis,Petitia,domingensis,Mature,Upper,Sunlit
+BNL12607T,FLMM,18.387864,-66.028765,Chem,20170306,101,PET-DOM,Petitia domingensis,Petitia,domingensis,Mature,Upper,Sunlit
+BNL12608,FLMM,18.387864,-66.028765,Chem,20170306,101,PET-DOM,Petitia domingensis,Petitia,domingensis,Senescent ,Upper,Sunlit
+BNL12608T,FLMM,18.387864,-66.028765,Chem,20170306,101,PET-DOM,Petitia domingensis,Petitia,domingensis,Senescent ,Upper,Sunlit
+BNL12609,FLMM,18.387864,-66.028765,Chem,20170306,35,CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Mature,Upper,Sunlit
+BNL12609T,FLMM,18.387864,-66.028765,Chem,20170306,35,CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Mature,Upper,Sunlit
+BNL12610,FLMM,18.387864,-66.028765,Chem,20170306,35,CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Senescent ,Upper,Sunlit
+BNL12610T,FLMM,18.387864,-66.028765,Chem,20170306,35,CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Senescent ,Upper,Sunlit
+BNL12611,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Mature,Upper,Sunlit
+BNL12611T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Mature,Upper,Sunlit
+BNL12612,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Mature,Upper,Sunlit
+BNL12612T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Mature,Upper,Sunlit
+BNL12613,FLMM,18.387864,-66.028765,Chem,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Young-Mature,Upper,Sunlit
+BNL12613T,FLMM,18.387864,-66.028765,Chem,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Young-Mature,Upper,Sunlit
+BNL12614,FLMM,18.387864,-66.028765,Chem,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Mature,Upper,Sunlit
+BNL12614T,FLMM,18.387864,-66.028765,Chem,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Mature,Upper,Sunlit
+BNL12615,FLMM,18.387864,-66.028765,Chem,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Old,Upper,Sunlit
+BNL12615T,FLMM,18.387864,-66.028765,Chem,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Old,Upper,Sunlit
+BNL12616,FLMM,18.387864,-66.028765,Chem,20170306,29,BUC-BUC,Bucida buceras,Bucida,buceras,Old,Upper,Sunlit
+BNL12616T,FLMM,18.387864,-66.028765,Chem,20170306,29,BUC-BUC,Bucida buceras,Bucida,buceras,Old,Upper,Sunlit
+BNL12617,FLMM,18.387864,-66.028765,Chem,20170306,29,BUC-BUC,Bucida buceras,Bucida,buceras,Senescent ,Upper,Sunlit
+BNL12617T,FLMM,18.387864,-66.028765,Chem,20170306,29,BUC-BUC,Bucida buceras,Bucida,buceras,Senescent ,Upper,Sunlit
+BNL12618,FLMM,18.387864,-66.028765,Chem,20170306,27,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Young,Upper,Sunlit
+BNL12618T,FLMM,18.387864,-66.028765,Chem,20170306,27,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Young,Upper,Sunlit
+BNL12619,FLMM,18.387864,-66.028765,Chem,20170306,27,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Old,Upper,Sunlit
+BNL12619T,FLMM,18.387864,-66.028765,Chem,20170306,27,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Old,Upper,Sunlit
+BNL12620,FLMM,18.387864,-66.028765,Chem,20170306,27,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Old-epiphyll,Upper,Sunlit
+BNL12620T,FLMM,18.387864,-66.028765,Chem,20170306,27,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Old-epiphyll,Upper,Sunlit
+BNL12621,FLMM,18.387864,-66.028765,Chem,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature,Upper,Sunlit
+BNL12621T,FLMM,18.387864,-66.028765,Chem,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature,Upper,Sunlit
+BNL12622,FLMM,18.387864,-66.028765,Chem,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Old,Upper,Sunlit
+BNL12622T,FLMM,18.387864,-66.028765,Chem,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Old,Upper,Sunlit
+BNL12623,FLMM,18.387864,-66.028765,Chem,20170307,111,FIC-TRY,Ficus trigonata,Ficus,trigonata,Mature-Old,Upper,Sunlit
+BNL12623T,FLMM,18.387864,-66.028765,Chem,20170307,111,FIC-TRY,Ficus trigonata,Ficus,trigonata,Mature-Old,Upper,Sunlit
+BNL12624,FLMM,18.387864,-66.028765,Chem,20170307,111,FIC-TRY,Ficus trigonata,Ficus,trigonata,Old,Upper,Sunlit
+BNL12624T,FLMM,18.387864,-66.028765,Chem,20170307,111,FIC-TRY,Ficus trigonata,Ficus,trigonata,Old,Upper,Sunlit
+BNL12625,FLMM,18.387864,-66.028765,Chem,20170307,26-1,FIC-CIT,Ficus citrifolia,Ficus,citrifolia,Young-Mature,Lower,Shaded
+BNL12625T,FLMM,18.387864,-66.028765,Chem,20170307,26-1,FIC-CIT,Ficus citrifolia,Ficus,citrifolia,Young-Mature,Lower,Shaded
+BNL12626,FLMM,18.387864,-66.028765,Chem,20170307,26-1,FIC-CIT,Ficus citrifolia,Ficus,citrifolia,Young-Mature,Lower,Shaded
+BNL12626T,FLMM,18.387864,-66.028765,Chem,20170307,26-1,FIC-CIT,Ficus citrifolia,Ficus,citrifolia,Young-Mature,Lower,Shaded
+BNL12627,FLMM,18.387864,-66.028765,Chem,20170307,61,TRE-MIC,Trema micrantha,Trema,micrantha,Old,Lower,Shaded
+BNL12627T,FLMM,18.387864,-66.028765,Chem,20170307,61,TRE-MIC,Trema micrantha,Trema,micrantha,Old,Lower,Shaded
+BNL12628,FLMM,18.387864,-66.028765,Chem,20170307,69,GUA-GUI,Guarea guidonia,Guarea,guidonia,Old,Mid,Part_Sun
+BNL12628T,FLMM,18.387864,-66.028765,Chem,20170307,69,GUA-GUI,Guarea guidonia,Guarea,guidonia,Old,Mid,Part_Sun
+BNL12629,FLMM,18.387864,-66.028765,Chem,20170307,69,GUA-GUI,Guarea guidonia,Guarea,guidonia,Senescent ,Upper,Sunlit
+BNL12629T,FLMM,18.387864,-66.028765,Chem,20170307,69,GUA-GUI,Guarea guidonia,Guarea,guidonia,Senescent ,Upper,Sunlit
+BNL12630,FLMM,18.387864,-66.028765,Chem,20170307,79,SWI-MAH,Swietenia mahagoni,Swietenia,mahagoni,Old,Upper,Sunlit
+BNL12630T,FLMM,18.387864,-66.028765,Chem,20170307,79,SWI-MAH,Swietenia mahagoni,Swietenia,mahagoni,Old,Upper,Sunlit
+BNL12631,FLMM,18.387864,-66.028765,Chem,20170307,69,GUA-GUI,Guarea guidonia,Guarea,guidonia,Young,Upper,Sunlit
+BNL12631T,FLMM,18.387864,-66.028765,Chem,20170307,69,GUA-GUI,Guarea guidonia,Guarea,guidonia,Young,Upper,Sunlit
+BNL12632,FLMM,18.387864,-66.028765,Chem,20170307,69,GUA-GUI,Guarea guidonia,Guarea,guidonia,Mature,Upper,Sunlit
+BNL12632T,FLMM,18.387864,-66.028765,Chem,20170307,69,GUA-GUI,Guarea guidonia,Guarea,guidonia,Mature,Upper,Sunlit
+BNL12633,FLMM,18.387864,-66.028765,Chem,20170307,111,FIC-TRY,Ficus trigonata,Ficus,trigonata,Old,Lower,Shaded
+BNL12633T,FLMM,18.387864,-66.028765,Chem,20170307,111,FIC-TRY,Ficus trigonata,Ficus,trigonata,Old,Lower,Shaded
+BNL12634,FLMM,18.387864,-66.028765,Chem,20170307,111,FIC-TRY,Ficus trigonata,Ficus,trigonata,Old-epiphyll,Lower,Shaded
+BNL12634T,FLMM,18.387864,-66.028765,Chem,20170307,111,FIC-TRY,Ficus trigonata,Ficus,trigonata,Old-epiphyll,Lower,Shaded
+BNL12635,FLMM,18.387864,-66.028765,Chem,20170307,-9999,TER-CAT,Terminalia catappa,Terminalia,catappa,Mature-Old,Upper,Sunlit
+BNL12635T,FLMM,18.387864,-66.028765,Chem,20170307,-9999,TER-CAT,Terminalia catappa,Terminalia,catappa,Mature-Old,Upper,Sunlit
+BNL12636,FLMM,18.387864,-66.028765,Chem,20170307,95,GUA-ULM,Guazuma ulmifolia,Guazuma,ulmifolia,Mature-Old,Upper,Sunlit
+BNL12636T,FLMM,18.387864,-66.028765,Chem,20170307,95,GUA-ULM,Guazuma ulmifolia,Guazuma,ulmifolia,Mature-Old,Upper,Sunlit
+BNL12637,FLMM,18.387864,-66.028765,Chem,20170307,98,DEN-ARB,Dendropanax arboreus,Dendropanax,arboreus,Old,Lower,Shaded
+BNL12637T,FLMM,18.387864,-66.028765,Chem,20170307,98,DEN-ARB,Dendropanax arboreus,Dendropanax,arboreus,Old,Lower,Shaded
+BNL12638,FLMM,18.387864,-66.028765,Chem,20170307,98,DEN-ARB,Dendropanax arboreus,Dendropanax,arboreus,Senescent ,Lower,Shaded
+BNL12638T,FLMM,18.387864,-66.028765,Chem,20170307,98,DEN-ARB,Dendropanax arboreus,Dendropanax,arboreus,Senescent ,Lower,Shaded
+BNL12639,FLMM,18.387864,-66.028765,Chem,20170307,98,DEN-ARB,Dendropanax arboreus,Dendropanax,arboreus,Young,Upper,Sunlit
+BNL12639T,FLMM,18.387864,-66.028765,Chem,20170307,98,DEN-ARB,Dendropanax arboreus,Dendropanax,arboreus,Young,Upper,Sunlit
+BNL12640,FLMM,18.387864,-66.028765,Chem,20170307,98,DEN-ARB,Dendropanax arboreus,Dendropanax,arboreus,Old,Upper,Sunlit
+BNL12640T,FLMM,18.387864,-66.028765,Chem,20170307,98,DEN-ARB,Dendropanax arboreus,Dendropanax,arboreus,Old,Upper,Sunlit
+BNL12641,FLMM,18.387864,-66.028765,Chem,20170307,167,TET-BAL,Tetragastris balsamifera,Tetragastris,balsamifera,Old,Lower,Shaded
+BNL12641T,FLMM,18.387864,-66.028765,Chem,20170307,167,TET-BAL,Tetragastris balsamifera,Tetragastris,balsamifera,Old,Lower,Shaded
+BNL12642,FLMM,18.387864,-66.028765,Chem,20170307,167,TET-BAL,Tetragastris balsamifera,Tetragastris,balsamifera,Old-epiphyll,Lower,Shaded
+BNL12642T,FLMM,18.387864,-66.028765,Chem,20170307,167,TET-BAL,Tetragastris balsamifera,Tetragastris,balsamifera,Old-epiphyll,Lower,Shaded
+BNL12643,FLMM,18.387864,-66.028765,Chem,20170307,11,BUC-TET,Buchenavia tetraphylla,Buchenavia,tetraphylla,Senescent ,Lower,Shaded
+BNL12643T,FLMM,18.387864,-66.028765,Chem,20170307,11,BUC-TET,Buchenavia tetraphylla,Buchenavia,tetraphylla,Senescent ,Lower,Shaded
+BNL12644,FLMM,18.387864,-66.028765,Chem,20170307,11,BUC-TET,Buchenavia tetraphylla,Buchenavia,tetraphylla,Mature,Upper,Sunlit
+BNL12644T,FLMM,18.387864,-66.028765,Chem,20170307,11,BUC-TET,Buchenavia tetraphylla,Buchenavia,tetraphylla,Mature,Upper,Sunlit
+BNL12645,FLMM,18.387864,-66.028765,Chem,20170307,-9999,DEL-REG,Delonix regia,Delonix,regia,Old,Upper,Sunlit
+BNL12645T,FLMM,18.387864,-66.028765,Chem,20170307,-9999,DEL-REG,Delonix regia,Delonix,regia,Old,Upper,Sunlit
+BNL12646,FLMM,18.387864,-66.028765,Chem,20170307,95,GUA-ULM,Guazuma ulmifolia,Guazuma,ulmifolia,Mature,Lower,Shaded
+BNL12646T,FLMM,18.387864,-66.028765,Chem,20170307,95,GUA-ULM,Guazuma ulmifolia,Guazuma,ulmifolia,Mature,Lower,Shaded
+BNL12647,FLMM,18.387864,-66.028765,Chem,20170307,-9999,SPA-CAM,Spathodea campanulata P. Beauv,Spathodea,campanulata P. Beauv,Senescent ,Upper,Sunlit
+BNL12647T,FLMM,18.387864,-66.028765,Chem,20170307,-9999,SPA-CAM,Spathodea campanulata P. Beauv,Spathodea,campanulata P. Beauv,Senescent ,Upper,Sunlit
+BNL12648,FLMM,18.387864,-66.028765,Chem,20170307,98,DEN-ARB,Dendropanax arboreus,Dendropanax,arboreus,Young,Upper,Sunlit
+BNL12648T,FLMM,18.387864,-66.028765,Chem,20170307,98,DEN-ARB,Dendropanax arboreus,Dendropanax,arboreus,Young,Upper,Sunlit
+BNL12649,FLMM,18.387864,-66.028765,Chem,20170307,98,DEN-ARB,Dendropanax arboreus,Dendropanax,arboreus,Old,Upper,Sunlit
+BNL12649T,FLMM,18.387864,-66.028765,Chem,20170307,98,DEN-ARB,Dendropanax arboreus,Dendropanax,arboreus,Old,Upper,Sunlit
+BNL12650,FLMM,18.387864,-66.028765,Chem,20170308,-9999,SPA-CAM,Spathodea campanulata P. Beauv,Spathodea,campanulata P. Beauv,Old-epiphyll,Lower,Shaded
+BNL12650T,FLMM,18.387864,-66.028765,Chem,20170308,-9999,SPA-CAM,Spathodea campanulata P. Beauv,Spathodea,campanulata P. Beauv,Old-epiphyll,Lower,Shaded
+BNL12651,FLMM,18.387864,-66.028765,Chem,20170307,167,TET-BAL,Tetragastris balsamifera,Tetragastris,balsamifera,Young,Upper,Sunlit
+BNL12651T,FLMM,18.387864,-66.028765,Chem,20170307,167,TET-BAL,Tetragastris balsamifera,Tetragastris,balsamifera,Young,Upper,Sunlit
+BNL12652,FLMM+IITF,18.38923,-66.05525,Chem,20170308,27,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Young ,Upper,Sunlit
+BNL12652T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,27,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Young ,Upper,Sunlit
+BNL12653,FLMM+IITF,18.38923,-66.05525,Chem,20170308,112,CEI-PEN,Ceiba pentandra,Ceiba,pentandra,Senescent ,Upper,Sunlit
+BNL12653T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,112,CEI-PEN,Ceiba pentandra,Ceiba,pentandra,Senescent ,Upper,Sunlit
+BNL12654,FLMM+IITF,18.38923,-66.05525,Chem,20170308,112,CEI-PEN,Ceiba pentandra,Ceiba,pentandra,Mature,Upper,Sunlit
+BNL12654T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,112,CEI-PEN,Ceiba pentandra,Ceiba,pentandra,Mature,Upper,Sunlit
+BNL12655,FLMM+IITF,18.38923,-66.05525,Chem,20170308,27,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Senescent ,Upper,Sunlit
+BNL12655T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,27,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Senescent ,Upper,Sunlit
+BNL12656,FLMM+IITF,18.38923,-66.05525,Chem,20170308,27,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Old,Upper,Sunlit
+BNL12656T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,27,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Old,Upper,Sunlit
+BNL12657,FLMM+IITF,18.38923,-66.05525,Chem,20170308,79,SWI-MAH,Swietenia mahagoni,Swietenia,mahagoni,Old,Lower,Shaded
+BNL12657T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,79,SWI-MAH,Swietenia mahagoni,Swietenia,mahagoni,Old,Lower,Shaded
+BNL12658,FLMM+IITF,18.38923,-66.05525,Chem,20170308,112,CEI-PEN,Ceiba pentandra,Ceiba,pentandra,Young,Mid,Part_Sun
+BNL12658T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,112,CEI-PEN,Ceiba pentandra,Ceiba,pentandra,Young,Mid,Part_Sun
+BNL12659,FLMM+IITF,18.38923,-66.05525,Chem,20170308,26-1,FIC-CIT,Ficus citrifolia,Ficus,citrifolia,Young-Mature,Upper,Sunlit
+BNL12659T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,26-1,FIC-CIT,Ficus citrifolia,Ficus,citrifolia,Young-Mature,Upper,Sunlit
+BNL12660,FLMM+IITF,18.38923,-66.05525,Chem,20170308,26-1,FIC-CIT,Ficus citrifolia,Ficus,citrifolia,Mature,Upper,Sunlit
+BNL12660T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,26-1,FIC-CIT,Ficus citrifolia,Ficus,citrifolia,Mature,Upper,Sunlit
+BNL12661,FLMM+IITF,18.38923,-66.05525,Chem,20170308,26-1,FIC-CIT,Ficus citrifolia,Ficus,citrifolia,Old,Upper,Sunlit
+BNL12661T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,26-1,FIC-CIT,Ficus citrifolia,Ficus,citrifolia,Old,Upper,Sunlit
+BNL12662,FLMM+IITF,18.38923,-66.05525,Chem,20170308,4,COR-ALL,Cordia alliodora,Cordia,alliodora,Senescent ,Lower,Shaded
+BNL12662T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,4,COR-ALL,Cordia alliodora,Cordia,alliodora,Senescent ,Lower,Shaded
+BNL12663,FLMM+IITF,18.38923,-66.05525,Chem,20170308,167,TET-BAL,Tetragastris balsamifera,Tetragastris,balsamifera,Old,Upper,Sunlit
+BNL12663T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,167,TET-BAL,Tetragastris balsamifera,Tetragastris,balsamifera,Old,Upper,Sunlit
+BNL12664,FLMM+IITF,18.38923,-66.05525,Chem,20170308,4,COR-ALL,Cordia alliodora,Cordia,alliodora,-9999,Upper,Sunlit
+BNL12664T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,4,COR-ALL,Cordia alliodora,Cordia,alliodora,-9999,Upper,Sunlit
+BNL12665,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,OCO-LEU,Ocotea leucoxylon (Sw.) De Laness.,Ocotea,leucoxylon (Sw.) De Laness.,Old,Upper,Sunlit
+BNL12665T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,OCO-LEU,Ocotea leucoxylon (Sw.) De Laness.,Ocotea,leucoxylon (Sw.) De Laness.,Old,Upper,Sunlit
+BNL12666,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,CIN-ELO,Cinnamomum elongatum (Vahl ex Nees) Kosterm.,Cinnamomum,elongatum (Vahl ex Nees) Kosterm.,Young,Upper,Sunlit
+BNL12666T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,CIN-ELO,Cinnamomum elongatum (Vahl ex Nees) Kosterm.,Cinnamomum,elongatum (Vahl ex Nees) Kosterm.,Young,Upper,Sunlit
+BNL12667,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,CIN-ELO,Cinnamomum elongatum (Vahl ex Nees) Kosterm.,Cinnamomum,elongatum (Vahl ex Nees) Kosterm.,Mature-Old,Upper,Sunlit
+BNL12667T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,CIN-ELO,Cinnamomum elongatum (Vahl ex Nees) Kosterm.,Cinnamomum,elongatum (Vahl ex Nees) Kosterm.,Mature-Old,Upper,Sunlit
+BNL12668,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,CIN-ELO,Cinnamomum elongatum (Vahl ex Nees) Kosterm.,Cinnamomum,elongatum (Vahl ex Nees) Kosterm.,Old-epiphyll,Upper,Sunlit
+BNL12668T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,CIN-ELO,Cinnamomum elongatum (Vahl ex Nees) Kosterm.,Cinnamomum,elongatum (Vahl ex Nees) Kosterm.,Old-epiphyll,Upper,Sunlit
+BNL12669,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,-9999,CEC-SCH,Cecropia schreberiana Miq.,Cecropia,schreberiana Miq.,Mature,Upper,Sunlit
+BNL12669T,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,-9999,CEC-SCH,Cecropia schreberiana Miq.,Cecropia,schreberiana Miq.,Mature,Upper,Sunlit
+BNL12670,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,CEC-SCH,Cecropia schreberiana Miq.,Cecropia,schreberiana Miq.,Old,Upper,Sunlit
+BNL12670T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,CEC-SCH,Cecropia schreberiana Miq.,Cecropia,schreberiana Miq.,Old,Upper,Sunlit
+BNL12671,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,CIN-ELO,Cinnamomum elongatum (Vahl ex Nees) Kosterm.,Cinnamomum,elongatum (Vahl ex Nees) Kosterm.,Old,Lower,Shaded
+BNL12671T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,CIN-ELO,Cinnamomum elongatum (Vahl ex Nees) Kosterm.,Cinnamomum,elongatum (Vahl ex Nees) Kosterm.,Old,Lower,Shaded
+BNL12672,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,ALB-PRO,Albizia procera (Roxb.) Benth.,Albizia,procera (Roxb.) Benth.,Mature,Upper,Sunlit
+BNL12672T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,ALB-PRO,Albizia procera (Roxb.) Benth.,Albizia,procera (Roxb.) Benth.,Mature,Upper,Sunlit
+BNL12673,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,ALB-PRO,Albizia procera (Roxb.) Benth.,Albizia,procera (Roxb.) Benth.,Old,Upper,Sunlit
+BNL12673T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,ALB-PRO,Albizia procera (Roxb.) Benth.,Albizia,procera (Roxb.) Benth.,Old,Upper,Sunlit
+BNL12674,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,CEC-SCH,Cecropia schreberiana Miq.,Cecropia,schreberiana Miq.,Young,Upper,Sunlit
+BNL12674T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,CEC-SCH,Cecropia schreberiana Miq.,Cecropia,schreberiana Miq.,Young,Upper,Sunlit
+BNL12675,FLMM+IITF,18.38923,-66.05525,Chem,20170308,6-IITF parking lot,CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Mature,Upper,Sunlit
+BNL12675T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,6-IITF parking lot,CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Mature,Upper,Sunlit
+BNL12676,FLMM+IITF,18.38923,-66.05525,Chem,20170308,6-IITF parking lot,CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Old,Upper,Sunlit
+BNL12676T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,6-IITF parking lot,CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Old,Upper,Sunlit
+BNL12677,FLMM+IITF,18.38923,-66.05525,Chem,20170308,6-IITF parking lot,CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Senescent ,Upper,Sunlit
+BNL12677T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,6-IITF parking lot,CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Senescent ,Upper,Sunlit
+BNL12678,FLMM+IITF,18.38923,-66.05525,Chem,20170308,5-IITF parking lot,CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Young,Upper,Sunlit
+BNL12678T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,5-IITF parking lot,CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Young,Upper,Sunlit
+BNL12679,FLMM+IITF,18.38923,-66.05525,Chem,20170308,5-IITF parking lot,CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Old,Upper,Sunlit
+BNL12679T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,5-IITF parking lot,CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Old,Upper,Sunlit
+BNL12680,FLMM+IITF,18.38923,-66.05525,Chem,20170308,Mocha-IITF parking lot,AND-INE,Andira inermis,Andira,inermis,Young,Upper,Sunlit
+BNL12680T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,Mocha-IITF parking lot,AND-INE,Andira inermis,Andira,inermis,Young,Upper,Sunlit
+BNL12681,FLMM+IITF,18.38923,-66.05525,Chem,20170308,Mocha-IITF parking lot,AND-INE,Andira inermis,Andira,inermis,Mature,Upper,Sunlit
+BNL12681T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,Mocha-IITF parking lot,AND-INE,Andira inermis,Andira,inermis,Mature,Upper,Sunlit
+BNL12682,FLMM+IITF,18.38923,-66.05525,Chem,20170308,Mocha-IITF parking lot,AND-INE,Andira inermis,Andira,inermis,Old,Upper,Sunlit
+BNL12682T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,Mocha-IITF parking lot,AND-INE,Andira inermis,Andira,inermis,Old,Upper,Sunlit
+BNL12683,FLMM+IITF,18.38923,-66.05525,Chem,20170308,8-IITF parking lot,SWI-MAC,Swietenia macrophylla,Swietenia,macrophylla,Old,Upper,Sunlit
+BNL12683T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,8-IITF parking lot,SWI-MAC,Swietenia macrophylla,Swietenia,macrophylla,Old,Upper,Sunlit
+BNL12684,FLMM+IITF,18.38923,-66.05525,Chem,20170308,8-IITF parking lot,SWI-MAC,Swietenia macrophylla,Swietenia,macrophylla,Senescent ,Upper,Sunlit
+BNL12684T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,8-IITF parking lot,SWI-MAC,Swietenia macrophylla,Swietenia,macrophylla,Senescent ,Upper,Sunlit
+BNL12687,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,BUC-BUC,Bucida buceras,Bucida,buceras,Old,Upper,Sunlit
+BNL12687T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,BUC-BUC,Bucida buceras,Bucida,buceras,Old,Upper,Sunlit
+BNL12688,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,BUC-BUC,Bucida buceras,Bucida,buceras,Young,Upper,Sunlit
+BNL12688T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,BUC-BUC,Bucida buceras,Bucida,buceras,Young,Upper,Sunlit
+BNL12689,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,BUC-BUC,Bucida buceras,Bucida,buceras,Old,Upper,Sunlit
+BNL12689T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,BUC-BUC,Bucida buceras,Bucida,buceras,Old,Upper,Sunlit
+BNL12690,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,PIM-RAC,Pimenta racemosa (Mill.) J.W. Moore,Pimenta,racemosa (Mill.) J.W. Moore,Mature,Upper,Sunlit
+BNL12690T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,PIM-RAC,Pimenta racemosa (Mill.) J.W. Moore,Pimenta,racemosa (Mill.) J.W. Moore,Mature,Upper,Sunlit
+BNL12691,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,PIM-RAC,Pimenta racemosa (Mill.) J.W. Moore,Pimenta,racemosa (Mill.) J.W. Moore,Old,Upper,Sunlit
+BNL12691T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,-9999,PIM-RAC,Pimenta racemosa (Mill.) J.W. Moore,Pimenta,racemosa (Mill.) J.W. Moore,Old,Upper,Sunlit
+BNL12692,FLMM+IITF,18.38923,-66.05525,Chem,20170308,3-1/IITF,BUC-BUC,Bucida buceras,Bucida,buceras,Mature,Upper,Sunlit
+BNL12692T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,3-1/IITF,BUC-BUC,Bucida buceras,Bucida,buceras,Mature,Upper,Sunlit
+BNL12698,SB2,18.302924,-65.787412,Chem,20170309,3282,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Old,Lower,Shaded
+BNL12698T,SB2,18.302924,-65.787412,Chem,20170309,3282,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Old,Lower,Shaded
+BNL12699,SB2,18.302924,-65.787412,Chem,20170309,653,CAL-CAL,Calophyllum calaba,Calophyllum,calaba,Young,Mid,Part_Sun
+BNL12699T,SB2,18.302924,-65.787412,Chem,20170309,653,CAL-CAL,Calophyllum calaba,Calophyllum,calaba,Young,Mid,Part_Sun
+BNL12700,SB2,18.302924,-65.787412,Chem,20170309,653,CAL-CAL,Calophyllum calaba,Calophyllum,calaba,Mature,Mid,Part_Sun
+BNL12701,FLMM,18.387864,-66.028765,Spectra,20170305,130,PTE-OFF,Pterocarpus officinalis,Pterocarpus,officinalis,Young,-9999,-9999
+BNL12702,FLMM,18.387864,-66.028765,Spectra,20170305,130,PTE-OFF,Pterocarpus officinalis,Pterocarpus,officinalis,Old,-9999,-9999
+BNL12703,FLMM,18.387864,-66.028765,Spectra,20170305,130,PTE-OFF,Pterocarpus officinalis,Pterocarpus,officinalis,Young,-9999,-9999
+BNL12704,FLMM,18.387864,-66.028765,Spectra,20170305,130,PTE-OFF,Pterocarpus officinalis,Pterocarpus,officinalis,Old,-9999,-9999
+BNL12705,FLMM,18.387864,-66.028765,Spectra,20170305,130,PTE-OFF,Pterocarpus officinalis,Pterocarpus,officinalis,Old,-9999,-9999
+BNL12706,FLMM,18.387864,-66.028765,Spectra,20170305,15-5,ZAN-MAR,Zanthoxylum martinicense,Zanthoxylum,martinicense,Old,-9999,-9999
+BNL12707,FLMM,18.387864,-66.028765,Spectra,20170305,15-5,ZAN-MAR,Zanthoxylum martinicense,Zanthoxylum,martinicense,Old,-9999,-9999
+BNL12708,FLMM,18.387864,-66.028765,Spectra,20170305,15-5,ZAN-MAR,Zanthoxylum martinicense,Zanthoxylum,martinicense,Old,-9999,-9999
+BNL12709,FLMM,18.387864,-66.028765,Spectra,20170305,15-5,ZAN-MAR,Zanthoxylum martinicense,Zanthoxylum,martinicense,Old,-9999,-9999
+BNL12710,FLMM,18.387864,-66.028765,Spectra,20170305,15-5,ZAN-MAR,Zanthoxylum martinicense,Zanthoxylum,martinicense,Old,-9999,-9999
+BNL12711,FLMM,18.387864,-66.028765,Spectra,20170305,65-3,MAM-AMA,Mammea americana,Mammea,americana,Old,-9999,-9999
+BNL12712,FLMM,18.387864,-66.028765,GasEx / Fs,20170305,65-3,MAM-AMA,Mammea americana,Mammea,americana,Old,Upper,Sunlit
+BNL12713,FLMM,18.387864,-66.028765,GasEx / Fs,20170305,65-3,MAM-AMA,Mammea americana,Mammea,americana,Young-Mature,Upper,Sunlit
+BNL12714,FLMM,18.387864,-66.028765,GasEx / Fs,20170305,65-3,MAM-AMA,Mammea americana,Mammea,americana,Young-Mature,Upper,Sunlit
+BNL12715,FLMM,18.387864,-66.028765,GasEx / Fs,20170305,49,TRI-HIR,Trichilia hirta,Trichilia,hirta,Mature,Upper,Sunlit
+BNL12715T,FLMM,18.387864,-66.028765,GasEx / Fs,20170305,49,TRI-HIR,Trichilia hirta,Trichilia,hirta,Mature,Upper,Sunlit
+BNL12716,FLMM,18.387864,-66.028765,GasEx / Fs,20170305,76,LYS-SAB,Lysiloma sabicu,Lysiloma,sabicu,Old,Upper,Sunlit
+BNL12717,FLMM,18.387864,-66.028765,GasEx / Fs,20170305,65-3,MAM-AMA,Mammea americana,Mammea,americana,Old,Upper,Sunlit
+BNL12718,FLMM,18.387864,-66.028765,GasEx / Fs,20170308,1,ROY-BOR,Roystonea borinquena,Roystonea,borinquena,Old,Upper,Sunlit
+BNL12718T,FLMM,18.387864,-66.028765,GasEx / Fs,20170308,1,ROY-BOR,Roystonea borinquena,Roystonea,borinquena,Old,Upper,Sunlit
+BNL12719,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature-Old,Upper,Sunlit
+BNL12719T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature-Old,Upper,Sunlit
+BNL12720,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature,Upper,Sunlit
+BNL12720T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature,Upper,Sunlit
+BNL12721,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature-Old,Upper,Sunlit
+BNL12721T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature-Old,Upper,Sunlit
+BNL12722,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature-Old,Upper,Sunlit
+BNL12722T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature-Old,Upper,Sunlit
+BNL12723,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature-Old,Upper,Sunlit
+BNL12723T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature-Old,Upper,Sunlit
+BNL12724,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature-Old,Upper,Sunlit
+BNL12724T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature-Old,Upper,Sunlit
+BNL12725,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Mature-Old,Upper,Sunlit
+BNL12725T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Mature-Old,Upper,Sunlit
+BNL12726,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Mature-Old,Upper,Sunlit
+BNL12726T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Mature-Old,Upper,Sunlit
+BNL12727,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Mature-Old,Upper,Sunlit
+BNL12727T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Mature-Old,Upper,Sunlit
+BNL12728,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Mature-Old,Upper,Sunlit
+BNL12728T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Mature-Old,Upper,Sunlit
+BNL12729,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Old,Upper,Sunlit
+BNL12729T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Old,Upper,Sunlit
+BNL12730,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Old,Upper,Sunlit
+BNL12730T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Old,Upper,Sunlit
+BNL12731,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,52,CLU-ROS,Clusia rosea,Clusia,rosea,Mature,Upper,Sunlit
+BNL12731T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,52,CLU-ROS,Clusia rosea,Clusia,rosea,Mature,Upper,Sunlit
+BNL12732,FLMM,18.387864,-66.028765,Chem,20170306,66,GUA-FRA,Guapira fragans,Guapira,fragans,Young,Upper,Sunlit
+BNL12732T,FLMM,18.387864,-66.028765,Chem,20170306,66,GUA-FRA,Guapira fragans,Guapira,fragans,Young,Upper,Sunlit
+BNL12733,FLMM,18.387864,-66.028765,Chem,20170306,66,GUA-FRA,Guapira fragans,Guapira,fragans,Old,Upper,Sunlit
+BNL12733T,FLMM,18.387864,-66.028765,Chem,20170306,66,GUA-FRA,Guapira fragans,Guapira,fragans,Old,Upper,Sunlit
+BNL12734,FLMM,18.387864,-66.028765,Chem,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature,Upper,Sunlit
+BNL12734T,FLMM,18.387864,-66.028765,Chem,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature,Upper,Sunlit
+BNL12735,FLMM,18.387864,-66.028765,Chem,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Old,Upper,Sunlit
+BNL12735T,FLMM,18.387864,-66.028765,Chem,20170306,32,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Old,Upper,Sunlit
+BNL12736,FLMM,18.387864,-66.028765,Chem,20170306,45,GUA-OFF,Guaiacum officinale,Guaiacum,officinale,Mature,Upper,Sunlit
+BNL12736T,FLMM,18.387864,-66.028765,Chem,20170306,45,GUA-OFF,Guaiacum officinale,Guaiacum,officinale,Mature,Upper,Sunlit
+BNL12737,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,52,CLU-ROS,Clusia rosea,Clusia,rosea,Mature,Upper,Sunlit
+BNL12737T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,52,CLU-ROS,Clusia rosea,Clusia,rosea,Mature,Upper,Sunlit
+BNL12738,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,52,CLU-ROS,Clusia rosea,Clusia,rosea,Mature,Upper,Sunlit
+BNL12738T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,52,CLU-ROS,Clusia rosea,Clusia,rosea,Mature,Upper,Sunlit
+BNL12739,FLMM,18.387864,-66.028765,Spectra,20170306,47,CLU-ROS,Cordia collococca,Cordia,collococca,Mature,-9999,-9999
+BNL12739T,FLMM,18.387864,-66.028765,Spectra,20170306,47,CLU-ROS,Cordia collococca,Cordia,collococca,Mature,-9999,-9999
+BNL12740,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,47,COR-COL,Cordia collococca,Cordia,collococca,Mature-Old,Upper,Sunlit
+BNL12740T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,47,COR-COL,Cordia collococca,Cordia,collococca,Mature-Old,Upper,Sunlit
+BNL12741,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,47,COR-COL,Cordia collococca,Cordia,collococca,Mature,Upper,Sunlit
+BNL12741T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,47,COR-COL,Cordia collococca,Cordia,collococca,Mature,Upper,Sunlit
+BNL12742,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,47,COR-COL,Cordia collococca,Cordia,collococca,Mature,Upper,Sunlit
+BNL12742T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,47,COR-COL,Cordia collococca,Cordia,collococca,Mature,Upper,Sunlit
+BNL12743,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Mature,Upper,Sunlit
+BNL12743T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Mature,Upper,Sunlit
+BNL12744,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Old-epiphyll,Upper,Sunlit
+BNL12744T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Old-epiphyll,Upper,Sunlit
+BNL12745,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Old-epiphyll,Upper,Sunlit
+BNL12745T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Old-epiphyll,Upper,Sunlit
+BNL12746,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Old,Upper,Sunlit
+BNL12746T,FLMM,18.387864,-66.028765,GasEx / Fs,20170306,3,COC-PUB,Coccoloba pubescens,Coccoloba,pubescens,Old,Upper,Sunlit
+BNL12747,IITF,18.38923,-66.05525,GasEx / Fs,20170307,8-1 (IITF parking),SWI-MAC,Swietenia macrophylla,Swietenia,macrophylla,Senescent ,Upper,Sunlit
+BNL12747T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,8-1 (IITF parking),SWI-MAC,Swietenia macrophylla,Swietenia,macrophylla,Senescent ,Upper,Sunlit
+BNL12748,IITF,18.38923,-66.05525,GasEx / Fs,20170307,8-2 (IITF parking),SWI-MAC,Swietenia macrophylla,Swietenia,macrophylla,Senescent ,Upper,Sunlit
+BNL12748T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,8-2 (IITF parking),SWI-MAC,Swietenia macrophylla,Swietenia,macrophylla,Senescent ,Upper,Sunlit
+BNL12749,IITF,18.38923,-66.05525,GasEx / Fs,20170307,8-3 (IITF parking),SWI-MAC,Swietenia macrophylla,Swietenia,macrophylla,Senescent ,Upper,Sunlit
+BNL12749T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,8-3 (IITF parking),SWI-MAC,Swietenia macrophylla,Swietenia,macrophylla,Senescent ,Upper,Sunlit
+BNL12750,IITF,18.38923,-66.05525,GasEx / Fs,20170307,8-4 (IITF parking),SWI-MAC,Swietenia macrophylla,Swietenia,macrophylla,Senescent ,Upper,Sunlit
+BNL12750T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,8-4 (IITF parking),SWI-MAC,Swietenia macrophylla,Swietenia,macrophylla,Senescent ,Upper,Sunlit
+BNL12751,IITF,18.38923,-66.05525,GasEx / Fs,20170307,8-5 (IITF parking),SWI-MAC,Swietenia macrophylla,Swietenia,macrophylla,Senescent ,Upper,Sunlit
+BNL12751T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,8-5 (IITF parking),SWI-MAC,Swietenia macrophylla,Swietenia,macrophylla,Senescent ,Upper,Sunlit
+BNL12752,IITF,18.38923,-66.05525,GasEx / Fs,20170307,2-1 (IITF parking),AND-INE,Andira inermis (MOCA),Andira,inermis (MOCA),Young,Upper,Sunlit
+BNL12752T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,2-1 (IITF parking),AND-INE,Andira inermis (MOCA),Andira,inermis (MOCA),Young,Upper,Sunlit
+BNL12753,IITF,18.38923,-66.05525,GasEx / Fs,20170307,2-2 (IITF parking),AND-INE,Andira inermis (MOCA),Andira,inermis (MOCA),Young,Upper,Sunlit
+BNL12753T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,2-2 (IITF parking),AND-INE,Andira inermis (MOCA),Andira,inermis (MOCA),Young,Upper,Sunlit
+BNL12754,IITF,18.38923,-66.05525,GasEx / Fs,20170307,2-1 (IITF parking),AND-INE,Andira inermis (MOCA),Andira,inermis (MOCA),Mature,Upper,Sunlit
+BNL12754T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,2-1 (IITF parking),AND-INE,Andira inermis (MOCA),Andira,inermis (MOCA),Mature,Upper,Sunlit
+BNL12755,IITF,18.38923,-66.05525,GasEx / Fs,20170307,2-2 (IITF parking),AND-INE,Andira inermis (MOCA),Andira,inermis (MOCA),Mature-Old,Upper,Sunlit
+BNL12755T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,2-2 (IITF parking),AND-INE,Andira inermis (MOCA),Andira,inermis (MOCA),Mature-Old,Upper,Sunlit
+BNL12756,IITF,18.38923,-66.05525,GasEx / Fs,20170307,2-3 (IITF parking),AND-INE,Andira inermis (MOCA),Andira,inermis (MOCA),Old,Upper,Sunlit
+BNL12756T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,2-3 (IITF parking),AND-INE,Andira inermis (MOCA),Andira,inermis (MOCA),Old,Upper,Sunlit
+BNL12757,IITF,18.38923,-66.05525,GasEx / Fs,20170307,2-3 (IITF parking),AND-INE,Andira inermis (MOCA),Andira,inermis (MOCA),Mature,Upper,Sunlit
+BNL12757T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,2-3 (IITF parking),AND-INE,Andira inermis (MOCA),Andira,inermis (MOCA),Mature,Upper,Sunlit
+BNL12758,IITF,18.38923,-66.05525,GasEx / Fs,20170307,5-1 (IITF parking),CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Mature-Old,Upper,Sunlit
+BNL12758T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,5-1 (IITF parking),CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Mature-Old,Upper,Sunlit
+BNL12759,IITF,18.38923,-66.05525,GasEx / Fs,20170307,5-2 (IITF parking),CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Mature-Old,Upper,Sunlit
+BNL12759T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,5-2 (IITF parking),CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Mature-Old,Upper,Sunlit
+BNL12760,IITF,18.38923,-66.05525,GasEx / Fs,20170307,5-3 (IITF parking),CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Old,Upper,Sunlit
+BNL12760T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,5-3 (IITF parking),CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Old,Upper,Sunlit
+BNL12761,IITF,18.38923,-66.05525,GasEx / Fs,20170307,5-1 (IITF parking),CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Young,Upper,Sunlit
+BNL12761T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,5-1 (IITF parking),CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Young,Upper,Sunlit
+BNL12762,IITF,18.38923,-66.05525,GasEx / Fs,20170307,5-2 (IITF parking),CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Young,Upper,Sunlit
+BNL12762T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,5-2 (IITF parking),CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Young,Upper,Sunlit
+BNL12763,IITF,18.38923,-66.05525,GasEx / Fs,20170307,5-3 (IITF parking),CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Young,Upper,Sunlit
+BNL12763T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,5-3 (IITF parking),CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Young,Upper,Sunlit
+BNL12764,IITF,18.38923,-66.05525,GasEx / Fs,20170307,6-1 (IITF parking),CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Mature-Old,Upper,Sunlit
+BNL12764T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,6-1 (IITF parking),CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Mature-Old,Upper,Sunlit
+BNL12765,IITF,18.38923,-66.05525,GasEx / Fs,20170307,6-2 (IITF parking),CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Mature-Old,Upper,Sunlit
+BNL12765T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,6-2 (IITF parking),CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Mature-Old,Upper,Sunlit
+BNL12766,IITF,18.38923,-66.05525,GasEx / Fs,20170307,6-3 (IITF parking),CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Mature,Upper,Sunlit
+BNL12766T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,6-3 (IITF parking),CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Mature,Upper,Sunlit
+BNL12767,IITF,18.38923,-66.05525,GasEx / Fs,20170307,6-4 (IITF parking),CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Old,Upper,Sunlit
+BNL12767T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,6-4 (IITF parking),CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Old,Upper,Sunlit
+BNL12768,IITF,18.38923,-66.05525,GasEx / Fs,20170307,6-5 (IITF parking),CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Old,Upper,Sunlit
+BNL12768T,IITF,18.38923,-66.05525,GasEx / Fs,20170307,6-5 (IITF parking),CLI-FAI,Clitorin fairchildan,Clitorin,fairchildan,Old,Upper,Sunlit
+BNL12769,FLMM,18.387864,-66.028765,GasEx / Fs,20170308,1,ROY-BOR,Roystonea borinquena,Roystonea,borinquena,Old,Upper,Sunlit
+BNL12769T,FLMM,18.387864,-66.028765,GasEx / Fs,20170308,1,ROY-BOR,Roystonea borinquena,Roystonea,borinquena,Old,Upper,Sunlit
+BNL12770,FLMM,18.387864,-66.028765,GasEx / Fs,20170308,1,ROY-BOR,Roystonea borinquena,Roystonea,borinquena,Old,Upper,Sunlit
+BNL12770T,FLMM,18.387864,-66.028765,GasEx / Fs,20170308,1,ROY-BOR,Roystonea borinquena,Roystonea,borinquena,Old,Upper,Sunlit
+BNL12771,FLMM,18.387864,-66.028765,Chem,20170308,1,ROY-BOR,Roystonea borinquena,Roystonea,borinquena,Old,Upper,Sunlit
+BNL12771T,FLMM,18.387864,-66.028765,Chem,20170308,1,ROY-BOR,Roystonea borinquena,Roystonea,borinquena,Old,Upper,Sunlit
+BNL12772,FLMM,18.387864,-66.028765,Chem,20170308,1,ROY-BOR,Roystonea borinquena,Roystonea,borinquena,Old,Upper,Sunlit
+BNL12772T,FLMM,18.387864,-66.028765,Chem,20170308,1,ROY-BOR,Roystonea borinquena,Roystonea,borinquena,Old,Upper,Sunlit
+BNL12773,IITF,18.38923,-66.05525,GasEx / Fs,20170308,7-IITF,TER-WHR,Terocaous whra,Terocaous,whra,Old,Upper,Sunlit
+BNL12773T,IITF,18.38923,-66.05525,GasEx / Fs,20170308,7-IITF,TER-WHR,Terocaous whra,Terocaous,whra,Old,Upper,Sunlit
+BNL12774,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,7-IITF,Cecropia,Cecropia,Cecropia,,Mature,Upper,Sunlit
+BNL12774T,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,7-IITF,Cecropia,Cecropia,Cecropia,,Mature,Upper,Sunlit
+BNL12775,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,7-IITF,Cecropia,Cecropia,Cecropia,,Mature,Upper,Sunlit
+BNL12775T,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,7-IITF,Cecropia,Cecropia,Cecropia,,Mature,Upper,Sunlit
+BNL12776,FLMM+IITF,18.38923,-66.05525,Chem,20170308,7-IITF,Cecropia,Cecropia,Cecropia,,Old,Upper,Sunlit
+BNL12776T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,7-IITF,Cecropia,Cecropia,Cecropia,,Old,Upper,Sunlit
+BNL12777,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,4-IITF,AND-INE,Andira inermis,Andira,inermis (MOCA),Mature,Upper,Sunlit
+BNL12777T,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,4-IITF,AND-INE,Andira inermis,Andira,inermis (MOCA),Mature,Upper,Sunlit
+BNL12778,FLMM+IITF,18.38923,-66.05525,Chem,20170308,7-IITF,Cecropia,Cecropia,Cecropia,,Old,Upper,Sunlit
+BNL12778T,FLMM+IITF,18.38923,-66.05525,Chem,20170308,7-IITF,Cecropia,Cecropia,Cecropia,,Old,Upper,Sunlit
+BNL12779,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,4-IITF,AND-INE,Andira inermis,Andira,inermis (MOCA),Old,Upper,Sunlit
+BNL12779T,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,4-IITF,AND-INE,Andira inermis,Andira,inermis (MOCA),Old,Upper,Sunlit
+BNL12780,FLMM+IITF ,18.38923,-66.05525,Spectra,20170308,4-IITF,AND-INE,Andira inermis (MOCA),Andira,inermis (MOCA),Old,-9999,-9999
+BNL12780T,FLMM+IITF ,18.38923,-66.05525,Spectra,20170308,4-IITF,AND-INE,Andira inermis (MOCA),Andira,inermis (MOCA),Old,-9999,-9999
+BNL12781,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,2-IITF,BUC-BUC,Bucida buceras,Bucida,buceras,Old,Upper,Sunlit
+BNL12781T,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,2-IITF,BUC-BUC,Bucida buceras,Bucida,buceras,Old,Upper,Sunlit
+BNL12782,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,-9999,BUC-BUC,Bucida buceras,Bucida,buceras,Old,Upper,Sunlit
+BNL12782T,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,-9999,BUC-BUC,Bucida buceras,Bucida,buceras,Old,Upper,Sunlit
+BNL12783,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,-9999,BUC-BUC,Bucida buceras,Bucida,buceras,Old,Upper,Sunlit
+BNL12783T,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,-9999,BUC-BUC,Bucida buceras,Bucida,buceras,Old,Upper,Sunlit
+BNL12784,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,-9999,BUC-BUC,Bucida buceras,Bucida,buceras,Young,Upper,Sunlit
+BNL12784T,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,-9999,BUC-BUC,Bucida buceras,Bucida,buceras,Young,Upper,Sunlit
+BNL12785,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,-9999,BUC-BUC,Bucida buceras,Bucida,buceras,Young,Upper,Sunlit
+BNL12785T,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,-9999,BUC-BUC,Bucida buceras,Bucida,buceras,Young,Upper,Sunlit
+BNL12786,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,-9999,BUC-BUC,Bucida buceras,Bucida,buceras,Young,Upper,Sunlit
+BNL12786T,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,-9999,BUC-BUC,Bucida buceras,Bucida,buceras,Young,Upper,Sunlit
+BNL12787,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,5-1/IITF,CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Mature,Upper,Sunlit
+BNL12787T,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,5-1/IITF,CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Mature,Upper,Sunlit
+BNL12788,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,5-2/IITF,CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Mature,Upper,Sunlit
+BNL12788T,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,5-2/IITF,CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Mature,Upper,Sunlit
+BNL12789,FLMM+IITF,18.38923,-66.05525,GasEx / Fs,20170308,5-3/IITF,CAL-ANT,Calophyllum antillanum,Calophyllum,antillanum,Mature,Upper,Sunlit
+BNL12801,FLMM,18.387864,-66.028765,Chem,20170303,108,BAS-EGG,Bastardiopsis eggersii,Bastardiopsis,eggersii,Mature,Upper,Sunlit
+BNL12802,FLMM,18.387864,-66.028765,Chem,20170303,126,COR-OBO,Cornutia obovata,Cornutia,obovata,Mature,Lower,Shaded
+BNL12803,FLMM,18.387864,-66.028765,Chem,20170303,126,COR-OBO,Cornutia obovata,Cornutia,obovata,Old,Lower,Shaded
+BNL12804,FLMM,18.387864,-66.028765,Chem,20170303,125,PHL-COW,Phlebotaenia (Polygala) cowellii,Phlebotaenia,(Polygala) cowellii,-9999,Lower,Shaded
+BNL12805,FLMM,18.387864,-66.028765,Chem,20170303,36,HYM-COU,Hymenaea courbaril,Hymenaea,courbaril,-9999,Lower,Shaded
+BNL12806,FLMM,18.387864,-66.028765,Chem,20170303,125,PHL-COW,Phlebotaenia (Polygala) cowellii,Phlebotaenia,(Polygala) cowellii,-9999,Upper,Sunlit
+BNL12807,FLMM,18.387864,-66.028765,Chem,20170304,108,BAS-EGG,Bastardiopsis eggersii,Bastardiopsis,eggersii,-9999,Lower,Shaded
+BNL12808,FLMM,18.387864,-66.028765,Chem,20170304,36,HYM-COU,Hymenaea courbaril,Hymenaea,courbaril,-9999,Mid,Part_Sun
+BNL12809,FLMM,18.387864,-66.028765,Chem,20170304,108,BAS-EGG,Bastardiopsis eggersii,Bastardiopsis,eggersii,-9999,Lower,Shaded
+BNL12810,FLMM,18.387864,-66.028765,Chem,20170304,59,THE-GRA,Thespesia grandiflora,Thespesia,grandiflora,-9999,Upper,Sunlit
+BNL12811,FLMM,18.387864,-66.028765,Chem,20170304,48,BYR-SPI,Byrsonima spicata ,Byrsonima,spicata,Mature,Lower,Shaded
+BNL12812,FLMM,18.387864,-66.028765,Chem,20170304,48,BYR-SPI,Byrsonima spicata ,Byrsonima,spicata,Senescent ,Lower,Shaded
+BNL12813,FLMM,18.387864,-66.028765,Chem,20170304,48,BYR-SPI,Byrsonima spicata ,Byrsonima,spicata,Old-epiphyll,Lower,Shaded
+BNL12814,FLMM,18.387864,-66.028765,Chem,20170304,48,BYR-SPI,Byrsonima spicata ,Byrsonima,spicata,Mature,Upper,Sunlit
+BNL12815,FLMM,18.387864,-66.028765,Chem,20170304,48,BYR-SPI,Byrsonima spicata ,Byrsonima,spicata,Old,Upper,Sunlit
+BNL12816,FLMM,18.387864,-66.028765,Chem,20170304,36,HYM-COU,Hymenaea courbaril,Hymenaea,courbaril,-9999,Upper,Sunlit
+BNL12817,FLMM,18.387864,-66.028765,Chem,20170304,59,THE-GRA,Thespesia grandiflora,Thespesia,grandiflora,Old,Lower,Shaded
+BNL12818,FLMM,18.387864,-66.028765,Chem,20170304,59,THE-GRA,Thespesia grandiflora,Thespesia,grandiflora,Young,Lower,Shaded
+BNL12819,FLMM,18.387864,-66.028765,Chem,20170304,136,BAN-VAN,Banara vanderbiltii,Banara,vanderbiltii,Old,Upper,Sunlit
+BNL12820,FLMM,18.387864,-66.028765,Chem,20170304,136,BAN-VAN,Banara vanderbiltii,Banara,vanderbiltii,Young,Upper,Sunlit
+BNL12821,FLMM,18.387864,-66.028765,Chem,20170304,7,HIE-CLU,Hieronyma clusioides,Hieronyma,clusioides,Young-Mature,Lower,Shaded
+BNL12822,FLMM,18.387864,-66.028765,Chem,20170304,7,HIE-CLU,Hieronyma clusioides,Hieronyma,clusioides,Mature,Lower,Shaded
+BNL12823,FLMM,18.387864,-66.028765,Chem,20170304,7,HIE-CLU,Hieronyma clusioides,Hieronyma,clusioides,Mature-epiphyll,Lower,Shaded
+BNL12824,FLMM,18.387864,-66.028765,Chem,20170304,7,HIE-CLU,Hieronyma clusioides,Hieronyma,clusioides,Young,Upper,Sunlit
+BNL12824T,FLMM,18.387864,-66.028765,Chem,20170304,7,HIE-CLU,Hieronyma clusioides,Hieronyma,clusioides,Young,Upper,Sunlit
+BNL12825,FLMM,18.387864,-66.028765,Chem,20170304,7,HIE-CLU,Hieronyma clusioides,Hieronyma,clusioides,Mature,Upper,Sunlit
+BNL12825T,FLMM,18.387864,-66.028765,Chem,20170304,7,HIE-CLU,Hieronyma clusioides,Hieronyma,clusioides,Mature,Upper,Sunlit
+BNL12826,FLMM,18.387864,-66.028765,Chem,20170304,7,HIE-CLU,Hieronyma clusioides,Hieronyma,clusioides,Old-epiphyll,Upper,Sunlit
+BNL12826T,FLMM,18.387864,-66.028765,Chem,20170304,7,HIE-CLU,Hieronyma clusioides,Hieronyma,clusioides,Old-epiphyll,Upper,Sunlit
+BNL12827,FLMM,18.387864,-66.028765,Chem,20170304,136,BAN-VAN,Banara vanderbiltii,Banara,vanderbiltii,Mature,Lower,Shaded
+BNL12827T,FLMM,18.387864,-66.028765,Chem,20170304,136,BAN-VAN,Banara vanderbiltii,Banara,vanderbiltii,Mature,Lower,Shaded
+BNL12828,FLMM,18.387864,-66.028765,Chem,20170304,136,BAN-VAN,Banara vanderbiltii,Banara,vanderbiltii,Old,Lower,Shaded
+BNL12828T,FLMM,18.387864,-66.028765,Chem,20170304,136,BAN-VAN,Banara vanderbiltii,Banara,vanderbiltii,Old,Lower,Shaded
+BNL12829,FLMM,18.387864,-66.028765,Chem,20170304,10,GOE-ELE,Goetzea elegans,Goetzea,elegans,Young,Upper,Sunlit
+BNL12830,FLMM,18.387864,-66.028765,Chem,20170304,10,GOE-ELE,Goetzea elegans,Goetzea,elegans,Mature,Upper,Sunlit
+BNL12831,FLMM,18.387864,-66.028765,Chem,20170304,10,GOE-ELE,Goetzea elegans,Goetzea,elegans,Old,Upper,Sunlit
+BNL12832,FLMM,18.387864,-66.028765,Chem,20170304,126,COR-OBO,Cornutia obovata,Cornutia,obovata,-9999,Upper,Sunlit
+BNL12833,FLMM,18.387864,-66.028765,Chem,20170304,118,ACR-MED,Acrocomia media,Acrocomia,media,-9999,Upper,Sunlit
+BNL12834,CAR I,18.093005,-66.029509,Chem,20170304,42264,EUG-MON,Eugenia monticola (Sw.) DC.,Eugenia,monticola (Sw.) DC.,-9999,Mid,Part_Sun
+BNL12835,CAM II,18.449981,-66.600623,Chem,20170304,42720,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature,Mid,Part_Sun
+BNL12836,CAM II,18.449981,-66.600623,Chem,20170304,42720,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Old,Mid,Part_Sun
+BNL12837,CAM II,18.449981,-66.600623,Chem,20170304,42362,SID-SAL,Sideroxylon salicifolium (L.) Lam.,Sideroxylon,salicifolium (L.) Lam.,Old-epiphyll,Mid,Part_Sun
+BNL12838,CAM II,18.449981,-66.600623,Chem,20170304,42344,SID-SAL,Sideroxylon salicifolium (L.) Lam.,Sideroxylon,salicifolium (L.) Lam.,Old,Mid,Part_Sun
+BNL12839,CAM II,18.449981,-66.600623,Chem,20170304,42097,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Old,Upper,Sunlit
+BNL12840,CAM II,18.449981,-66.600623,Chem,20170304,42206,SID-SAC,Sideroxylon salicifolium (L.) Lam.,Sideroxylon,salicifolium (L.) Lam.,Old-epiphyll,Mid,Part_Sun
+BNL12841,CAM II,18.449981,-66.600623,Chem,20170304,42397,GYM-LUC,Gymnanthes lucida Sw.,Gymnanthes,lucida Sw.,Mature,Upper,Sunlit
+BNL12842,CAM II,18.449981,-66.600623,Chem,20170304,42208,SID-SAL,Sideroxylon salicifolium (L.) Lam.,Sideroxylon,salicifolium (L.) Lam.,Old,Upper,Sunlit
+BNL12843,CAM II,18.449981,-66.600623,Chem,20170304,42395,EUG-MON,Eugenia monticola (Sw.) DC.,Eugenia,monticola (Sw.) DC.,Mature,Mid,Part_Sun
+BNL12844,CAM II,18.449981,-66.600623,Chem,20170304,42099,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature,Upper,Sunlit
+BNL12845,CAM II,18.449981,-66.600623,Chem,20170304,42372,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature,Mid,Part_Sun
+BNL12846,CAM II,18.449981,-66.600623,Chem,20170304,48086,CLU-ROS,Clusia rosea Jacq.,Clusia,rosea Jacq.,Mature,Mid,Part_Sun
+BNL12847,CAM II,18.449981,-66.600623,Chem,20170304,48086,CLU-ROS,Clusia rosea Jacq.,Clusia,rosea Jacq.,Old-epiphyll,Mid,Part_Sun
+BNL12847T,CAM II,18.449981,-66.600623,Chem,20170304,48086,CLU-ROS,Clusia rosea Jacq.,Clusia,rosea Jacq.,Old-epiphyll,Mid,Part_Sun
+BNL12848,CAM II,18.449981,-66.600623,Chem,20170304,42367,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Mature,Mid,Part_Sun
+BNL12849,CAM II,18.449981,-66.600623,Chem,20170304,42367,COC-DIV,Coccoloba diversifolia,Coccoloba,diversifolia,Old,Mid,Part_Sun
+BNL12850,CAR I,18.093005,-66.029509,Chem,20170304,42279,KRU-FER,Krugiodendron ferreum (Vahl) Urb.,Krugiodendron,ferreum (Vahl) Urb.,-9999,Mid,Part_Sun
+BNL12851,CAR I,18.093005,-66.029509,Chem,20170304,42721,GYM-LUC,Gymnanthes lucida Sw.,Gymnanthes,lucida Sw.,Mature,Upper,Sunlit
+BNL12852,CAR I,18.093005,-66.029509,Chem,20170304,42721,GYM-LUC,Gymnanthes lucida Sw.,Gymnanthes,lucida Sw.,Mature-Old,Upper,Sunlit
+BNL12853,CAM II,18.449981,-66.600623,Chem,20170304,42701,KRU-FER,Krugiodendron ferreum (Vahl) Urb.,Krugiodendron,ferreum (Vahl) Urb.,Mature-minor-epiphyll,Mid,Part_Sun
+BNL12854,CAR I,18.093005,-66.029509,Chem,20170304,42371,SID-SAL,Sideroxylon salicifolium (L.) Lam.,Sideroxylon,salicifolium (L.) Lam.,Old,Upper,Sunlit
+BNL12855,CAR I,18.093005,-66.029509,Chem,20170304,42400,ZAN-MAR,Zanthoxylum martinicense (Lam.) DC.,Zanthoxylum,martinicense (Lam.) DC.,Old,Mid,Part_Sun
+BNL12856,CAM II,18.449981,-66.600623,Chem,20170304,42261,LIC-PAR,Licaria parvifolia (Lam.) Kosterm.,Licaria,parvifolia (Lam.) Kosterm.,Old-epiphyll,Mid,Part_Sun
+BNL12857,CAM II,18.449981,-66.600623,Chem,20170304,42703,ZAN-MAR,Zanthoxylum martinicense (Lam.) DC.,Zanthoxylum,martinicense (Lam.) DC.,Old-epiphyll,Mid,Part_Sun
+BNL12858,CAM II,18.449981,-66.600623,Chem,20170304,42711,KRU-FER,Krugiodendron ferreum (Vahl) Urb.,Krugiodendron,ferreum (Vahl) Urb.,Mature,Mid,Part_Sun
+BNL12859,CAM II,18.449981,-66.600623,Chem,20170304,42284,GYM-LUC,Gymnanthes lucida Sw.,Gymnanthes,lucida Sw.,Mature,Mid,Part_Sun
+BNL12860,CAR I,18.093005,-66.029509,Chem,20170304,42371,SID-SAL,Sideroxylon salicifolium (L.) Lam.,Sideroxylon,salicifolium (L.) Lam.,Old,Upper,Sunlit
+BNL12861,CAR I,18.093005,-66.029509,Chem,20170305,42209,LIC-PAR,Licaria parvifolia (Lam.) Kosterm.,Licaria,parvifolia (Lam.) Kosterm.,Old,Upper,Sunlit
+BNL12862,CAM II,18.449981,-66.600623,Chem,20170305,42399,CHR-PAU,Chrysophyllum pauciflorum,Chrysophyllum,pauciflorum,Old,Mid,Part_Sun
+BNL12862T,CAM II,18.449981,-66.600623,Chem,20170305,42399,CHR-PAU,Chrysophyllum pauciflorum,Chrysophyllum,pauciflorum,Old,Mid,Part_Sun
+BNL12863,CAM II,18.449981,-66.600623,Chem,20170305,42098,LIC-PAR,Licaria parvifolia (Lam.) Kosterm.,Licaria,parvifolia (Lam.) Kosterm.,Senescent ,Upper,Sunlit
+BNL12863T,CAM II,18.449981,-66.600623,Chem,20170305,42098,LIC-PAR,Licaria parvifolia (Lam.) Kosterm.,Licaria,parvifolia (Lam.) Kosterm.,Senescent ,Upper,Sunlit
+BNL12864,CAM II,18.449981,-66.600623,Chem,20170305,42098,LIC-PAR,Licaria parvifolia (Lam.) Kosterm.,Licaria,parvifolia (Lam.) Kosterm.,Mature,Upper,Sunlit
+BNL12864T,CAM II,18.449981,-66.600623,Chem,20170305,42098,LIC-PAR,Licaria parvifolia (Lam.) Kosterm.,Licaria,parvifolia (Lam.) Kosterm.,Mature,Upper,Sunlit
+BNL12865,CAR I,18.093005,-66.029509,Chem,20170305,42281,KRU-FER,Krugiodendron ferreum (Vahl) Urb.,Krugiodendron,ferreum (Vahl) Urb.,Mature,Mid,Part_Sun
+BNL12866,CAM II,18.449981,-66.600623,Chem,20170305,42719,GYM-LUC,Gymnanthes lucida Sw.,Gymnanthes,lucida Sw.,Young,Mid,Part_Sun
+BNL12866T,CAM II,18.449981,-66.600623,Chem,20170305,42719,GYM-LUC,Gymnanthes lucida Sw.,Gymnanthes,lucida Sw.,Young,Mid,Part_Sun
+BNL12867,FLMM,18.387864,-66.028765,Chem,20170305,60-5,AND-INE,Andira inermis (MOCA),Andira,inermis (MOCA),Mature ,Upper,Sunlit
+BNL12867T,FLMM,18.387864,-66.028765,Chem,20170305,60-5,AND-INE,Andira inermis (MOCA),Andira,inermis (MOCA),Mature ,Upper,Sunlit
+BNL12868,FLMM,18.387864,-66.028765,Chem,20170305,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Old,Lower,Shaded
+BNL12868T,FLMM,18.387864,-66.028765,Chem,20170305,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Old,Lower,Shaded
+BNL12869,FLMM,18.387864,-66.028765,Chem,20170305,18-4/18-1,PIM-RAC,Pimenta racemosa var.?,Pimenta,racemosa,Mature,Upper,Sunlit
+BNL12870,FLMM,18.387864,-66.028765,Chem,20170305,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Young,Upper,Sunlit
+BNL12870T,FLMM,18.387864,-66.028765,Chem,20170305,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Young,Upper,Sunlit
+BNL12871,FLMM,18.387864,-66.028765,Chem,20170305,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Old,Upper,Sunlit
+BNL12871T,FLMM,18.387864,-66.028765,Chem,20170305,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Old,Upper,Sunlit
+BNL12872,FLMM,18.387864,-66.028765,GasEx / Fs,20170305,13,BOU-SUC,Bourreria succculenta,Bourreria,succculenta,Mature,Upper,Sunlit
+BNL12873,FLMM,18.387864,-66.028765,Chem,20170305,65,MAM-AME,Mammea americana,Mammea,americana,Mature,Lower,Shaded
+BNL12873T,FLMM,18.387864,-66.028765,Chem,20170305,65,MAM-AME,Mammea americana,Mammea,americana,Mature,Lower,Shaded
+BNL12874,FLMM,18.387864,-66.028765,Chem,20170305,65,MAM-AME,Mammea americana,Mammea,americana,Old,Lower,Shaded
+BNL12874T,FLMM,18.387864,-66.028765,Chem,20170305,65,MAM-AME,Mammea americana,Mammea,americana,Old,Lower,Shaded
+BNL12875,FLMM,18.387864,-66.028765,Chem,20170305,1,BUR-SIM,Bursera simaruba,Bursera,simaruba,-9999,Upper,Sunlit
+BNL12875T,FLMM,18.387864,-66.028765,Chem,20170305,1,BUR-SIM,Bursera simaruba,Bursera,simaruba,-9999,Upper,Sunlit
+BNL12876,FLMM,18.387864,-66.028765,Chem,20170305,1,BUR-SIM,Bursera simaruba,Bursera,simaruba,-9999,Upper,Sunlit
+BNL12876T,FLMM,18.387864,-66.028765,Chem,20170305,1,BUR-SIM,Bursera simaruba,Bursera,simaruba,-9999,Upper,Sunlit
+BNL12877,FLMM,18.387864,-66.028765,Chem,20170305,15-1,ZAN-MAR,Zanthoxylum martinicense,Zanthoxylum,martinicense,Senescent ,Upper,Sunlit
+BNL12877T,FLMM,18.387864,-66.028765,Chem,20170305,15-1,ZAN-MAR,Zanthoxylum martinicense,Zanthoxylum,martinicense,Senescent ,Upper,Sunlit
+BNL12878,FLMM,18.387864,-66.028765,Chem,20170305,25,CAL-CAN,Calycophyllum candidissimum,Calycophyllum,candidissimum,Mature,Upper,Sunlit
+BNL12878T,FLMM,18.387864,-66.028765,Chem,20170305,25,CAL-CAN,Calycophyllum candidissimum,Calycophyllum,candidissimum,Mature,Upper,Sunlit
+BNL12879,FLMM,18.387864,-66.028765,Chem,20170305,25,CAL-CAN,Calycophyllum candidissimum,Calycophyllum,candidissimum,Senescent ,Upper,Sunlit
+BNL12879T,FLMM,18.387864,-66.028765,Chem,20170305,25,CAL-CAN,Calycophyllum candidissimum,Calycophyllum,candidissimum,Senescent ,Upper,Sunlit
+BNL12880,FLMM,18.387864,-66.028765,Chem,20170305,89,ANA-OCC,Anacardium occidentale,Anacardium,occidentale,Young,Upper,Sunlit
+BNL12880T,FLMM,18.387864,-66.028765,Chem,20170305,89,ANA-OCC,Anacardium occidentale,Anacardium,occidentale,Young,Upper,Sunlit
+BNL12881,FLMM,18.387864,-66.028765,GasEx / Fs,20170305,83,COR-DEN,Cordia dentata,Cordia,dentata,Mature-Old,Upper,Sunlit
+BNL12882,FLMM,18.387864,-66.028765,GasEx / Fs,20170305,83,COR-DEN,Cordia dentata,Cordia,dentata,Old,Upper,Sunlit
+BNL12883,FLMM,18.387864,-66.028765,GasEx / Fs,20170305,89,ANA-OCC,Anacardium occidentale,Anacardium,occidentale,-9999,Upper,Sunlit
+BNL12884,FLMM,18.387864,-66.028765,GasEx / Fs,20170305,89,ANA-OCC,Anacardium occidentale,Anacardium,occidentale,Young,Upper,Sunlit
+BNL12885,FLMM,18.387864,-66.028765,GasEx / Fs,20170305,52,CLU-ROS,Clusia rosea,Clusia,rosea,Young,Lower,Shaded
+BNL12886,FLMM,18.387864,-66.028765,GasEx / Fs,20170305,52,CLU-ROS,Clusia rosea,Clusia,rosea,Mature,Lower,Shaded
+BNL12887,FLMM,18.387864,-66.028765,GasEx / Fs,20170305,52,CLU-ROS,Clusia rosea,Clusia,rosea,Old,Lower,Shaded
+BNL12888,FLMM,18.387864,-66.028765,Chem,20170305,89,ANA-OCC,Anacardium occidentale,Anacardium,occidentale,Old,Upper,Sunlit
+BNL12889,FLMM,18.387864,-66.028765,Chem,20170305,89,ANA-OCC,Anacardium occidentale,Anacardium,occidentale,Young,Upper,Sunlit
+BNL12889T,FLMM,18.387864,-66.028765,Chem,20170305,89,ANA-OCC,Anacardium occidentale,Anacardium,occidentale,Young,Upper,Sunlit
+BNL12890,FLMM,18.387864,-66.028765,Chem,20170305,52,CLU-ROS,Clusia rosea,Clusia,rosea,Senescent ,Lower,Shaded
+BNL12891,FLMM,18.387864,-66.028765,Chem,20170305,65-2,MAM-AME,Mammea americana,Mammea,americana,Young-Mature,Upper,Sunlit
+BNL12891T,FLMM,18.387864,-66.028765,Chem,20170305,65-2,MAM-AME,Mammea americana,Mammea,americana,Young-Mature,Upper,Sunlit
+BNL12892,FLMM,18.387864,-66.028765,Chem,20170305,65-2,MAM-AME,Mammea americana,Mammea,americana,Mature-Old,Upper,Sunlit
+BNL12892T,FLMM,18.387864,-66.028765,Chem,20170305,65-2,MAM-AME,Mammea americana,Mammea,americana,Mature-Old,Upper,Sunlit
+BNL12893,FLMM,18.387864,-66.028765,Chem,20170305,89,ANA-OCC,Anacardium occidentale,Anacardium,occidentale,Old,Upper,Sunlit
+BNL12894,FLMM,18.387864,-66.028765,Chem,20170305,52,CLU-ROS,Clusia rosea,Clusia,rosea,Mature,Upper,Sunlit
+BNL12894T,FLMM,18.387864,-66.028765,Chem,20170305,52,CLU-ROS,Clusia rosea,Clusia,rosea,Mature,Upper,Sunlit
+BNL12895,FLMM,18.387864,-66.028765,Chem,20170305,52,CLU-ROS,Clusia rosea,Clusia,rosea,Old,Upper,Sunlit
+BNL12895T,FLMM,18.387864,-66.028765,Chem,20170305,52,CLU-ROS,Clusia rosea,Clusia,rosea,Old,Upper,Sunlit
+BNL12896,FLMM,18.387864,-66.028765,Chem,20170305,65-3,MAM-AME,Mammea americana,Mammea,americana,Young,Upper,Sunlit
+BNL12896T,FLMM,18.387864,-66.028765,Chem,20170305,65-3,MAM-AME,Mammea americana,Mammea,americana,Young,Upper,Sunlit
+BNL12897,FLMM,18.387864,-66.028765,Chem,20170305,52,CLU-ROS,Clusia rosea,Clusia,rosea,Young,Upper,Sunlit
+BNL12897T,FLMM,18.387864,-66.028765,Chem,20170305,52,CLU-ROS,Clusia rosea,Clusia,rosea,Young,Upper,Sunlit
+BNL12898,FLMM,18.387864,-66.028765,Chem,20170305,65-3,MAM-AME,Mammea americana,Mammea,americana,Old,Upper,Sunlit
+BNL12898T,FLMM,18.387864,-66.028765,Chem,20170305,65-3,MAM-AME,Mammea americana,Mammea,americana,Old,Upper,Sunlit
+BNL12899,FLMM,18.387864,-66.028765,Chem,20170305,204,BYR-LUC,Byrsonima lucida,Byrsonima,lucida,Mature,Upper,Sunlit
+BNL12899T,FLMM,18.387864,-66.028765,Chem,20170305,204,BYR-LUC,Byrsonima lucida,Byrsonima,lucida,Mature,Upper,Sunlit
+BNL12900,FLMM,18.387864,-66.028765,Chem,20170305,204,BYR-LUC,Byrsonima lucida,Byrsonima,lucida,Old,Upper,Sunlit
+BNL12900T,FLMM,18.387864,-66.028765,Chem,20170305,204,BYR-LUC,Byrsonima lucida,Byrsonima,lucida,Old,Upper,Sunlit
+BNL12901,SB2,18.302924,-65.787412,Chem,20170308,653,CAL-CAL,Calophyllum calaba,Calophyllum,calaba,Old,Upper,Sunlit
+BNL12901T,SB2,18.302924,-65.787412,Chem,20170308,653,CAL-CAL,Calophyllum calaba,Calophyllum,calaba,Old,Upper,Sunlit
+BNL12902,SB2,18.302924,-65.787412,Chem,20170308,2897,SYZ-JAM,Syzygium jambos,Syzygium,jambos,Young,Upper,Sunlit
+BNL12902T,SB2,18.302924,-65.787412,Chem,20170308,2897,SYZ-JAM,Syzygium jambos,Syzygium,jambos,Young,Upper,Sunlit
+BNL12903,SB2,18.302924,-65.787412,Chem,20170308,2897,SYZ-JAM,Syzygium jambos,Syzygium,jambos,Old,Upper,Sunlit
+BNL12903T,SB2,18.302924,-65.787412,Chem,20170308,2897,SYZ-JAM,Syzygium jambos,Syzygium,jambos,Old,Upper,Sunlit
+BNL12904,SB2,18.302924,-65.787412,Chem,20170308,1849,ING-LAU,Inga laurina (Sw.) Willd.,Inga,laurina (Sw.) Willd.,Old,Lower,Shaded
+BNL12904T,SB2,18.302924,-65.787412,Chem,20170308,1849,ING-LAU,Inga laurina (Sw.) Willd.,Inga,laurina (Sw.) Willd.,Old,Lower,Shaded
+BNL12905,SB2,18.302924,-65.787412,Chem,20170308,2419,SYZ-JAM,Syzygium jambos,Syzygium,jambos,Young,Mid,Part_Sun
+BNL12905T,SB2,18.302924,-65.787412,Chem,20170308,2419,SYZ-JAM,Syzygium jambos,Syzygium,jambos,Young,Mid,Part_Sun
+BNL12906,SB2,18.302924,-65.787412,Chem,20170308,2419,SYZ-JAM,Syzygium jambos,Syzygium,jambos,Young-Mature,Mid,Part_Sun
+BNL12906T,SB2,18.302924,-65.787412,Chem,20170308,2419,SYZ-JAM,Syzygium jambos,Syzygium,jambos,Young-Mature,Mid,Part_Sun
+BNL12907,SB2,18.302924,-65.787412,Chem,20170308,2419,SYZ-JAM,Syzygium jambos,Syzygium,jambos,Old,Mid,Part_Sun
+BNL12907T,SB2,18.302924,-65.787412,Chem,20170308,2419,SYZ-JAM,Syzygium jambos,Syzygium,jambos,Old,Mid,Part_Sun
+BNL12908,SB2,18.302924,-65.787412,Chem,20170308,821,SYZ-JAM,Syzygium jambos,Syzygium,jambos,Old,Mid,Part_Sun
+BNL12908T,SB2,18.302924,-65.787412,Chem,20170308,821,SYZ-JAM,Syzygium jambos,Syzygium,jambos,Old,Mid,Part_Sun
+BNL12909,SB2,18.302924,-65.787412,Chem,20170308,821,SYZ-JAM,Syzygium jambos,Syzygium,jambos,Young,Mid,Part_Sun
+BNL12909T,SB2,18.302924,-65.787412,Chem,20170308,821,SYZ-JAM,Syzygium jambos,Syzygium,jambos,Young,Mid,Part_Sun
+BNL12910,SB2,18.302924,-65.787412,Chem,20170308,3537,ALC-LAT,Alchornea latifolia Sw.,Alchornea,latifolia Sw.,Young,Mid,Part_Sun
+BNL12910T,SB2,18.302924,-65.787412,Chem,20170308,3537,ALC-LAT,Alchornea latifolia Sw.,Alchornea,latifolia Sw.,Young,Mid,Part_Sun
+BNL12911,SB2,18.302924,-65.787412,Chem,20170309,3537,ALC-LAT,Alchornea latifolia Sw.,Alchornea,latifolia Sw.,Mature,Mid,Part_Sun
+BNL12911T,SB2,18.302924,-65.787412,Chem,20170309,3537,ALC-LAT,Alchornea latifolia Sw.,Alchornea,latifolia Sw.,Mature,Mid,Part_Sun
+BNL12912,SB2,18.302924,-65.787412,Chem,20170309,3537,ALC-LAT,Alchornea latifolia Sw.,Alchornea,latifolia Sw.,Old,Mid,Part_Sun
+BNL12912T,SB2,18.302924,-65.787412,Chem,20170309,3537,ALC-LAT,Alchornea latifolia Sw.,Alchornea,latifolia Sw.,Old,Mid,Part_Sun
+BNL12913,SB2,18.302924,-65.787412,Chem,20170309,3544,TAB-HET,Tabebuia heterophylla (DC.) Britton,Tabebuia,heterophylla (DC.) Britton,Mature,Mid,Part_Sun
+BNL12913T,SB2,18.302924,-65.787412,Chem,20170309,3544,TAB-HET,Tabebuia heterophylla (DC.) Britton,Tabebuia,heterophylla (DC.) Britton,Mature,Mid,Part_Sun
+BNL12914,SB2,18.302924,-65.787412,Chem,20170309,3544,TAB-HET,Tabebuia heterophylla (DC.) Britton,Tabebuia,heterophylla (DC.) Britton,Old,Mid,Part_Sun
+BNL12914T,SB2,18.302924,-65.787412,Chem,20170309,3544,TAB-HET,Tabebuia heterophylla (DC.) Britton,Tabebuia,heterophylla (DC.) Britton,Old,Mid,Part_Sun
+BNL12915,SB2,18.302924,-65.787412,Chem,20170308,1946,ALC-LAT,Alchornea latifolia Sw.,Alchornea,latifolia Sw.,Young,Upper,Sunlit
+BNL12915T,SB2,18.302924,-65.787412,Chem,20170308,1946,ALC-LAT,Alchornea latifolia Sw.,Alchornea,latifolia Sw.,Young,Upper,Sunlit
+BNL12916,SB2,18.302924,-65.787412,Chem,20170308,1946,ALC-LAT,Alchornea latifolia Sw.,Alchornea,latifolia Sw.,Old,Upper,Sunlit
+BNL12916T,SB2,18.302924,-65.787412,Chem,20170308,1946,ALC-LAT,Alchornea latifolia Sw.,Alchornea,latifolia Sw.,Old,Upper,Sunlit
+BNL12917,SB2,18.302924,-65.787412,Chem,20170309,14028,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Young,Mid,Part_Sun
+BNL12917T,SB2,18.302924,-65.787412,Chem,20170309,14028,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Young,Mid,Part_Sun
+BNL12918,SB2,18.302924,-65.787412,Spectra,20170309,14028,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Mature,-9999,-9999
+BNL12918T,SB2,18.302924,-65.787412,Spectra,20170309,14028,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Mature,-9999,-9999
+BNL12919,SB2,18.302924,-65.787412,Chem,20170309,14028,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Old,Mid,Part_Sun
+BNL12919T,SB2,18.302924,-65.787412,Chem,20170309,14028,MAN-BID,Manilkara bidentata,Manilkara,bidentata,Old,Mid,Part_Sun
+BNL12920,SB2,18.302924,-65.787412,Chem,20170308,1852,CAL-CAL,calophyllum calaba,calophyllum,calaba,Young,Lower,Shaded
+BNL12920T,SB2,18.302924,-65.787412,Chem,20170308,1852,CAL-CAL,calophyllum calaba,calophyllum,calaba,Young,Lower,Shaded
+BNL12921,SB2,18.302924,-65.787412,Chem,20170308,1852,CAL-CAL,calophyllum calaba,calophyllum,calaba,Old,Lower,Shaded
+BNL12921T,SB2,18.302924,-65.787412,Chem,20170308,1852,CAL-CAL,calophyllum calaba,calophyllum,calaba,Old,Lower,Shaded
+BNL12922,SB2,18.302924,-65.787412,Chem,20170308,74,TAB-HET,Tabebuia heterophylla (DC.) Britton,Tabebuia,heterophylla (DC.) Britton,Old,Lower,Shaded
+BNL12922T,SB2,18.302924,-65.787412,Chem,20170308,74,TAB-HET,Tabebuia heterophylla (DC.) Britton,Tabebuia,heterophylla (DC.) Britton,Old,Lower,Shaded
+BNL12923,SB2,18.302924,-65.787412,Chem,20170308,1287,CAL-CAL,calophyllum calaba,calophyllum,calaba,Young,Lower,Shaded
+BNL12923T,SB2,18.302924,-65.787412,Chem,20170308,1287,CAL-CAL,calophyllum calaba,calophyllum,calaba,Young,Lower,Shaded
+BNL12924,SB2,18.302924,-65.787412,Chem,20170308,1287,CAL-CAL,calophyllum calaba,calophyllum,calaba,Old,Lower,Shaded
+BNL12924T,SB2,18.302924,-65.787412,Chem,20170308,1287,CAL-CAL,calophyllum calaba,calophyllum,calaba,Old,Lower,Shaded
+BNL12925,SB2,18.302924,-65.787412,Chem,20170308,155,ALC-LAT,Alchornea latifolia Sw,Alchornea,latifolia Sw.,Mature,Mid,Part_Sun
+BNL12925T,SB2,18.302924,-65.787412,Chem,20170308,155,ALC-LAT,Alchornea latifolia Sw,Alchornea,latifolia Sw.,Mature,Mid,Part_Sun
+BNL12926,SB2,18.302924,-65.787412,Chem,20170309,155,ALC-LAT,Alchornea latifolia Sw,Alchornea,latifolia Sw.,Old,Mid,Part_Sun
+BNL12926T,SB2,18.302924,-65.787412,Chem,20170309,155,ALC-LAT,Alchornea latifolia Sw,Alchornea,latifolia Sw.,Old,Mid,Part_Sun

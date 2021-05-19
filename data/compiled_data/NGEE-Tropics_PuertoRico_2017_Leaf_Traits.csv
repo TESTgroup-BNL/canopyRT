@@ -1,0 +1,581 @@
+"Site","Sample_ID","Sample_Date","Species_Code","Genus","Species","Canopy_position","Light_Exposure","Sample_Type","Latitude","Longitude","Cmass_mg_g","Nmass_mg_g","CNratio","Carea_g_m2","Narea_g_m2","LMA_gDW_m2"
+"CAM II","BNL12862T",20170305,"CHR-PAU","Chrysophyllum","pauciflorum","Mid","Part_Sun","Chem",18.449981,-66.600623,NA,NA,NA,NA,NA,81.66
+"FLMM","BNL12801",20170303,"BAS-EGG","Bastardiopsis","eggersii","Upper","Sunlit","Chem",18.387864,-66.028765,442.1,39,11.34,19.14,1.69,43.28
+"CAM II","BNL12863T",20170305,"LIC-PAR","Licaria","parvifolia (Lam.) Kosterm.","Upper","Sunlit","Chem",18.449981,-66.600623,489.6,21,23.31,52.18,2.24,106.58
+"FLMM","BNL12802",20170303,"COR-OBO","Cornutia","obovata","Lower","Shaded","Chem",18.387864,-66.028765,450.9,25.9,17.41,24.62,1.41,54.6
+"CAM II","BNL12866T",20170305,"GYM-LUC","Gymnanthes","lucida Sw.","Mid","Part_Sun","Chem",18.449981,-66.600623,473.7,26.6,17.81,37.45,2.1,79.05
+"FLMM","BNL12803",20170303,"COR-OBO","Cornutia","obovata","Lower","Shaded","Chem",18.387864,-66.028765,451.9,22,20.54,44.96,2.19,99.48
+"FLMM","BNL12868T",20170305,"BOU-SUC","Bourreria","succculenta","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,59.23
+"FLMM","BNL12804",20170303,"PHL-COW","Phlebotaenia","(Polygala) cowellii","Lower","Shaded","Chem",18.387864,-66.028765,504.9,29.4,17.17,25.29,1.47,50.08
+"FLMM","BNL12870T",20170305,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,93.44
+"FLMM","BNL12805",20170303,"HYM-COU","Hymenaea","courbaril","Lower","Shaded","Chem",18.387864,-66.028765,494,32.9,15.02,25.04,1.67,50.69
+"FLMM","BNL12871T",20170305,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,103.7
+"FLMM","BNL12806",20170303,"PHL-COW","Phlebotaenia","(Polygala) cowellii","Upper","Sunlit","Chem",18.387864,-66.028765,498,23.4,21.28,59.31,2.79,119.1
+"FLMM","BNL12873T",20170305,"MAM-AME","Mammea","americana","Lower","Shaded","Chem",18.387864,-66.028765,361.8,23.1,15.66,35.66,2.28,98.56
+"FLMM","BNL12813",20170304,"BYR-SPI","Byrsonima","spicata","Lower","Shaded","Chem",18.387864,-66.028765,510.2,21.2,24.07,41.67,1.73,81.67
+"FLMM","BNL12874T",20170305,"MAM-AME","Mammea","americana","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,88.32
+"FLMM","BNL12814",20170304,"BYR-SPI","Byrsonima","spicata","Upper","Sunlit","Chem",18.387864,-66.028765,535.5,21,25.5,49.37,1.94,92.19
+"FLMM","BNL12875T",20170305,"BUR-SIM","Bursera","simaruba","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,90.46
+"FLMM","BNL12815",20170304,"BYR-SPI","Byrsonima","spicata","Upper","Sunlit","Chem",18.387864,-66.028765,529,22.9,23.1,63.45,2.75,119.94
+"FLMM","BNL12876T",20170305,"BUR-SIM","Bursera","simaruba","Upper","Sunlit","Chem",18.387864,-66.028765,442.4,14.7,30.1,36.96,1.23,83.55
+"FLMM","BNL12816",20170304,"HYM-COU","Hymenaea","courbaril","Upper","Sunlit","Chem",18.387864,-66.028765,519.6,22.7,22.89,34.61,1.51,66.61
+"FLMM","BNL12877T",20170305,"ZAN-MAR","Zanthoxylum","martinicense","Upper","Sunlit","Chem",18.387864,-66.028765,450.5,24.9,18.09,39.42,2.18,87.5
+"FLMM","BNL12817",20170304,"THE-GRA","Thespesia","grandiflora","Lower","Shaded","Chem",18.387864,-66.028765,451,26.2,17.21,28.95,1.68,64.19
+"FLMM","BNL12878T",20170305,"CAL-CAN","Calycophyllum","candidissimum","Upper","Sunlit","Chem",18.387864,-66.028765,453.7,21.9,20.72,43.98,2.12,96.93
+"FLMM","BNL12818",20170304,"THE-GRA","Thespesia","grandiflora","Lower","Shaded","Chem",18.387864,-66.028765,472.9,26.4,17.91,26.42,1.47,55.87
+"FLMM","BNL12879T",20170305,"CAL-CAN","Calycophyllum","candidissimum","Upper","Sunlit","Chem",18.387864,-66.028765,496.6,18.7,26.56,38.68,1.46,77.89
+"FLMM","BNL12819",20170304,"BAN-VAN","Banara","vanderbiltii","Upper","Sunlit","Chem",18.387864,-66.028765,464.1,16.9,27.46,55.45,2.02,119.49
+"FLMM","BNL12880T",20170305,"ANA-OCC","Anacardium","occidentale","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,80.09
+"FLMM","BNL12820",20170304,"BAN-VAN","Banara","vanderbiltii","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,102.94
+NA,"BNL12888T",NA,NA,NA,NA,NA,NA,NA,NA,NA,470.1,28.3,16.61,51.29,3.09,NA
+"FLMM","BNL12821",20170304,"HIE-CLU","Hieronyma","clusioides","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,81.87
+"FLMM","BNL12889T",20170305,"ANA-OCC","Anacardium","occidentale","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,100.57
+"FLMM","BNL12822",20170304,"HIE-CLU","Hieronyma","clusioides","Lower","Shaded","Chem",18.387864,-66.028765,462.7,22.3,20.75,27.71,1.34,59.89
+"FLMM","BNL12891T",20170305,"MAM-AME","Mammea","americana","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,244.45
+"FLMM","BNL12823",20170304,"HIE-CLU","Hieronyma","clusioides","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,66.98
+"FLMM","BNL12892T",20170305,"MAM-AME","Mammea","americana","Upper","Sunlit","Chem",18.387864,-66.028765,480.7,11.7,41.09,126.54,3.08,263.24
+"FLMM","BNL12824",20170304,"HIE-CLU","Hieronyma","clusioides","Upper","Sunlit","Chem",18.387864,-66.028765,501.9,25.5,19.68,37.85,1.92,75.41
+"FLMM","BNL12894T",20170305,"CLU-ROS","Clusia","rosea","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,122.37
+"FLMM","BNL12825",20170304,"HIE-CLU","Hieronyma","clusioides","Upper","Sunlit","Chem",18.387864,-66.028765,478.2,21.7,22.04,44.74,2.03,93.56
+"FLMM","BNL12895T",20170305,"CLU-ROS","Clusia","rosea","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,NA
+"FLMM","BNL12826",20170304,"HIE-CLU","Hieronyma","clusioides","Upper","Sunlit","Chem",18.387864,-66.028765,475.8,21.6,22.03,48.52,2.2,101.98
+"FLMM","BNL12896T",20170305,"MAM-AME","Mammea","americana","Upper","Sunlit","Chem",18.387864,-66.028765,477.8,14.3,33.41,139.63,4.18,292.24
+"FLMM","BNL12827",20170304,"BAN-VAN","Banara","vanderbiltii","Lower","Shaded","Chem",18.387864,-66.028765,474.5,17.5,27.11,40.3,1.49,84.94
+"FLMM","BNL12897T",20170305,"CLU-ROS","Clusia","rosea","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,158.12
+"FLMM","BNL12828",20170304,"BAN-VAN","Banara","vanderbiltii","Lower","Shaded","Chem",18.387864,-66.028765,467.7,20.4,22.93,41.91,1.83,89.6
+"FLMM","BNL12898T",20170305,"MAM-AME","Mammea","americana","Upper","Sunlit","Chem",18.387864,-66.028765,491.3,13.3,36.94,168.9,4.57,343.79
+"FLMM","BNL12829",20170304,"GOE-ELE","Goetzea","elegans","Upper","Sunlit","Chem",18.387864,-66.028765,479.6,24.7,19.42,38.2,1.97,79.66
+"FLMM","BNL12601T",20170306,"GUA-OFF","Guaiacum","officinale","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,187.02
+"FLMM","BNL12830",20170304,"GOE-ELE","Goetzea","elegans","Upper","Sunlit","Chem",18.387864,-66.028765,468.6,30,15.62,42.07,2.69,89.78
+"FLMM","BNL12603T",20170306,"QUA-CYN","Quadrella","cynophallophora","Upper","Sunlit","Chem",18.387864,-66.028765,494,15.6,31.67,88.73,2.8,179.61
+"FLMM","BNL12831",20170304,"GOE-ELE","Goetzea","elegans","Upper","Sunlit","Chem",18.387864,-66.028765,435.7,28,15.56,48.01,3.09,110.2
+"FLMM","BNL12604T",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,131.55
+"FLMM","BNL12832",20170304,"COR-OBO","Cornutia","obovata","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,155.2
+"FLMM","BNL12605T",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","Chem",18.387864,-66.028765,483.8,21,23.04,65.94,2.86,136.29
+"FLMM","BNL12833",20170304,"ACR-MED","Acrocomia","media","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,118.66
+"FLMM","BNL12606T",20170306,"PET-DOM","Petitia","domingensis","Upper","Sunlit","Chem",18.387864,-66.028765,519.6,21.2,24.51,51.19,2.09,98.51
+"CAM II","BNL12835",20170304,"COC-DIV","Coccoloba","diversifolia","Mid","Part_Sun","Chem",18.449981,-66.600623,466.3,16.9,27.59,45.77,1.66,98.15
+"FLMM","BNL12607T",20170306,"PET-DOM","Petitia","domingensis","Upper","Sunlit","Chem",18.387864,-66.028765,512.3,19,26.96,54.42,2.02,106.22
+"CAM II","BNL12836",20170304,"COC-DIV","Coccoloba","diversifolia","Mid","Part_Sun","Chem",18.449981,-66.600623,NA,NA,NA,NA,NA,99.73
+"FLMM","BNL12608T",20170306,"PET-DOM","Petitia","domingensis","Upper","Sunlit","Chem",18.387864,-66.028765,501.3,19,26.38,57.89,2.19,115.48
+"CAM II","BNL12837",20170304,"SID-SAL","Sideroxylon","salicifolium (L.) Lam.","Mid","Part_Sun","Chem",18.449981,-66.600623,237.8,7.7,30.88,23.1,0.75,97.14
+"FLMM","BNL12609T",20170306,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","Chem",18.387864,-66.028765,527.9,12,43.99,69.1,1.57,130.9
+"CAM II","BNL12838",20170304,"SID-SAL","Sideroxylon","salicifolium (L.) Lam.","Mid","Part_Sun","Chem",18.449981,-66.600623,NA,NA,NA,NA,NA,92.25
+"FLMM","BNL12610T",20170306,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","Chem",18.387864,-66.028765,536.2,15.6,34.37,91.56,2.66,170.75
+"CAM II","BNL12839",20170304,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","Chem",18.449981,-66.600623,492.1,20,24.61,52.59,2.14,106.87
+"FLMM","BNL12611T",20170306,"COC-PUB","Coccoloba","pubescens","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,495.8,13.7,36.19,68.14,1.88,137.43
+"CAM II","BNL12840",20170304,"SID-SAC","Sideroxylon","salicifolium (L.) Lam.","Mid","Part_Sun","Chem",18.449981,-66.600623,NA,NA,NA,NA,NA,81.85
+"FLMM","BNL12612T",20170306,"COC-PUB","Coccoloba","pubescens","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,503.8,14.6,34.51,68.62,1.99,136.2
+"FLMM","BNL12807",20170304,"BAS-EGG","Bastardiopsis","eggersii","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,32.35
+"FLMM","BNL12613T",20170306,"COC-PUB","Coccoloba","pubescens","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,190.75
+"FLMM","BNL12808",20170304,"HYM-COU","Hymenaea","courbaril","Mid","Part_Sun","Chem",18.387864,-66.028765,515.5,28,18.41,29.04,1.58,56.34
+"FLMM","BNL12614T",20170306,"COC-PUB","Coccoloba","pubescens","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,165.07
+"FLMM","BNL12809",20170304,"BAS-EGG","Bastardiopsis","eggersii","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,58.92
+"FLMM","BNL12615T",20170306,"COC-PUB","Coccoloba","pubescens","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,152.88
+"FLMM","BNL12810",20170304,"THE-GRA","Thespesia","grandiflora","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,68.75
+"FLMM","BNL12616T",20170306,"BUC-BUC","Bucida","buceras","Upper","Sunlit","Chem",18.387864,-66.028765,443.8,17.2,25.8,54.2,2.1,122.12
+"FLMM","BNL12811",20170304,"BYR-SPI","Byrsonima","spicata","Lower","Shaded","Chem",18.387864,-66.028765,501.8,22.5,22.3,37.37,1.68,74.48
+"FLMM","BNL12617T",20170306,"BUC-BUC","Bucida","buceras","Upper","Sunlit","Chem",18.387864,-66.028765,459.2,15.7,29.25,65.01,2.22,141.56
+"FLMM","BNL12812",20170304,"BYR-SPI","Byrsonima","spicata","Lower","Shaded","Chem",18.387864,-66.028765,511.8,22.8,22.45,41.34,1.84,80.78
+"FLMM","BNL12618T",20170306,"MAN-BID","Manilkara","bidentata","Upper","Sunlit","Chem",18.387864,-66.028765,514.2,12.8,40.17,60.2,1.5,117.08
+"FLMM","BNL12813",20170304,"BYR-SPI","Byrsonima","spicata","Lower","Shaded","Chem",18.387864,-66.028765,510.2,21.2,24.07,41.67,1.73,81.67
+"FLMM","BNL12619T",20170306,"MAN-BID","Manilkara","bidentata","Upper","Sunlit","Chem",18.387864,-66.028765,503.8,15.3,32.93,91.64,2.78,181.89
+"FLMM","BNL12814",20170304,"BYR-SPI","Byrsonima","spicata","Upper","Sunlit","Chem",18.387864,-66.028765,535.5,21,25.5,49.37,1.94,92.19
+"FLMM","BNL12620T",20170306,"MAN-BID","Manilkara","bidentata","Upper","Sunlit","Chem",18.387864,-66.028765,500.2,12.1,41.34,84.85,2.05,169.62
+"FLMM","BNL12815",20170304,"BYR-SPI","Byrsonima","spicata","Upper","Sunlit","Chem",18.387864,-66.028765,529,22.9,23.1,63.45,2.75,119.94
+"FLMM","BNL12621T",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,113.71
+"FLMM","BNL12816",20170304,"HYM-COU","Hymenaea","courbaril","Upper","Sunlit","Chem",18.387864,-66.028765,519.6,22.7,22.89,34.61,1.51,66.61
+"FLMM","BNL12622T",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","Chem",18.387864,-66.028765,467.9,17.4,26.89,65.93,2.45,140.91
+"FLMM","BNL12817",20170304,"THE-GRA","Thespesia","grandiflora","Lower","Shaded","Chem",18.387864,-66.028765,451,26.2,17.21,28.95,1.68,64.19
+"FLMM","BNL12715T",20170305,"TRI-HIR","Trichilia","hirta","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,472.2,29.9,15.79,29.25,1.85,61.94
+"FLMM","BNL12818",20170304,"THE-GRA","Thespesia","grandiflora","Lower","Shaded","Chem",18.387864,-66.028765,472.9,26.4,17.91,26.42,1.47,55.87
+"FLMM","BNL12719T",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,455.8,18,25.32,48.33,1.91,106.04
+"FLMM","BNL12819",20170304,"BAN-VAN","Banara","vanderbiltii","Upper","Sunlit","Chem",18.387864,-66.028765,464.1,16.9,27.46,55.45,2.02,119.49
+"FLMM","BNL12720T",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,470.3,19.5,24.12,63.61,2.64,135.26
+"FLMM","BNL12820",20170304,"BAN-VAN","Banara","vanderbiltii","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,102.94
+"FLMM","BNL12721T",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,499.9,19.3,25.9,56.94,2.2,113.9
+"FLMM","BNL12821",20170304,"HIE-CLU","Hieronyma","clusioides","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,81.87
+"FLMM","BNL12722T",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,NA,NA,NA,NA,NA,132.99
+"FLMM","BNL12822",20170304,"HIE-CLU","Hieronyma","clusioides","Lower","Shaded","Chem",18.387864,-66.028765,462.7,22.3,20.75,27.71,1.34,59.89
+"FLMM","BNL12723T",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,NA,NA,NA,NA,NA,123.46
+"FLMM","BNL12823",20170304,"HIE-CLU","Hieronyma","clusioides","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,66.98
+"FLMM","BNL12724T",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,484.2,17,28.48,47.57,1.67,98.24
+"FLMM","BNL12824",20170304,"HIE-CLU","Hieronyma","clusioides","Upper","Sunlit","Chem",18.387864,-66.028765,501.9,25.5,19.68,37.85,1.92,75.41
+"FLMM","BNL12725T",20170306,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,520.1,23.4,22.23,34.64,1.56,66.6
+"FLMM","BNL12825",20170304,"HIE-CLU","Hieronyma","clusioides","Upper","Sunlit","Chem",18.387864,-66.028765,478.2,21.7,22.04,44.74,2.03,93.56
+"FLMM","BNL12726T",20170306,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,529.4,22.4,23.63,38.88,1.64,73.44
+"FLMM","BNL12826",20170304,"HIE-CLU","Hieronyma","clusioides","Upper","Sunlit","Chem",18.387864,-66.028765,475.8,21.6,22.03,48.52,2.2,101.98
+"FLMM","BNL12727T",20170306,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,510.3,22.4,22.78,38.57,1.69,75.59
+"FLMM","BNL12827",20170304,"BAN-VAN","Banara","vanderbiltii","Lower","Shaded","Chem",18.387864,-66.028765,474.5,17.5,27.11,40.3,1.49,84.94
+"FLMM","BNL12728T",20170306,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,516.4,17.6,29.34,44.77,1.53,86.69
+"FLMM","BNL12828",20170304,"BAN-VAN","Banara","vanderbiltii","Lower","Shaded","Chem",18.387864,-66.028765,467.7,20.4,22.93,41.91,1.83,89.6
+"FLMM","BNL12729T",20170306,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,NA,NA,NA,NA,NA,81.42
+"FLMM","BNL12829",20170304,"GOE-ELE","Goetzea","elegans","Upper","Sunlit","Chem",18.387864,-66.028765,479.6,24.7,19.42,38.2,1.97,79.66
+"FLMM","BNL12730T",20170306,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,512.1,16.8,30.48,46.6,1.53,91
+"FLMM","BNL12830",20170304,"GOE-ELE","Goetzea","elegans","Upper","Sunlit","Chem",18.387864,-66.028765,468.6,30,15.62,42.07,2.69,89.78
+"FLMM","BNL12731T",20170306,"CLU-ROS","Clusia","rosea","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,476.4,12.1,39.37,143.25,3.64,300.7
+"FLMM","BNL12831",20170304,"GOE-ELE","Goetzea","elegans","Upper","Sunlit","Chem",18.387864,-66.028765,435.7,28,15.56,48.01,3.09,110.2
+"FLMM","BNL12732T",20170306,"GUA-FRA","Guapira","fragans","Upper","Sunlit","Chem",18.387864,-66.028765,471.2,38.3,12.3,32.14,2.61,68.21
+"FLMM","BNL12832",20170304,"COR-OBO","Cornutia","obovata","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,155.2
+"FLMM","BNL12733T",20170306,"GUA-FRA","Guapira","fragans","Upper","Sunlit","Chem",18.387864,-66.028765,459,34.6,13.27,15.46,1.17,33.67
+"FLMM","BNL12833",20170304,"ACR-MED","Acrocomia","media","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,118.66
+"FLMM","BNL12734T",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","Chem",18.387864,-66.028765,478.7,21.4,22.37,62.43,2.79,130.42
+"CAM II","BNL12835",20170304,"COC-DIV","Coccoloba","diversifolia","Mid","Part_Sun","Chem",18.449981,-66.600623,466.3,16.9,27.59,45.77,1.66,98.15
+"FLMM","BNL12735T",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","Chem",18.387864,-66.028765,466.8,18.7,24.96,57.98,2.32,124.21
+"CAM II","BNL12836",20170304,"COC-DIV","Coccoloba","diversifolia","Mid","Part_Sun","Chem",18.449981,-66.600623,NA,NA,NA,NA,NA,99.73
+"FLMM","BNL12736T",20170306,"GUA-OFF","Guaiacum","officinale","Upper","Sunlit","Chem",18.387864,-66.028765,521.9,23.5,22.21,45.76,2.06,87.68
+"CAM II","BNL12837",20170304,"SID-SAL","Sideroxylon","salicifolium (L.) Lam.","Mid","Part_Sun","Chem",18.449981,-66.600623,237.8,7.7,30.88,23.1,0.75,97.14
+"FLMM","BNL12737T",20170306,"CLU-ROS","Clusia","rosea","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,469.9,11.3,41.58,136.07,3.27,289.58
+"CAM II","BNL12838",20170304,"SID-SAL","Sideroxylon","salicifolium (L.) Lam.","Mid","Part_Sun","Chem",18.449981,-66.600623,NA,NA,NA,NA,NA,92.25
+"FLMM","BNL12738T",20170306,"CLU-ROS","Clusia","rosea","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,478.5,11.9,40.21,142.19,3.54,297.16
+"CAM II","BNL12839",20170304,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","Chem",18.449981,-66.600623,492.1,20,24.61,52.59,2.14,106.87
+"FLMM","BNL12739T",20170306,"CLU-ROS","Cordia","collococca",NA,NA,"Spectra",18.387864,-66.028765,NA,NA,NA,NA,NA,NA
+"CAM II","BNL12840",20170304,"SID-SAC","Sideroxylon","salicifolium (L.) Lam.","Mid","Part_Sun","Chem",18.449981,-66.600623,NA,NA,NA,NA,NA,81.85
+"FLMM","BNL12740T",20170306,"COR-COL","Cordia","collococca","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,499.9,24.8,20.16,48.09,2.39,96.2
+"CAM II","BNL12841",20170304,"GYM-LUC","Gymnanthes","lucida Sw.","Upper","Sunlit","Chem",18.449981,-66.600623,471.5,10.5,44.9,75.82,1.69,160.8
+"FLMM","BNL12741T",20170306,"COR-COL","Cordia","collococca","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,493.6,26.6,18.56,38.84,2.09,78.7
+"CAM II","BNL12842",20170304,"SID-SAL","Sideroxylon","salicifolium (L.) Lam.","Upper","Sunlit","Chem",18.449981,-66.600623,509.1,16.6,30.67,53.95,1.76,105.98
+"FLMM","BNL12742T",20170306,"COR-COL","Cordia","collococca","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,NA,NA,NA,NA,NA,82.21
+"CAM II","BNL12844",20170304,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","Chem",18.449981,-66.600623,488.1,20,24.41,50.51,2.07,103.49
+"FLMM","BNL12743T",20170306,"COC-PUB","Coccoloba","pubescens","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,500.9,15,33.39,74.39,2.23,148.52
+"CAM II","BNL12845",20170304,"COC-DIV","Coccoloba","diversifolia","Mid","Part_Sun","Chem",18.449981,-66.600623,NA,NA,NA,NA,NA,97.17
+"FLMM","BNL12744T",20170306,"COC-PUB","Coccoloba","pubescens","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,470,14.7,31.97,98.95,3.09,210.52
+"CAM II","BNL12846",20170304,"CLU-ROS","Clusia","rosea Jacq.","Mid","Part_Sun","Chem",18.449981,-66.600623,475.8,13.5,35.24,97.11,2.76,204.09
+"FLMM","BNL12745T",20170306,"COC-PUB","Coccoloba","pubescens","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,472,15.5,30.45,77.81,2.56,164.86
+"CAM II","BNL12847",20170304,"CLU-ROS","Clusia","rosea Jacq.","Mid","Part_Sun","Chem",18.449981,-66.600623,NA,NA,NA,NA,NA,232.03
+"IITF","BNL12764T",20170307,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,466.5,26.3,17.74,42.54,2.4,91.19
+"CAM II","BNL12848",20170304,"COC-DIV","Coccoloba","diversifolia","Mid","Part_Sun","Chem",18.449981,-66.600623,NA,NA,NA,NA,NA,95.22
+"FLMM","BNL12824T",20170304,"HIE-CLU","Hieronyma","clusioides","Upper","Sunlit","Chem",18.387864,-66.028765,501.9,25.5,19.68,37.85,1.92,75.41
+"CAM II","BNL12849",20170304,"COC-DIV","Coccoloba","diversifolia","Mid","Part_Sun","Chem",18.449981,-66.600623,449.3,16.9,26.59,43.19,1.62,96.12
+"FLMM","BNL12825T",20170304,"HIE-CLU","Hieronyma","clusioides","Upper","Sunlit","Chem",18.387864,-66.028765,478.2,21.7,22.04,44.74,2.03,93.56
+"CAR I","BNL12850",20170304,"KRU-FER","Krugiodendron","ferreum (Vahl) Urb.","Mid","Part_Sun","Chem",18.093005,-66.029509,NA,NA,NA,NA,NA,76.09
+"FLMM","BNL12826T",20170304,"HIE-CLU","Hieronyma","clusioides","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,101.98
+"CAR I","BNL12851",20170304,"GYM-LUC","Gymnanthes","lucida Sw.","Upper","Sunlit","Chem",18.093005,-66.029509,NA,NA,NA,NA,NA,83.66
+"FLMM","BNL12827T",20170304,"BAN-VAN","Banara","vanderbiltii","Lower","Shaded","Chem",18.387864,-66.028765,474.5,17.5,27.11,40.3,1.49,84.94
+"CAR I","BNL12852",20170304,"GYM-LUC","Gymnanthes","lucida Sw.","Upper","Sunlit","Chem",18.093005,-66.029509,NA,NA,NA,NA,NA,100.77
+"FLMM","BNL12828T",20170304,"BAN-VAN","Banara","vanderbiltii","Lower","Shaded","Chem",18.387864,-66.028765,467.7,20.4,22.93,41.91,1.83,89.6
+"CAM II","BNL12853",20170304,"KRU-FER","Krugiodendron","ferreum (Vahl) Urb.","Mid","Part_Sun","Chem",18.449981,-66.600623,456.9,23.5,19.44,37.43,1.93,81.93
+"CAM II","BNL12847T",20170304,"CLU-ROS","Clusia","rosea Jacq.","Mid","Part_Sun","Chem",18.449981,-66.600623,NA,NA,NA,NA,NA,NA
+"CAR I","BNL12854",20170304,"SID-SAL","Sideroxylon","salicifolium (L.) Lam.","Upper","Sunlit","Chem",18.093005,-66.029509,507.3,17.7,28.66,50.45,1.76,99.46
+"CAM II","BNL12864T",20170305,"LIC-PAR","Licaria","parvifolia (Lam.) Kosterm.","Upper","Sunlit","Chem",18.449981,-66.600623,NA,NA,NA,NA,NA,128.22
+"CAR I","BNL12855",20170304,"ZAN-MAR","Zanthoxylum","martinicense (Lam.) DC.","Mid","Part_Sun","Chem",18.093005,-66.029509,479,26.8,17.87,36.19,2.02,75.56
+"FLMM","BNL12867T",20170305,"AND-INE","Andira","inermis (MOCA)","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,102.93
+"CAM II","BNL12856",20170304,"LIC-PAR","Licaria","parvifolia (Lam.) Kosterm.","Mid","Part_Sun","Chem",18.449981,-66.600623,493.1,19.8,24.9,57.73,2.32,117.08
+"FLMM","BNL12899T",20170305,"BYR-LUC","Byrsonima","lucida","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,NA
+"CAM II","BNL12857",20170304,"ZAN-MAR","Zanthoxylum","martinicense (Lam.) DC.","Mid","Part_Sun","Chem",18.449981,-66.600623,NA,NA,NA,NA,NA,63.92
+"FLMM","BNL12900T",20170305,"BYR-LUC","Byrsonima","lucida","Upper","Sunlit","Chem",18.387864,-66.028765,508.3,20,25.42,70.24,2.76,138.18
+"CAM II","BNL12858",20170304,"KRU-FER","Krugiodendron","ferreum (Vahl) Urb.","Mid","Part_Sun","Chem",18.449981,-66.600623,479.1,27.5,17.42,35.29,2.03,73.65
+"FLMM","BNL12623T",20170307,"FIC-TRY","Ficus","trigonata","Upper","Sunlit","Chem",18.387864,-66.028765,391.9,16.9,23.19,39.26,1.69,100.18
+"CAM II","BNL12859",20170304,"GYM-LUC","Gymnanthes","lucida Sw.","Mid","Part_Sun","Chem",18.449981,-66.600623,NA,NA,NA,NA,NA,102.83
+"FLMM","BNL12624T",20170307,"FIC-TRY","Ficus","trigonata","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,100.41
+"CAR I","BNL12860",20170304,"SID-SAL","Sideroxylon","salicifolium (L.) Lam.","Upper","Sunlit","Chem",18.093005,-66.029509,NA,NA,NA,NA,NA,92.1
+"FLMM","BNL12625T",20170307,"FIC-CIT","Ficus","citrifolia","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,48.96
+"CAR I","BNL12861",20170305,"LIC-PAR","Licaria","parvifolia (Lam.) Kosterm.","Upper","Sunlit","Chem",18.093005,-66.029509,511.6,18,28.42,82.66,2.91,161.57
+"FLMM","BNL12626T",20170307,"FIC-CIT","Ficus","citrifolia","Lower","Shaded","Chem",18.387864,-66.028765,421.6,15.2,27.74,21.09,0.76,50.01
+"FLMM","BNL12701",20170305,"PTE-OFF","Pterocarpus","officinalis",NA,NA,"Spectra",18.387864,-66.028765,NA,NA,NA,NA,NA,NA
+"FLMM","BNL12627T",20170307,"TRE-MIC","Trema","micrantha","Lower","Shaded","Chem",18.387864,-66.028765,438,19.6,22.35,30.06,1.35,68.63
+"FLMM","BNL12702",20170305,"PTE-OFF","Pterocarpus","officinalis",NA,NA,"Spectra",18.387864,-66.028765,NA,NA,NA,NA,NA,NA
+"FLMM","BNL12628T",20170307,"GUA-GUI","Guarea","guidonia","Mid","Part_Sun","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,88.68
+"FLMM","BNL12703",20170305,"PTE-OFF","Pterocarpus","officinalis",NA,NA,"Spectra",18.387864,-66.028765,NA,NA,NA,NA,NA,NA
+"FLMM","BNL12629T",20170307,"GUA-GUI","Guarea","guidonia","Upper","Sunlit","Chem",18.387864,-66.028765,518,26.7,19.4,50.63,2.61,97.73
+"FLMM","BNL12704",20170305,"PTE-OFF","Pterocarpus","officinalis",NA,NA,"Spectra",18.387864,-66.028765,NA,NA,NA,NA,NA,NA
+"FLMM","BNL12630T",20170307,"SWI-MAH","Swietenia","mahagoni","Upper","Sunlit","Chem",18.387864,-66.028765,512.7,18.1,28.33,52.56,1.86,102.52
+"FLMM","BNL12705",20170305,"PTE-OFF","Pterocarpus","officinalis",NA,NA,"Spectra",18.387864,-66.028765,NA,NA,NA,NA,NA,NA
+"FLMM","BNL12631T",20170307,"GUA-GUI","Guarea","guidonia","Upper","Sunlit","Chem",18.387864,-66.028765,550.7,30.5,18.06,26.14,1.45,47.47
+"FLMM","BNL12706",20170305,"ZAN-MAR","Zanthoxylum","martinicense",NA,NA,"Spectra",18.387864,-66.028765,NA,NA,NA,NA,NA,NA
+"FLMM","BNL12632T",20170307,"GUA-GUI","Guarea","guidonia","Upper","Sunlit","Chem",18.387864,-66.028765,501.1,25.1,19.96,31.39,1.57,62.65
+"FLMM","BNL12707",20170305,"ZAN-MAR","Zanthoxylum","martinicense",NA,NA,"Spectra",18.387864,-66.028765,NA,NA,NA,NA,NA,NA
+"FLMM","BNL12633T",20170307,"FIC-TRY","Ficus","trigonata","Lower","Shaded","Chem",18.387864,-66.028765,445.9,20.7,21.54,26.48,1.23,59.39
+"FLMM","BNL12708",20170305,"ZAN-MAR","Zanthoxylum","martinicense",NA,NA,"Spectra",18.387864,-66.028765,NA,NA,NA,NA,NA,NA
+"FLMM","BNL12634T",20170307,"FIC-TRY","Ficus","trigonata","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,81.45
+"FLMM","BNL12709",20170305,"ZAN-MAR","Zanthoxylum","martinicense",NA,NA,"Spectra",18.387864,-66.028765,NA,NA,NA,NA,NA,NA
+"FLMM","BNL12635T",20170307,"TER-CAT","Terminalia","catappa","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,72.66
+"FLMM","BNL12710",20170305,"ZAN-MAR","Zanthoxylum","martinicense",NA,NA,"Spectra",18.387864,-66.028765,NA,NA,NA,NA,NA,NA
+"FLMM","BNL12636T",20170307,"GUA-ULM","Guazuma","ulmifolia","Upper","Sunlit","Chem",18.387864,-66.028765,477.7,30.4,15.71,41.68,2.65,87.25
+"FLMM","BNL12717",20170305,"MAM-AMA","Mammea","americana","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,500.5,21.1,23.72,44.39,1.87,88.69
+"FLMM","BNL12637T",20170307,"DEN-ARB","Dendropanax","arboreus","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,56.23
+"FLMM","BNL12872",20170305,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,504.7,19,26.56,39.91,1.5,79.08
+"FLMM","BNL12638T",20170307,"DEN-ARB","Dendropanax","arboreus","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,74.62
+"FLMM","BNL12873",20170305,"MAM-AME","Mammea","americana","Lower","Shaded","Chem",18.387864,-66.028765,361.8,23.1,15.66,35.66,2.28,98.56
+"FLMM","BNL12639T",20170307,"DEN-ARB","Dendropanax","arboreus","Upper","Sunlit","Chem",18.387864,-66.028765,481,26.1,18.43,32.64,1.77,67.85
+"FLMM","BNL12874",20170305,"MAM-AME","Mammea","americana","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,88.32
+"FLMM","BNL12640T",20170307,"DEN-ARB","Dendropanax","arboreus","Upper","Sunlit","Chem",18.387864,-66.028765,493,23.9,20.63,44.49,2.16,90.25
+"FLMM","BNL12875",20170305,"BUR-SIM","Bursera","simaruba","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,90.46
+"FLMM","BNL12641T",20170307,"TET-BAL","Tetragastris","balsamifera","Lower","Shaded","Chem",18.387864,-66.028765,463.8,17.9,25.91,36.44,1.41,78.58
+"FLMM","BNL12876",20170305,"BUR-SIM","Bursera","simaruba","Upper","Sunlit","Chem",18.387864,-66.028765,442.4,14.7,30.1,36.96,1.23,83.55
+"FLMM","BNL12642T",20170307,"TET-BAL","Tetragastris","balsamifera","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,68.53
+"FLMM","BNL12877",20170305,"ZAN-MAR","Zanthoxylum","martinicense","Upper","Sunlit","Chem",18.387864,-66.028765,450.5,24.9,18.09,39.42,2.18,87.5
+"FLMM","BNL12643T",20170307,"BUC-TET","Buchenavia","tetraphylla","Lower","Shaded","Chem",18.387864,-66.028765,485.6,26.8,18.12,30.44,1.68,62.68
+"FLMM","BNL12878",20170305,"CAL-CAN","Calycophyllum","candidissimum","Upper","Sunlit","Chem",18.387864,-66.028765,453.7,21.9,20.72,43.98,2.12,96.93
+"FLMM","BNL12644T",20170307,"BUC-TET","Buchenavia","tetraphylla","Upper","Sunlit","Chem",18.387864,-66.028765,486.8,17.3,28.14,73.98,2.63,151.97
+"FLMM","BNL12879",20170305,"CAL-CAN","Calycophyllum","candidissimum","Upper","Sunlit","Chem",18.387864,-66.028765,496.6,18.7,26.56,38.68,1.46,77.89
+"FLMM","BNL12645T",20170307,"DEL-REG","Delonix","regia","Upper","Sunlit","Chem",18.387864,-66.028765,448.9,19,23.63,46.28,1.96,103.09
+"FLMM","BNL12880",20170305,"ANA-OCC","Anacardium","occidentale","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,80.09
+"FLMM","BNL12646T",20170307,"GUA-ULM","Guazuma","ulmifolia","Lower","Shaded","Chem",18.387864,-66.028765,461.9,33.7,13.71,30.77,2.25,66.62
+"FLMM","BNL12881",20170305,"COR-DEN","Cordia","dentata","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,509.8,21.3,23.93,40.94,1.71,80.31
+"FLMM","BNL12647T",20170307,"SPA-CAM","Spathodea","campanulata P. Beauv","Upper","Sunlit","Chem",18.387864,-66.028765,455.8,22.5,20.26,42.88,2.12,94.07
+"FLMM","BNL12882",20170305,"COR-DEN","Cordia","dentata","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,543.3,17.2,31.59,39.45,1.25,72.62
+"FLMM","BNL12648T",20170307,"DEN-ARB","Dendropanax","arboreus","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,46.06
+"FLMM","BNL12883",20170305,"ANA-OCC","Anacardium","occidentale","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,525.1,24.4,21.52,47.48,2.21,90.43
+"FLMM","BNL12649T",20170307,"DEN-ARB","Dendropanax","arboreus","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,76.78
+"FLMM","BNL12884",20170305,"ANA-OCC","Anacardium","occidentale","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,502.6,18.3,27.46,42.48,1.55,84.52
+"FLMM","BNL12651T",20170307,"TET-BAL","Tetragastris","balsamifera","Upper","Sunlit","Chem",18.387864,-66.028765,510.4,23.8,21.45,23.74,1.11,46.51
+"FLMM","BNL12885",20170305,"CLU-ROS","Clusia","rosea","Lower","Shaded","GasEx / Fs",18.387864,-66.028765,509.5,21.2,24.03,45.38,1.89,89.07
+"IITF","BNL12747T",20170307,"SWI-MAC","Swietenia","macrophylla","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,495.7,10.1,49.08,55.54,1.13,112.05
+"FLMM","BNL12886",20170305,"CLU-ROS","Clusia","rosea","Lower","Shaded","GasEx / Fs",18.387864,-66.028765,499.1,15.7,31.79,63.32,1.99,126.86
+"IITF","BNL12748T",20170307,"SWI-MAC","Swietenia","macrophylla","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,471.5,9.9,47.63,46.96,0.99,99.6
+"FLMM","BNL12887",20170305,"CLU-ROS","Clusia","rosea","Lower","Shaded","GasEx / Fs",18.387864,-66.028765,515.4,12.5,41.23,81.07,1.97,157.3
+"IITF","BNL12749T",20170307,"SWI-MAC","Swietenia","macrophylla","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,487.7,10.6,46.01,NA,NA,NA
+"FLMM","BNL12888",20170305,"ANA-OCC","Anacardium","occidentale","Upper","Sunlit","Chem",18.387864,-66.028765,470.1,28.3,16.61,51.29,3.09,109.11
+"IITF","BNL12750T",20170307,"SWI-MAC","Swietenia","macrophylla","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,503.2,10.2,49.33,51.45,1.04,102.25
+"FLMM","BNL12889",20170305,"ANA-OCC","Anacardium","occidentale","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,100.57
+"IITF","BNL12751T",20170307,"SWI-MAC","Swietenia","macrophylla","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,486.9,9.6,50.72,44.28,0.87,90.94
+"FLMM","BNL12890",20170305,"CLU-ROS","Clusia","rosea","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,119.51
+"IITF","BNL12752T",20170307,"AND-INE","Andira","inermis (MOCA)","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,553.1,40.1,13.79,28.81,2.09,52.09
+"FLMM","BNL12891",20170305,"MAM-AME","Mammea","americana","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,244.45
+"IITF","BNL12753T",20170307,"AND-INE","Andira","inermis (MOCA)","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,550.1,38.3,14.36,26.89,1.87,48.89
+"FLMM","BNL12892",20170305,"MAM-AME","Mammea","americana","Upper","Sunlit","Chem",18.387864,-66.028765,480.7,11.7,41.09,126.54,3.08,263.24
+"IITF","BNL12754T",20170307,"AND-INE","Andira","inermis (MOCA)","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,529.7,22.3,23.75,55.65,2.34,105.06
+"FLMM","BNL12893",20170305,"ANA-OCC","Anacardium","occidentale","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,227.46
+"IITF","BNL12755T",20170307,"AND-INE","Andira","inermis (MOCA)","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,524.3,23.1,22.7,35.67,1.57,68.03
+"FLMM","BNL12894",20170305,"CLU-ROS","Clusia","rosea","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,122.37
+"IITF","BNL12756T",20170307,"AND-INE","Andira","inermis (MOCA)","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,500.5,20.5,24.41,48.67,1.99,97.25
+"FLMM","BNL12895",20170305,"CLU-ROS","Clusia","rosea","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,135.41
+"IITF","BNL12757T",20170307,"AND-INE","Andira","inermis (MOCA)","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,546.8,33.8,16.18,28.44,1.76,52.02
+"FLMM","BNL12896",20170305,"MAM-AME","Mammea","americana","Upper","Sunlit","Chem",18.387864,-66.028765,477.8,14.3,33.41,139.63,4.18,292.24
+"IITF","BNL12758T",20170307,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,507.9,15.2,33.41,78.28,2.34,154.13
+"FLMM","BNL12897",20170305,"CLU-ROS","Clusia","rosea","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,158.12
+"IITF","BNL12759T",20170307,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,510.4,15.1,33.8,74.29,2.2,145.56
+"FLMM","BNL12898",20170305,"MAM-AME","Mammea","americana","Upper","Sunlit","Chem",18.387864,-66.028765,491.3,13.3,36.94,168.9,4.57,343.79
+"IITF","BNL12760T",20170307,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,506,13.9,36.4,70.63,1.94,139.59
+"FLMM","BNL12900",20170305,"BYR-LUC","Byrsonima","lucida","Upper","Sunlit","Chem",18.387864,-66.028765,508.3,20,25.42,70.24,2.76,138.18
+"IITF","BNL12761T",20170307,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,510.7,19.8,25.79,32.27,1.25,63.19
+"FLMM","BNL12711",20170305,"MAM-AMA","Mammea","americana",NA,NA,"Spectra",18.387864,-66.028765,NA,NA,NA,NA,NA,NA
+"IITF","BNL12762T",20170307,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,519.5,23.7,21.92,35.25,1.61,67.85
+"FLMM","BNL12712",20170305,"MAM-AMA","Mammea","americana","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,522.7,14.1,37.07,85.63,2.31,163.82
+"IITF","BNL12763T",20170307,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,519.1,23.1,22.47,34.1,1.52,65.68
+"FLMM","BNL12713",20170305,"MAM-AMA","Mammea","americana","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,516.1,15.9,32.46,63.95,1.97,123.91
+"IITF","BNL12764T",20170307,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,466.5,26.3,17.74,42.54,2.4,91.19
+"FLMM","BNL12714",20170305,"MAM-AMA","Mammea","americana","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,518.2,16.4,31.6,65.2,2.06,125.82
+"IITF","BNL12765T",20170307,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,466.5,26.1,17.87,44.07,2.47,94.47
+"FLMM","BNL12715",20170305,"TRI-HIR","Trichilia","hirta","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,472.2,29.9,15.79,29.25,1.85,61.94
+"IITF","BNL12766T",20170307,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,479.9,26.6,18.04,41.59,2.31,86.66
+"FLMM","BNL12716",20170305,"LYS-SAB","Lysiloma","sabicu","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,496.7,20.9,23.77,64.62,2.72,130.11
+"IITF","BNL12767T",20170307,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,483.6,25.5,18.96,42.51,2.24,87.91
+"CAM II","BNL12862",20170305,"CHR-PAU","Chrysophyllum","pauciflorum","Mid","Part_Sun","Chem",18.449981,-66.600623,NA,NA,NA,NA,NA,81.66
+"IITF","BNL12768T",20170307,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,446.9,25.8,17.32,41.62,2.4,93.14
+"CAM II","BNL12863",20170305,"LIC-PAR","Licaria","parvifolia (Lam.) Kosterm.","Upper","Sunlit","Chem",18.449981,-66.600623,489.6,21,23.31,52.18,2.24,106.58
+"FLMM","BNL12650T",20170308,"SPA-CAM","Spathodea","campanulata P. Beauv","Lower","Shaded","Chem",18.387864,-66.028765,422.6,17.5,24.15,40.62,1.68,96.12
+"CAM II","BNL12864",20170305,"LIC-PAR","Licaria","parvifolia (Lam.) Kosterm.","Upper","Sunlit","Chem",18.449981,-66.600623,NA,NA,NA,NA,NA,128.22
+"FLMM+IITF","BNL12652T",20170308,"MAN-BID","Manilkara","bidentata","Upper","Sunlit","Chem",18.38923,-66.05525,473,16.3,29.02,39.48,1.36,83.47
+"CAR I","BNL12865",20170305,"KRU-FER","Krugiodendron","ferreum (Vahl) Urb.","Mid","Part_Sun","Chem",18.093005,-66.029509,NA,NA,NA,NA,NA,142.74
+"FLMM+IITF","BNL12653T",20170308,"CEI-PEN","Ceiba","pentandra","Upper","Sunlit","Chem",18.38923,-66.05525,445.1,20.2,22.03,25.54,1.16,57.37
+"CAM II","BNL12866",20170305,"GYM-LUC","Gymnanthes","lucida Sw.","Mid","Part_Sun","Chem",18.449981,-66.600623,473.7,26.6,17.81,37.45,2.1,79.05
+"FLMM+IITF","BNL12654T",20170308,"CEI-PEN","Ceiba","pentandra","Upper","Sunlit","Chem",18.38923,-66.05525,453,26,17.42,28.9,1.66,63.79
+"FLMM","BNL12867",20170305,"AND-INE","Andira","inermis (MOCA)","Upper","Sunlit","Chem",18.387864,-66.028765,432,17.9,24.13,44.47,1.84,102.93
+"FLMM+IITF","BNL12655T",20170308,"MAN-BID","Manilkara","bidentata","Upper","Sunlit","Chem",18.38923,-66.05525,455.9,17.7,25.76,116.48,4.52,255.5
+"FLMM","BNL12868",20170305,"BOU-SUC","Bourreria","succculenta","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,59.23
+"FLMM+IITF","BNL12656T",20170308,"MAN-BID","Manilkara","bidentata","Upper","Sunlit","Chem",18.38923,-66.05525,482.1,11.2,43.04,25.05,0.58,51.97
+"FLMM","BNL12869",20170305,"PIM-RAC","Pimenta","racemosa","Upper","Sunlit","Chem",18.387864,-66.028765,479.5,17.1,28.04,64.08,2.29,133.64
+"FLMM+IITF","BNL12658T",20170308,"CEI-PEN","Ceiba","pentandra","Mid","Part_Sun","Chem",18.38923,-66.05525,471.5,52.2,9.03,18.18,2.01,38.55
+"FLMM","BNL12870",20170305,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,93.44
+"FLMM+IITF","BNL12659T",20170308,"FIC-CIT","Ficus","citrifolia","Upper","Sunlit","Chem",18.38923,-66.05525,474.4,18.8,25.23,101.79,4.03,214.57
+"FLMM","BNL12871",20170305,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,103.7
+"FLMM+IITF","BNL12660T",20170308,"FIC-CIT","Ficus","citrifolia","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,99
+"FLMM","BNL12872",20170305,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,504.7,19,26.56,39.91,1.5,79.08
+"FLMM+IITF","BNL12661T",20170308,"FIC-CIT","Ficus","citrifolia","Upper","Sunlit","Chem",18.38923,-66.05525,455.3,19.2,23.71,48.36,2.04,106.22
+"FLMM","BNL12873",20170305,"MAM-AME","Mammea","americana","Lower","Shaded","Chem",18.387864,-66.028765,361.8,23.1,15.66,35.66,2.28,98.56
+"FLMM+IITF","BNL12662T",20170308,"COR-ALL","Cordia","alliodora","Lower","Shaded","Chem",18.38923,-66.05525,447.5,29.7,15.07,41.88,2.78,93.59
+"FLMM","BNL12874",20170305,"MAM-AME","Mammea","americana","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,88.32
+"FLMM+IITF","BNL12663T",20170308,"TET-BAL","Tetragastris","balsamifera","Upper","Sunlit","Chem",18.38923,-66.05525,467.8,15.3,30.58,42.03,1.37,89.85
+"FLMM","BNL12875",20170305,"BUR-SIM","Bursera","simaruba","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,90.46
+"FLMM+IITF","BNL12664T",20170308,"COR-ALL","Cordia","alliodora","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,85.55
+"FLMM","BNL12876",20170305,"BUR-SIM","Bursera","simaruba","Upper","Sunlit","Chem",18.387864,-66.028765,442.4,14.7,30.1,36.96,1.23,83.55
+"FLMM+IITF","BNL12665T",20170308,"OCO-LEU","Ocotea","leucoxylon (Sw.) De Laness.","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,67.06
+"FLMM","BNL12877",20170305,"ZAN-MAR","Zanthoxylum","martinicense","Upper","Sunlit","Chem",18.387864,-66.028765,450.5,24.9,18.09,39.42,2.18,87.5
+"FLMM+IITF","BNL12666T",20170308,"CIN-ELO","Cinnamomum","elongatum (Vahl ex Nees) Kosterm.","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,66.23
+"FLMM","BNL12878",20170305,"CAL-CAN","Calycophyllum","candidissimum","Upper","Sunlit","Chem",18.387864,-66.028765,453.7,21.9,20.72,43.98,2.12,96.93
+"FLMM+IITF","BNL12667T",20170308,"CIN-ELO","Cinnamomum","elongatum (Vahl ex Nees) Kosterm.","Upper","Sunlit","Chem",18.38923,-66.05525,490.5,24.4,20.1,33.11,1.65,67.51
+"FLMM","BNL12879",20170305,"CAL-CAN","Calycophyllum","candidissimum","Upper","Sunlit","Chem",18.387864,-66.028765,496.6,18.7,26.56,38.68,1.46,77.89
+"FLMM+IITF","BNL12668T",20170308,"CIN-ELO","Cinnamomum","elongatum (Vahl ex Nees) Kosterm.","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,74.32
+"FLMM","BNL12880",20170305,"ANA-OCC","Anacardium","occidentale","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,80.09
+"FLMM+IITF","BNL12669T",20170308,"CEC-SCH","Cecropia","schreberiana Miq.","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,470.9,33.9,13.89,34.29,2.47,72.81
+"FLMM","BNL12881",20170305,"COR-DEN","Cordia","dentata","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,509.8,21.3,23.93,40.94,1.71,80.31
+"FLMM+IITF","BNL12670T",20170308,"CEC-SCH","Cecropia","schreberiana Miq.","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,73.02
+"FLMM","BNL12882",20170305,"COR-DEN","Cordia","dentata","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,543.3,17.2,31.59,39.45,1.25,72.62
+"FLMM+IITF","BNL12671T",20170308,"CIN-ELO","Cinnamomum","elongatum (Vahl ex Nees) Kosterm.","Lower","Shaded","Chem",18.38923,-66.05525,468.8,31.3,14.98,27.8,1.86,59.31
+"FLMM","BNL12883",20170305,"ANA-OCC","Anacardium","occidentale","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,525.1,24.4,21.52,47.48,2.21,90.43
+"FLMM+IITF","BNL12672T",20170308,"ALB-PRO","Albizia","procera (Roxb.) Benth.","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,72.59
+"FLMM","BNL12884",20170305,"ANA-OCC","Anacardium","occidentale","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,502.6,18.3,27.46,42.48,1.55,84.52
+"FLMM+IITF","BNL12673T",20170308,"ALB-PRO","Albizia","procera (Roxb.) Benth.","Upper","Sunlit","Chem",18.38923,-66.05525,475.6,26.8,17.75,47.66,2.69,100.21
+"FLMM","BNL12885",20170305,"CLU-ROS","Clusia","rosea","Lower","Shaded","GasEx / Fs",18.387864,-66.028765,509.5,21.2,24.03,45.38,1.89,89.07
+"FLMM+IITF","BNL12674T",20170308,"CEC-SCH","Cecropia","schreberiana Miq.","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,79.08
+"FLMM","BNL12886",20170305,"CLU-ROS","Clusia","rosea","Lower","Shaded","GasEx / Fs",18.387864,-66.028765,499.1,15.7,31.79,63.32,1.99,126.86
+"FLMM+IITF","BNL12675T",20170308,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,89.02
+"FLMM","BNL12887",20170305,"CLU-ROS","Clusia","rosea","Lower","Shaded","GasEx / Fs",18.387864,-66.028765,515.4,12.5,41.23,81.07,1.97,157.3
+"FLMM+IITF","BNL12676T",20170308,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,88.06
+"FLMM","BNL12888",20170305,"ANA-OCC","Anacardium","occidentale","Upper","Sunlit","Chem",18.387864,-66.028765,470.1,28.3,16.61,51.29,3.09,109.11
+"FLMM+IITF","BNL12677T",20170308,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","Chem",18.38923,-66.05525,439.7,14.9,29.51,34.88,1.18,79.33
+"FLMM","BNL12889",20170305,"ANA-OCC","Anacardium","occidentale","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,100.57
+"FLMM+IITF","BNL12678T",20170308,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","Chem",18.38923,-66.05525,522.3,24.7,21.15,33.16,1.57,63.49
+"FLMM","BNL12890",20170305,"CLU-ROS","Clusia","rosea","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,119.51
+"FLMM+IITF","BNL12679T",20170308,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","Chem",18.38923,-66.05525,505.8,14.7,34.41,71.41,2.08,141.18
+"FLMM","BNL12891",20170305,"MAM-AME","Mammea","americana","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,244.45
+"FLMM+IITF","BNL12680T",20170308,"AND-INE","Andira","inermis","Upper","Sunlit","Chem",18.38923,-66.05525,542.1,39.5,13.72,23.81,1.74,43.93
+"FLMM","BNL12892",20170305,"MAM-AME","Mammea","americana","Upper","Sunlit","Chem",18.387864,-66.028765,480.7,11.7,41.09,126.54,3.08,263.24
+"FLMM+IITF","BNL12681T",20170308,"AND-INE","Andira","inermis","Upper","Sunlit","Chem",18.38923,-66.05525,535.1,36.3,14.74,26.28,1.78,49.11
+"FLMM","BNL12893",20170305,"ANA-OCC","Anacardium","occidentale","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,227.46
+"FLMM+IITF","BNL12682T",20170308,"AND-INE","Andira","inermis","Upper","Sunlit","Chem",18.38923,-66.05525,524.2,25.7,20.4,46.2,2.27,88.14
+"FLMM","BNL12894",20170305,"CLU-ROS","Clusia","rosea","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,122.37
+"FLMM+IITF","BNL12683T",20170308,"SWI-MAC","Swietenia","macrophylla","Upper","Sunlit","Chem",18.38923,-66.05525,480.7,12.8,37.55,40.82,1.09,84.92
+"FLMM","BNL12895",20170305,"CLU-ROS","Clusia","rosea","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,135.41
+"FLMM+IITF","BNL12684T",20170308,"SWI-MAC","Swietenia","macrophylla","Upper","Sunlit","Chem",18.38923,-66.05525,493.4,10.2,48.37,46.1,0.95,93.43
+"FLMM","BNL12896",20170305,"MAM-AME","Mammea","americana","Upper","Sunlit","Chem",18.387864,-66.028765,477.8,14.3,33.41,139.63,4.18,292.24
+"FLMM+IITF","BNL12687T",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","Chem",18.38923,-66.05525,486.6,14.6,33.33,77.57,2.33,159.41
+"FLMM","BNL12897",20170305,"CLU-ROS","Clusia","rosea","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,158.12
+"FLMM+IITF","BNL12688T",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","Chem",18.38923,-66.05525,501.4,23.7,21.16,32.56,1.54,64.95
+"FLMM","BNL12898",20170305,"MAM-AME","Mammea","americana","Upper","Sunlit","Chem",18.387864,-66.028765,491.3,13.3,36.94,168.9,4.57,343.79
+"FLMM+IITF","BNL12689T",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","Chem",18.38923,-66.05525,474.9,17.5,27.14,80.39,2.96,169.27
+"FLMM","BNL12899",20170305,"BYR-LUC","Byrsonima","lucida","Upper","Sunlit","Chem",18.387864,-66.028765,505.1,18.5,27.3,64.64,2.37,127.98
+"FLMM+IITF","BNL12690T",20170308,"PIM-RAC","Pimenta","racemosa (Mill.) J.W. Moore","Upper","Sunlit","Chem",18.38923,-66.05525,494.5,9.7,50.98,82.46,1.62,166.76
+"FLMM","BNL12900",20170305,"BYR-LUC","Byrsonima","lucida","Upper","Sunlit","Chem",18.387864,-66.028765,508.3,20,25.42,70.24,2.76,138.18
+"FLMM+IITF","BNL12691T",20170308,"PIM-RAC","Pimenta","racemosa (Mill.) J.W. Moore","Upper","Sunlit","Chem",18.38923,-66.05525,501.8,11.2,44.8,77.48,1.73,154.4
+"FLMM","BNL12601",20170306,"GUA-OFF","Guaiacum","officinale","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,187.02
+"FLMM+IITF","BNL12692T",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","Chem",18.38923,-66.05525,501.3,12.2,41.09,79.91,1.94,159.41
+"FLMM","BNL12602",20170306,"QUA-CYN","Quadrella","cynophallophora","Upper","Sunlit","Chem",18.387864,-66.028765,464.7,19.5,23.83,80.9,3.39,174.09
+"FLMM","BNL12718T",20170308,"ROY-BOR","Roystonea","borinquena","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,439.6,19.8,22.2,51.41,2.32,116.95
+"FLMM","BNL12603",20170306,"QUA-CYN","Quadrella","cynophallophora","Upper","Sunlit","Chem",18.387864,-66.028765,494,15.6,31.67,88.73,2.8,179.61
+"FLMM","BNL12769T",20170308,"ROY-BOR","Roystonea","borinquena","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,435.6,21.6,20.17,47.09,2.33,108.1
+"FLMM","BNL12604",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,131.55
+"FLMM","BNL12770T",20170308,"ROY-BOR","Roystonea","borinquena","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,444.3,20.8,21.36,58.25,2.73,131.1
+"FLMM","BNL12605",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","Chem",18.387864,-66.028765,483.8,21,23.04,65.94,2.86,136.29
+"FLMM","BNL12771T",20170308,"ROY-BOR","Roystonea","borinquena","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,136.78
+"FLMM","BNL12606",20170306,"PET-DOM","Petitia","domingensis","Upper","Sunlit","Chem",18.387864,-66.028765,519.6,21.2,24.51,51.19,2.09,98.51
+"FLMM","BNL12772T",20170308,"ROY-BOR","Roystonea","borinquena","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,116.64
+"FLMM","BNL12607",20170306,"PET-DOM","Petitia","domingensis","Upper","Sunlit","Chem",18.387864,-66.028765,512.3,19,26.96,54.42,2.02,106.22
+"IITF","BNL12773T",20170308,"TER-WHR","Terocaous","whra","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,482.7,26,18.57,38.88,2.09,80.55
+"FLMM","BNL12608",20170306,"PET-DOM","Petitia","domingensis","Upper","Sunlit","Chem",18.387864,-66.028765,501.3,19,26.38,57.89,2.19,115.48
+"FLMM+IITF","BNL12774T",20170308,"Cecropia","Cecropia",NA,"Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,468.4,23.1,20.28,40.65,2,86.79
+"FLMM","BNL12609",20170306,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","Chem",18.387864,-66.028765,527.9,12,43.99,69.1,1.57,130.9
+"FLMM+IITF","BNL12775T",20170308,"Cecropia","Cecropia",NA,"Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,475.3,25.6,18.57,39.2,2.11,82.48
+"FLMM","BNL12610",20170306,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","Chem",18.387864,-66.028765,536.2,15.6,34.37,91.56,2.66,170.75
+"FLMM+IITF","BNL12776T",20170308,"Cecropia","Cecropia",NA,"Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,98.9
+"FLMM","BNL12611",20170306,"COC-PUB","Coccoloba","pubescens","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,495.8,13.7,36.19,68.14,1.88,137.43
+"FLMM+IITF","BNL12777T",20170308,"AND-INE","Andira","inermis (MOCA)","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,458.4,24.1,19.02,46.48,2.44,101.39
+"FLMM","BNL12612",20170306,"COC-PUB","Coccoloba","pubescens","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,503.8,14.6,34.51,68.62,1.99,136.2
+"FLMM+IITF","BNL12778T",20170308,"Cecropia","Cecropia",NA,"Upper","Sunlit","Chem",18.38923,-66.05525,473.1,24.2,19.55,47.88,2.45,101.21
+"FLMM","BNL12613",20170306,"COC-PUB","Coccoloba","pubescens","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,190.75
+"FLMM+IITF","BNL12779T",20170308,"AND-INE","Andira","inermis (MOCA)","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,477.8,23.3,20.51,42.99,2.1,89.97
+"FLMM","BNL12614",20170306,"COC-PUB","Coccoloba","pubescens","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,165.07
+"FLMM+IITF","BNL12780T",20170308,"AND-INE","Andira","inermis (MOCA)",NA,NA,"Spectra",18.38923,-66.05525,NA,NA,NA,NA,NA,NA
+"FLMM","BNL12615",20170306,"COC-PUB","Coccoloba","pubescens","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,152.88
+"FLMM+IITF","BNL12781T",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,473.5,16.9,28.02,52.42,1.87,110.72
+"FLMM","BNL12616",20170306,"BUC-BUC","Bucida","buceras","Upper","Sunlit","Chem",18.387864,-66.028765,443.8,17.2,25.8,54.2,2.1,122.12
+"FLMM+IITF","BNL12782T",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,477.7,18.7,25.55,65.15,2.55,136.38
+"FLMM","BNL12617",20170306,"BUC-BUC","Bucida","buceras","Upper","Sunlit","Chem",18.387864,-66.028765,459.2,15.7,29.25,65.01,2.22,141.56
+"FLMM+IITF","BNL12783T",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,358.2,12.4,28.89,45.35,1.57,126.62
+"FLMM","BNL12618",20170306,"MAN-BID","Manilkara","bidentata","Upper","Sunlit","Chem",18.387864,-66.028765,514.2,12.8,40.17,60.2,1.5,117.08
+"FLMM+IITF","BNL12784T",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,525,16.4,32.01,38.1,1.19,72.57
+"FLMM","BNL12619",20170306,"MAN-BID","Manilkara","bidentata","Upper","Sunlit","Chem",18.387864,-66.028765,503.8,15.3,32.93,91.64,2.78,181.89
+"FLMM+IITF","BNL12785T",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,510.8,16.6,30.77,37.58,1.22,73.57
+"FLMM","BNL12620",20170306,"MAN-BID","Manilkara","bidentata","Upper","Sunlit","Chem",18.387864,-66.028765,500.2,12.1,41.34,84.85,2.05,169.62
+"FLMM+IITF","BNL12786T",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,514.2,16.6,30.98,34.63,1.12,67.35
+"FLMM","BNL12621",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,113.71
+"FLMM+IITF","BNL12787T",20170308,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,484.4,22.9,21.15,66.85,3.16,138
+"FLMM","BNL12622",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","Chem",18.387864,-66.028765,467.9,17.4,26.89,65.93,2.45,140.91
+"FLMM+IITF","BNL12788T",20170308,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,497.7,23.9,20.82,54.95,2.64,110.41
+"FLMM","BNL12719",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,455.8,18,25.32,48.33,1.91,106.04
+NA,"BNL12789T",NA,NA,NA,NA,NA,NA,NA,NA,NA,507.5,23.6,21.5,69.55,3.23,137.04
+"FLMM","BNL12720",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,470.3,19.5,24.12,63.61,2.64,135.26
+"SB2","BNL12698T",20170309,"MAN-BID","Manilkara","bidentata","Lower","Shaded","Chem",18.302924,-65.787412,496.5,14.8,33.55,49.92,1.49,100.55
+"FLMM","BNL12722",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,NA,NA,NA,NA,NA,132.99
+"SB2","BNL12699T",20170309,"CAL-CAL","Calophyllum","calaba","Mid","Part_Sun","Chem",18.302924,-65.787412,527.4,25.3,20.85,17.79,0.85,33.73
+"FLMM","BNL12723",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,NA,NA,NA,NA,NA,123.46
+NA,"BNL12700T",NA,NA,NA,NA,NA,NA,NA,NA,NA,529,19.3,27.41,21.34,0.78,40.34
+"FLMM","BNL12724",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,484.2,17,28.48,47.57,1.67,98.24
+"SB2","BNL12901T",20170308,"CAL-CAL","Calophyllum","calaba","Upper","Sunlit","Chem",18.302924,-65.787412,516.8,14.2,36.39,46.43,1.28,89.84
+"FLMM","BNL12725",20170306,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,520.1,23.4,22.23,34.64,1.56,66.6
+"SB2","BNL12902T",20170308,"SYZ-JAM","Syzygium","jambos","Upper","Sunlit","Chem",18.302924,-65.787412,523.2,19.2,27.25,28.76,1.06,97.73
+"FLMM","BNL12726",20170306,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,529.4,22.4,23.63,38.88,1.64,73.44
+"SB2","BNL12903T",20170308,"SYZ-JAM","Syzygium","jambos","Upper","Sunlit","Chem",18.302924,-65.787412,484.9,20.6,23.54,56.74,2.41,117.02
+"FLMM","BNL12727",20170306,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,510.3,22.4,22.78,38.57,1.69,75.59
+"SB2","BNL12904T",20170308,"ING-LAU","Inga","laurina (Sw.) Willd.","Lower","Shaded","Chem",18.302924,-65.787412,494.6,31.8,15.55,35.95,2.31,72.69
+"FLMM","BNL12728",20170306,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,516.4,17.6,29.34,44.77,1.53,86.69
+"SB2","BNL12905T",20170308,"SYZ-JAM","Syzygium","jambos","Mid","Part_Sun","Chem",18.302924,-65.787412,511.5,17.8,28.74,37.42,1.3,73.15
+"FLMM","BNL12729",20170306,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,NA,NA,NA,NA,NA,81.42
+"SB2","BNL12906T",20170308,"SYZ-JAM","Syzygium","jambos","Mid","Part_Sun","Chem",18.302924,-65.787412,487.7,16.8,29.03,25.13,0.87,51.53
+"FLMM","BNL12730",20170306,"BOU-SUC","Bourreria","succculenta","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,512.1,16.8,30.48,46.6,1.53,91
+"SB2","BNL12907T",20170308,"SYZ-JAM","Syzygium","jambos","Mid","Part_Sun","Chem",18.302924,-65.787412,496.4,17.7,28.05,55.33,1.97,111.46
+"FLMM","BNL12731",20170306,"CLU-ROS","Clusia","rosea","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,476.4,12.1,39.37,143.25,3.64,300.7
+"SB2","BNL12908T",20170308,"SYZ-JAM","Syzygium","jambos","Mid","Part_Sun","Chem",18.302924,-65.787412,484.3,16.7,29,63.56,2.19,131.24
+"FLMM","BNL12732",20170306,"GUA-FRA","Guapira","fragans","Upper","Sunlit","Chem",18.387864,-66.028765,471.2,38.3,12.3,32.14,2.61,68.21
+"SB2","BNL12909T",20170308,"SYZ-JAM","Syzygium","jambos","Mid","Part_Sun","Chem",18.302924,-65.787412,516.5,23.5,21.98,29.35,1.34,96.59
+"FLMM","BNL12733",20170306,"GUA-FRA","Guapira","fragans","Upper","Sunlit","Chem",18.387864,-66.028765,459,34.6,13.27,15.46,1.17,33.67
+"SB2","BNL12910T",20170308,"ALC-LAT","Alchornea","latifolia Sw.","Mid","Part_Sun","Chem",18.302924,-65.787412,496.5,22.2,22.36,24.75,1.11,49.85
+"FLMM","BNL12734",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","Chem",18.387864,-66.028765,478.7,21.4,22.37,62.43,2.79,130.42
+"SB2","BNL12911T",20170309,"ALC-LAT","Alchornea","latifolia Sw.","Mid","Part_Sun","Chem",18.302924,-65.787412,489.8,29.1,16.83,28.03,1.67,57.23
+"FLMM","BNL12735",20170306,"COC-DIV","Coccoloba","diversifolia","Upper","Sunlit","Chem",18.387864,-66.028765,466.8,18.7,24.96,57.98,2.32,124.21
+"SB2","BNL12912T",20170309,"ALC-LAT","Alchornea","latifolia Sw.","Mid","Part_Sun","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,65.56
+"FLMM","BNL12736",20170306,"GUA-OFF","Guaiacum","officinale","Upper","Sunlit","Chem",18.387864,-66.028765,521.9,23.5,22.21,45.76,2.06,87.68
+"SB2","BNL12913T",20170309,"TAB-HET","Tabebuia","heterophylla (DC.) Britton","Mid","Part_Sun","Chem",18.302924,-65.787412,469.7,14.1,33.31,30.2,0.91,64.29
+"FLMM","BNL12737",20170306,"CLU-ROS","Clusia","rosea","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,469.9,11.3,41.58,136.07,3.27,289.58
+"SB2","BNL12914T",20170309,"TAB-HET","Tabebuia","heterophylla (DC.) Britton","Mid","Part_Sun","Chem",18.302924,-65.787412,480.1,14,34.29,38.72,1.13,80.64
+"FLMM","BNL12738",20170306,"CLU-ROS","Clusia","rosea","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,478.5,11.9,40.21,142.19,3.54,297.16
+"SB2","BNL12915T",20170308,"ALC-LAT","Alchornea","latifolia Sw.","Upper","Sunlit","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,40.07
+"FLMM","BNL12739",20170306,"CLU-ROS","Cordia","collococca",NA,NA,"Spectra",18.387864,-66.028765,NA,NA,NA,NA,NA,NA
+"SB2","BNL12916T",20170308,"ALC-LAT","Alchornea","latifolia Sw.","Upper","Sunlit","Chem",18.302924,-65.787412,483.2,26.3,18.37,26.99,1.47,55.87
+"FLMM","BNL12740",20170306,"COR-COL","Cordia","collococca","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,499.9,24.8,20.16,48.09,2.39,96.2
+"SB2","BNL12917T",20170309,"MAN-BID","Manilkara","bidentata","Mid","Part_Sun","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,66.92
+"FLMM","BNL12741",20170306,"COR-COL","Cordia","collococca","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,493.6,26.6,18.56,38.84,2.09,78.7
+"SB2","BNL12918T",20170309,"MAN-BID","Manilkara","bidentata",NA,NA,"Spectra",18.302924,-65.787412,NA,NA,NA,NA,NA,NA
+"FLMM","BNL12742",20170306,"COR-COL","Cordia","collococca","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,NA,NA,NA,NA,NA,82.21
+"SB2","BNL12919T",20170309,"MAN-BID","Manilkara","bidentata","Mid","Part_Sun","Chem",18.302924,-65.787412,506.9,14.8,34.25,55.87,1.63,110.22
+"FLMM","BNL12743",20170306,"COC-PUB","Coccoloba","pubescens","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,500.9,15,33.39,74.39,2.23,148.52
+"SB2","BNL12920T",20170308,"CAL-CAL","calophyllum","calaba","Lower","Shaded","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,58.8
+"FLMM","BNL12744",20170306,"COC-PUB","Coccoloba","pubescens","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,470,14.7,31.97,98.95,3.09,210.52
+"SB2","BNL12921T",20170308,"CAL-CAL","calophyllum","calaba","Lower","Shaded","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,83.88
+"FLMM","BNL12745",20170306,"COC-PUB","Coccoloba","pubescens","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,472,15.5,30.45,77.81,2.56,164.86
+"SB2","BNL12922T",20170308,"TAB-HET","Tabebuia","heterophylla (DC.) Britton","Lower","Shaded","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,70.79
+"FLMM","BNL12746",20170306,"COC-PUB","Coccoloba","pubescens","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,472.7,16.1,29.36,76.49,2.61,161.83
+"SB2","BNL12923T",20170308,"CAL-CAL","calophyllum","calaba","Lower","Shaded","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,35.22
+"FLMM","BNL12623",20170307,"FIC-TRY","Ficus","trigonata","Upper","Sunlit","Chem",18.387864,-66.028765,391.9,16.9,23.19,39.26,1.69,100.18
+"SB2","BNL12924T",20170308,"CAL-CAL","calophyllum","calaba","Lower","Shaded","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,88.23
+"FLMM","BNL12624",20170307,"FIC-TRY","Ficus","trigonata","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,100.41
+"SB2","BNL12925T",20170308,"ALC-LAT","Alchornea","latifolia Sw.","Mid","Part_Sun","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,46.78
+"FLMM","BNL12625",20170307,"FIC-CIT","Ficus","citrifolia","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,48.96
+"SB2","BNL12926T",20170309,"ALC-LAT","Alchornea","latifolia Sw.","Mid","Part_Sun","Chem",18.302924,-65.787412,483.9,19.5,24.82,24.7,1,51.05
+"FLMM","BNL12626",20170307,"FIC-CIT","Ficus","citrifolia","Lower","Shaded","Chem",18.387864,-66.028765,421.6,15.2,27.74,21.09,0.76,50.01
+"FLMM","BNL12627",20170307,"TRE-MIC","Trema","micrantha","Lower","Shaded","Chem",18.387864,-66.028765,438,19.6,22.35,30.06,1.35,68.63
+"FLMM","BNL12628",20170307,"GUA-GUI","Guarea","guidonia","Mid","Part_Sun","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,88.68
+"FLMM","BNL12629",20170307,"GUA-GUI","Guarea","guidonia","Upper","Sunlit","Chem",18.387864,-66.028765,518,26.7,19.4,50.63,2.61,97.73
+"FLMM","BNL12630",20170307,"SWI-MAH","Swietenia","mahagoni","Upper","Sunlit","Chem",18.387864,-66.028765,512.7,18.1,28.33,52.56,1.86,102.52
+"FLMM","BNL12631",20170307,"GUA-GUI","Guarea","guidonia","Upper","Sunlit","Chem",18.387864,-66.028765,550.7,30.5,18.06,26.14,1.45,47.47
+"FLMM","BNL12633",20170307,"FIC-TRY","Ficus","trigonata","Lower","Shaded","Chem",18.387864,-66.028765,445.9,20.7,21.54,26.48,1.23,59.39
+"FLMM","BNL12634",20170307,"FIC-TRY","Ficus","trigonata","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,81.45
+"FLMM","BNL12635",20170307,"TER-CAT","Terminalia","catappa","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,72.66
+"FLMM","BNL12636",20170307,"GUA-ULM","Guazuma","ulmifolia","Upper","Sunlit","Chem",18.387864,-66.028765,477.7,30.4,15.71,41.68,2.65,87.25
+"FLMM","BNL12637",20170307,"DEN-ARB","Dendropanax","arboreus","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,56.23
+"FLMM","BNL12638",20170307,"DEN-ARB","Dendropanax","arboreus","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,74.62
+"FLMM","BNL12639",20170307,"DEN-ARB","Dendropanax","arboreus","Upper","Sunlit","Chem",18.387864,-66.028765,481,26.1,18.43,32.64,1.77,67.85
+"FLMM","BNL12640",20170307,"DEN-ARB","Dendropanax","arboreus","Upper","Sunlit","Chem",18.387864,-66.028765,493,23.9,20.63,44.49,2.16,90.25
+"FLMM","BNL12641",20170307,"TET-BAL","Tetragastris","balsamifera","Lower","Shaded","Chem",18.387864,-66.028765,463.8,17.9,25.91,36.44,1.41,78.58
+"FLMM","BNL12642",20170307,"TET-BAL","Tetragastris","balsamifera","Lower","Shaded","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,68.53
+"FLMM","BNL12643",20170307,"BUC-TET","Buchenavia","tetraphylla","Lower","Shaded","Chem",18.387864,-66.028765,485.6,26.8,18.12,30.44,1.68,62.68
+"FLMM","BNL12644",20170307,"BUC-TET","Buchenavia","tetraphylla","Upper","Sunlit","Chem",18.387864,-66.028765,486.8,17.3,28.14,73.98,2.63,151.97
+"FLMM","BNL12645",20170307,"DEL-REG","Delonix","regia","Upper","Sunlit","Chem",18.387864,-66.028765,448.9,19,23.63,46.28,1.96,103.09
+"FLMM","BNL12646",20170307,"GUA-ULM","Guazuma","ulmifolia","Lower","Shaded","Chem",18.387864,-66.028765,461.9,33.7,13.71,30.77,2.25,66.62
+"FLMM","BNL12647",20170307,"SPA-CAM","Spathodea","campanulata P. Beauv","Upper","Sunlit","Chem",18.387864,-66.028765,455.8,22.5,20.26,42.88,2.12,94.07
+"FLMM","BNL12648",20170307,"DEN-ARB","Dendropanax","arboreus","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,46.06
+"FLMM","BNL12649",20170307,"DEN-ARB","Dendropanax","arboreus","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,76.78
+"FLMM","BNL12651",20170307,"TET-BAL","Tetragastris","balsamifera","Upper","Sunlit","Chem",18.387864,-66.028765,510.4,23.8,21.45,23.74,1.11,46.51
+"IITF","BNL12747",20170307,"SWI-MAC","Swietenia","macrophylla","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,495.7,10.1,49.08,55.54,1.13,112.05
+"IITF","BNL12748",20170307,"SWI-MAC","Swietenia","macrophylla","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,471.5,9.9,47.63,46.96,0.99,99.6
+"IITF","BNL12749",20170307,"SWI-MAC","Swietenia","macrophylla","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,487.7,10.6,46.01,NA,NA,NA
+"IITF","BNL12750",20170307,"SWI-MAC","Swietenia","macrophylla","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,503.2,10.2,49.33,51.45,1.04,102.25
+"IITF","BNL12751",20170307,"SWI-MAC","Swietenia","macrophylla","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,486.9,9.6,50.72,44.28,0.87,90.94
+"IITF","BNL12752",20170307,"AND-INE","Andira","inermis (MOCA)","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,553.1,40.1,13.79,28.81,2.09,52.09
+"IITF","BNL12753",20170307,"AND-INE","Andira","inermis (MOCA)","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,550.1,38.3,14.36,26.89,1.87,48.89
+"IITF","BNL12754",20170307,"AND-INE","Andira","inermis (MOCA)","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,529.7,22.3,23.75,55.65,2.34,105.06
+"IITF","BNL12756",20170307,"AND-INE","Andira","inermis (MOCA)","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,500.5,20.5,24.41,48.67,1.99,97.25
+"IITF","BNL12757",20170307,"AND-INE","Andira","inermis (MOCA)","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,546.8,33.8,16.18,28.44,1.76,52.02
+"IITF","BNL12758",20170307,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,507.9,15.2,33.41,78.28,2.34,154.13
+"IITF","BNL12759",20170307,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,510.4,15.1,33.8,74.29,2.2,145.56
+"IITF","BNL12760",20170307,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,506,13.9,36.4,70.63,1.94,139.59
+"IITF","BNL12761",20170307,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,510.7,19.8,25.79,32.27,1.25,63.19
+"IITF","BNL12762",20170307,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,519.5,23.7,21.92,35.25,1.61,67.85
+"IITF","BNL12763",20170307,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,519.1,23.1,22.47,34.1,1.52,65.68
+"IITF","BNL12764",20170307,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,466.5,26.3,17.74,42.54,2.4,91.19
+"IITF","BNL12765",20170307,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,466.5,26.1,17.87,44.07,2.47,94.47
+"IITF","BNL12766",20170307,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,479.9,26.6,18.04,41.59,2.31,86.66
+"IITF","BNL12767",20170307,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,483.6,25.5,18.96,42.51,2.24,87.91
+"IITF","BNL12768",20170307,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,446.9,25.8,17.32,41.62,2.4,93.14
+"FLMM","BNL12650",20170308,"SPA-CAM","Spathodea","campanulata P. Beauv","Lower","Shaded","Chem",18.387864,-66.028765,422.6,17.5,24.15,40.62,1.68,96.12
+"FLMM+IITF","BNL12652",20170308,"MAN-BID","Manilkara","bidentata","Upper","Sunlit","Chem",18.38923,-66.05525,473,16.3,29.02,39.48,1.36,83.47
+"FLMM+IITF","BNL12653",20170308,"CEI-PEN","Ceiba","pentandra","Upper","Sunlit","Chem",18.38923,-66.05525,445.1,20.2,22.03,25.54,1.16,57.37
+"FLMM+IITF","BNL12654",20170308,"CEI-PEN","Ceiba","pentandra","Upper","Sunlit","Chem",18.38923,-66.05525,453,26,17.42,28.9,1.66,63.79
+"FLMM+IITF","BNL12655",20170308,"MAN-BID","Manilkara","bidentata","Upper","Sunlit","Chem",18.38923,-66.05525,455.9,17.7,25.76,116.48,4.52,255.5
+"FLMM+IITF","BNL12656",20170308,"MAN-BID","Manilkara","bidentata","Upper","Sunlit","Chem",18.38923,-66.05525,482.1,11.2,43.04,25.05,0.58,51.97
+"FLMM+IITF","BNL12657",20170308,"SWI-MAH","Swietenia","mahagoni","Lower","Shaded","Chem",18.38923,-66.05525,503.6,18.3,27.52,44.45,1.62,88.27
+"FLMM+IITF","BNL12658",20170308,"CEI-PEN","Ceiba","pentandra","Mid","Part_Sun","Chem",18.38923,-66.05525,471.5,52.2,9.03,18.18,2.01,38.55
+"FLMM+IITF","BNL12659",20170308,"FIC-CIT","Ficus","citrifolia","Upper","Sunlit","Chem",18.38923,-66.05525,474.4,18.8,25.23,101.79,4.03,214.57
+"FLMM+IITF","BNL12660",20170308,"FIC-CIT","Ficus","citrifolia","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,99
+"FLMM+IITF","BNL12661",20170308,"FIC-CIT","Ficus","citrifolia","Upper","Sunlit","Chem",18.38923,-66.05525,455.3,19.2,23.71,48.36,2.04,106.22
+"FLMM+IITF","BNL12662",20170308,"COR-ALL","Cordia","alliodora","Lower","Shaded","Chem",18.38923,-66.05525,447.5,29.7,15.07,41.88,2.78,93.59
+"FLMM+IITF","BNL12663",20170308,"TET-BAL","Tetragastris","balsamifera","Upper","Sunlit","Chem",18.38923,-66.05525,467.8,15.3,30.58,42.03,1.37,89.85
+"FLMM+IITF","BNL12664",20170308,"COR-ALL","Cordia","alliodora","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,85.55
+"FLMM+IITF","BNL12665",20170308,"OCO-LEU","Ocotea","leucoxylon (Sw.) De Laness.","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,67.06
+"FLMM+IITF","BNL12666",20170308,"CIN-ELO","Cinnamomum","elongatum (Vahl ex Nees) Kosterm.","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,66.23
+"FLMM+IITF","BNL12667",20170308,"CIN-ELO","Cinnamomum","elongatum (Vahl ex Nees) Kosterm.","Upper","Sunlit","Chem",18.38923,-66.05525,490.5,24.4,20.1,33.11,1.65,67.51
+"FLMM+IITF","BNL12668",20170308,"CIN-ELO","Cinnamomum","elongatum (Vahl ex Nees) Kosterm.","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,74.32
+"FLMM+IITF","BNL12669",20170308,"CEC-SCH","Cecropia","schreberiana Miq.","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,470.9,33.9,13.89,34.29,2.47,72.81
+"FLMM+IITF","BNL12670",20170308,"CEC-SCH","Cecropia","schreberiana Miq.","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,73.02
+"FLMM+IITF","BNL12671",20170308,"CIN-ELO","Cinnamomum","elongatum (Vahl ex Nees) Kosterm.","Lower","Shaded","Chem",18.38923,-66.05525,468.8,31.3,14.98,27.8,1.86,59.31
+"FLMM+IITF","BNL12672",20170308,"ALB-PRO","Albizia","procera (Roxb.) Benth.","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,72.59
+"FLMM+IITF","BNL12673",20170308,"ALB-PRO","Albizia","procera (Roxb.) Benth.","Upper","Sunlit","Chem",18.38923,-66.05525,475.6,26.8,17.75,47.66,2.69,100.21
+"FLMM+IITF","BNL12674",20170308,"CEC-SCH","Cecropia","schreberiana Miq.","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,79.08
+"FLMM+IITF","BNL12675",20170308,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,89.02
+"FLMM+IITF","BNL12676",20170308,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,88.06
+"FLMM+IITF","BNL12677",20170308,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","Chem",18.38923,-66.05525,439.7,14.9,29.51,34.88,1.18,79.33
+"FLMM+IITF","BNL12678",20170308,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","Chem",18.38923,-66.05525,522.3,24.7,21.15,33.16,1.57,63.49
+"FLMM+IITF","BNL12679",20170308,"CLI-FAI","Clitorin","fairchildan","Upper","Sunlit","Chem",18.38923,-66.05525,505.8,14.7,34.41,71.41,2.08,141.18
+"FLMM+IITF","BNL12680",20170308,"AND-INE","Andira","inermis","Upper","Sunlit","Chem",18.38923,-66.05525,542.1,39.5,13.72,23.81,1.74,43.93
+"FLMM+IITF","BNL12681",20170308,"AND-INE","Andira","inermis","Upper","Sunlit","Chem",18.38923,-66.05525,535.1,36.3,14.74,26.28,1.78,49.11
+"FLMM+IITF","BNL12682",20170308,"AND-INE","Andira","inermis","Upper","Sunlit","Chem",18.38923,-66.05525,524.2,25.7,20.4,46.2,2.27,88.14
+"FLMM+IITF","BNL12683",20170308,"SWI-MAC","Swietenia","macrophylla","Upper","Sunlit","Chem",18.38923,-66.05525,480.7,12.8,37.55,40.82,1.09,84.92
+"FLMM+IITF","BNL12684",20170308,"SWI-MAC","Swietenia","macrophylla","Upper","Sunlit","Chem",18.38923,-66.05525,493.4,10.2,48.37,46.1,0.95,93.43
+"FLMM+IITF","BNL12687",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","Chem",18.38923,-66.05525,486.6,14.6,33.33,77.57,2.33,159.41
+"FLMM+IITF","BNL12688",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","Chem",18.38923,-66.05525,501.4,23.7,21.16,32.56,1.54,64.95
+"FLMM+IITF","BNL12689",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","Chem",18.38923,-66.05525,474.9,17.5,27.14,80.39,2.96,169.27
+"FLMM+IITF","BNL12690",20170308,"PIM-RAC","Pimenta","racemosa (Mill.) J.W. Moore","Upper","Sunlit","Chem",18.38923,-66.05525,494.5,9.7,50.98,82.46,1.62,166.76
+"FLMM+IITF","BNL12691",20170308,"PIM-RAC","Pimenta","racemosa (Mill.) J.W. Moore","Upper","Sunlit","Chem",18.38923,-66.05525,501.8,11.2,44.8,77.48,1.73,154.4
+"FLMM+IITF","BNL12692",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","Chem",18.38923,-66.05525,501.3,12.2,41.09,79.91,1.94,159.41
+"FLMM","BNL12718",20170308,"ROY-BOR","Roystonea","borinquena","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,439.6,19.8,22.2,51.41,2.32,116.95
+"FLMM","BNL12769",20170308,"ROY-BOR","Roystonea","borinquena","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,435.6,21.6,20.17,47.09,2.33,108.1
+"FLMM","BNL12770",20170308,"ROY-BOR","Roystonea","borinquena","Upper","Sunlit","GasEx / Fs",18.387864,-66.028765,444.3,20.8,21.36,58.25,2.73,131.1
+"FLMM","BNL12771",20170308,"ROY-BOR","Roystonea","borinquena","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,136.78
+"FLMM","BNL12772",20170308,"ROY-BOR","Roystonea","borinquena","Upper","Sunlit","Chem",18.387864,-66.028765,NA,NA,NA,NA,NA,116.64
+"IITF","BNL12773",20170308,"TER-WHR","Terocaous","whra","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,482.7,26,18.57,38.88,2.09,80.55
+"FLMM+IITF","BNL12774",20170308,"Cecropia","Cecropia",NA,"Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,468.4,23.1,20.28,40.65,2,86.79
+"FLMM+IITF","BNL12775",20170308,"Cecropia","Cecropia",NA,"Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,475.3,25.6,18.57,39.2,2.11,82.48
+"FLMM+IITF","BNL12776",20170308,"Cecropia","Cecropia",NA,"Upper","Sunlit","Chem",18.38923,-66.05525,NA,NA,NA,NA,NA,98.9
+"FLMM+IITF","BNL12778",20170308,"Cecropia","Cecropia",NA,"Upper","Sunlit","Chem",18.38923,-66.05525,473.1,24.2,19.55,47.88,2.45,101.21
+"FLMM+IITF","BNL12779",20170308,"AND-INE","Andira","inermis (MOCA)","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,477.8,23.3,20.51,42.99,2.1,89.97
+"FLMM+IITF","BNL12780",20170308,"AND-INE","Andira","inermis (MOCA)",NA,NA,"Spectra",18.38923,-66.05525,NA,NA,NA,NA,NA,NA
+"FLMM+IITF","BNL12781",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,473.5,16.9,28.02,52.42,1.87,110.72
+"FLMM+IITF","BNL12782",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,477.7,18.7,25.55,65.15,2.55,136.38
+"FLMM+IITF","BNL12783",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,358.2,12.4,28.89,45.35,1.57,126.62
+"FLMM+IITF","BNL12784",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,525,16.4,32.01,38.1,1.19,72.57
+"FLMM+IITF","BNL12785",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,510.8,16.6,30.77,37.58,1.22,73.57
+"FLMM+IITF","BNL12786",20170308,"BUC-BUC","Bucida","buceras","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,514.2,16.6,30.98,34.63,1.12,67.35
+"FLMM+IITF","BNL12787",20170308,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,484.4,22.9,21.15,66.85,3.16,138
+"FLMM+IITF","BNL12788",20170308,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,497.7,23.9,20.82,54.95,2.64,110.41
+"FLMM+IITF","BNL12789",20170308,"CAL-ANT","Calophyllum","antillanum","Upper","Sunlit","GasEx / Fs",18.38923,-66.05525,507.5,23.6,21.5,69.55,3.23,137.04
+"SB2","BNL12698",20170309,"MAN-BID","Manilkara","bidentata","Lower","Shaded","Chem",18.302924,-65.787412,496.5,14.8,33.55,49.92,1.49,100.55
+"SB2","BNL12699",20170309,"CAL-CAL","Calophyllum","calaba","Mid","Part_Sun","Chem",18.302924,-65.787412,527.4,25.3,20.85,17.79,0.85,33.73
+"SB2","BNL12700",20170309,"CAL-CAL","Calophyllum","calaba","Mid","Part_Sun","Chem",18.302924,-65.787412,529,19.3,27.41,21.34,0.78,40.34
+"SB2","BNL12901",20170308,"CAL-CAL","Calophyllum","calaba","Upper","Sunlit","Chem",18.302924,-65.787412,516.8,14.2,36.39,46.43,1.28,89.84
+"SB2","BNL12902",20170308,"SYZ-JAM","Syzygium","jambos","Upper","Sunlit","Chem",18.302924,-65.787412,523.2,19.2,27.25,28.76,1.06,97.73
+"SB2","BNL12903",20170308,"SYZ-JAM","Syzygium","jambos","Upper","Sunlit","Chem",18.302924,-65.787412,484.9,20.6,23.54,56.74,2.41,117.02
+"SB2","BNL12904",20170308,"ING-LAU","Inga","laurina (Sw.) Willd.","Lower","Shaded","Chem",18.302924,-65.787412,494.6,31.8,15.55,35.95,2.31,72.69
+"SB2","BNL12905",20170308,"SYZ-JAM","Syzygium","jambos","Mid","Part_Sun","Chem",18.302924,-65.787412,511.5,17.8,28.74,37.42,1.3,73.15
+"SB2","BNL12906",20170308,"SYZ-JAM","Syzygium","jambos","Mid","Part_Sun","Chem",18.302924,-65.787412,487.7,16.8,29.03,25.13,0.87,51.53
+"SB2","BNL12907",20170308,"SYZ-JAM","Syzygium","jambos","Mid","Part_Sun","Chem",18.302924,-65.787412,496.4,17.7,28.05,55.33,1.97,111.46
+"SB2","BNL12908",20170308,"SYZ-JAM","Syzygium","jambos","Mid","Part_Sun","Chem",18.302924,-65.787412,484.3,16.7,29,63.56,2.19,131.24
+"SB2","BNL12909",20170308,"SYZ-JAM","Syzygium","jambos","Mid","Part_Sun","Chem",18.302924,-65.787412,516.5,23.5,21.98,29.35,1.34,96.59
+"SB2","BNL12910",20170308,"ALC-LAT","Alchornea","latifolia Sw.","Mid","Part_Sun","Chem",18.302924,-65.787412,496.5,22.2,22.36,24.75,1.11,49.85
+"SB2","BNL12911",20170309,"ALC-LAT","Alchornea","latifolia Sw.","Mid","Part_Sun","Chem",18.302924,-65.787412,489.8,29.1,16.83,28.03,1.67,57.23
+"SB2","BNL12912",20170309,"ALC-LAT","Alchornea","latifolia Sw.","Mid","Part_Sun","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,65.56
+"SB2","BNL12913",20170309,"TAB-HET","Tabebuia","heterophylla (DC.) Britton","Mid","Part_Sun","Chem",18.302924,-65.787412,469.7,14.1,33.31,30.2,0.91,64.29
+"SB2","BNL12914",20170309,"TAB-HET","Tabebuia","heterophylla (DC.) Britton","Mid","Part_Sun","Chem",18.302924,-65.787412,480.1,14,34.29,38.72,1.13,80.64
+"SB2","BNL12915",20170308,"ALC-LAT","Alchornea","latifolia Sw.","Upper","Sunlit","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,40.07
+"SB2","BNL12916",20170308,"ALC-LAT","Alchornea","latifolia Sw.","Upper","Sunlit","Chem",18.302924,-65.787412,483.2,26.3,18.37,26.99,1.47,55.87
+"SB2","BNL12917",20170309,"MAN-BID","Manilkara","bidentata","Mid","Part_Sun","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,66.92
+"SB2","BNL12918",20170309,"MAN-BID","Manilkara","bidentata",NA,NA,"Spectra",18.302924,-65.787412,NA,NA,NA,NA,NA,NA
+"SB2","BNL12919",20170309,"MAN-BID","Manilkara","bidentata","Mid","Part_Sun","Chem",18.302924,-65.787412,506.9,14.8,34.25,55.87,1.63,110.22
+"SB2","BNL12920",20170308,"CAL-CAL","calophyllum","calaba","Lower","Shaded","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,58.8
+"SB2","BNL12921",20170308,"CAL-CAL","calophyllum","calaba","Lower","Shaded","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,83.88
+"SB2","BNL12922",20170308,"TAB-HET","Tabebuia","heterophylla (DC.) Britton","Lower","Shaded","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,70.79
+"SB2","BNL12923",20170308,"CAL-CAL","calophyllum","calaba","Lower","Shaded","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,35.22
+"SB2","BNL12924",20170308,"CAL-CAL","calophyllum","calaba","Lower","Shaded","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,88.23
+"SB2","BNL12925",20170308,"ALC-LAT","Alchornea","latifolia Sw.","Mid","Part_Sun","Chem",18.302924,-65.787412,NA,NA,NA,NA,NA,46.78
+"SB2","BNL12926",20170309,"ALC-LAT","Alchornea","latifolia Sw.","Mid","Part_Sun","Chem",18.302924,-65.787412,483.9,19.5,24.82,24.7,1,51.05
