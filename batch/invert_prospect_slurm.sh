@@ -1,6 +1,6 @@
 #!/bin/bash
 #######################################################################################
-#SBATCH --time=48:00:00
+#SBATCH --time=68:00:00
 #SBATCH --job-name=prospect-slurm
 #SBATCH --out="prospect_job-%j.out"
 #SBATCH --nodes=1
