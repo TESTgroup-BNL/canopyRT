@@ -4,9 +4,9 @@
 #SBATCH --job-name=prospect-slurm
 #SBATCH --out="prospect_job-%j.out"
 #SBATCH --nodes=1
-#SBATCH --cpus-per-task=6
-#SBATCH --tasks-per-node=2
-#SBATCH --mem-per-cpu=20GB
+#SBATCH --cpus-per-task=3
+#SBATCH --tasks-per-node=1
+#SBATCH --mem-per-cpu=10GB
 #SBATCH --mail-type=ALL
 #######################################################################################
 
