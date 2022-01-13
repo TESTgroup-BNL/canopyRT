@@ -2,6 +2,9 @@
 .DS_Store
 *.DS_*
 *.DS
+*._*
+*._
+._*
 
 # History files
 .Rhistory
