@@ -145,16 +145,11 @@ p.refl.stats <- list(lower = array(data=NA,c(dim(sub_refl_data)[1],2101)),
 
 # setup likelihood function
 likelihood <- function(params) {
-  #N, Cab, Car, Cbrown, Canth, Cw, Cm,
-  #mod <- prospect5(params[1], params[2], params[3], params[4], params[5], 
-  #                 params[6])[min(which(prospect_waves %in% subset_waves, 
-  #                                      arr.ind = TRUE)):2101,1]
-  #sum(dnorm(obs, mod[["reflectance"]], params[7], log = TRUE))
+  # N, Cab, Car, Cbrown, Canth, Cw, Cm,
   mod <- prospectd(params[1], params[2], params[3], params[4], params[5], 
                    params[6], params[7])$reflectance[min(which(prospect_waves %in% subset_waves, 
                                         arr.ind = TRUE)):2101]
   sum(dnorm(obs, mod, params[8], log = TRUE))
-
 }
 # !! in here the likelihood assumes the spectra to invert is labeled "obs"
 
@@ -180,7 +175,7 @@ curve(dgamma(x, 2.1, 0.2), 0, 40)
 
 # Cbrown density
 Cbrownd <- distributions3::Normal(0.05, 0.03)
-curve(dnorm(x, 0.03, 0.01), 0, 1)
+curve(dnorm(x, 0.06, 0.03), 0, 1)
 
 # Cant density
 #Canthd <- distributions3::LogNormal(2.1, 0.2)
@@ -250,8 +245,8 @@ print("Starting Inversion:")
 print(paste0("Inverting: ", dim(sub_refl_data)[1]))
 print(" ")
 pb <- txtProgressBar(min = 0, max = dim(sub_refl_data)[1], width= 50,style = 3)
-#system.time(for (i in seq_along(1:dim(sub_refl_data)[1]) ) {
-system.time(for (i in seq_along(1:3) ) {
+system.time(for (i in seq_along(1:dim(sub_refl_data)[1]) ) {
+#system.time(for (i in seq_along(1:3) ) {
   print(" ")
   print(paste0("Inverting: ",unlist(refl_spec_info2[i,title_var])))
   obs <- unlist(sub_refl_data[i,])
@@ -352,8 +347,8 @@ names(mod.params) <- c("N.mu", "N.q25", "N.q975", "Cab.mu", "Cab.q25", "Cab.q975
 ## Plot comparison
 grDevices::pdf(file=file.path(out.dir,'PROSPECTD_Inversion_Diagnostics.pdf'),height=8,width=9)
 par(mfrow=c(1,1), mar=c(4.3,4.3,1.0,4.3), oma=c(0.1,0.1,0.1,0.1)) # B L T R
-#for (i in seq_along(1:dim(sub_refl_data)[1] )) {
-for (i in seq_along(1:3) ) {
+for (i in seq_along(1:dim(sub_refl_data)[1] )) {
+#for (i in seq_along(1:3) ) {
   plot(waves,output.LRT$obs.Reflectance[i,], type="l", col="black",xlab="Wavelength (nm)",ylab="Reflectance (0-1)",
        lwd=3,main=paste0(output.LRT$Spec.Info[i,1]," ", output.LRT$Spec.Info[i,3]),
        ylim=c(min(p.refl.stats$lower[i,]), max(p.refl.stats$upper[i,])+0.1) )
@@ -409,20 +404,22 @@ names(leaf_vis_absorption_final) <- c(names_output_sample_info,"Leaf_VIS_Spectra
 ## Licor Fs absorption
 licor.abs <- array(NA,dim=c(dim(mod.params)[1],3))
 for (i in 1:dim(mod.params)[1] ) {
-  #for (i in 1:6 ) {
+#for (i in 1:3 ) {
   # Using observed refl data instead of modeled
   #refl <- spectral.response(unlist(sub_refl_data[i,]), 'licor')
   # Using modeled reflectance spectra
   refl <- rrtm::spectral.response(as.vector(rrtm::prospectd(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],
                                                             mod.params[i,"Car.mu"],
                                                             mod.params[i,"Cbrown.mu"],
-                                                            
+                                                            mod.params[i,"Canth.mu"],
                                                             mod.params[i,"Cw.mu"],
                                                             mod.params[i,"Cm.mu"])$reflectance), 'licor')
   trans <- rrtm::spectral.response(as.vector(rrtm::prospectd(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],
-                                                                 mod.params[i,"Car.mu"],
-                                                                 mod.params[i,"Cbrown.mu"],mod.params[i,"Cw.mu"],
-                                                                 mod.params[i,"Cm.mu"])$transmittance), 'licor')
+                                                             mod.params[i,"Car.mu"],
+                                                             mod.params[i,"Cbrown.mu"],
+                                                             mod.params[i,"Canth.mu"],
+                                                             mod.params[i,"Cw.mu"],
+                                                             mod.params[i,"Cm.mu"])$transmittance), 'licor')
   licor.abs[i,] <- 1-trans-refl
   rm(refl,trans)
 }
