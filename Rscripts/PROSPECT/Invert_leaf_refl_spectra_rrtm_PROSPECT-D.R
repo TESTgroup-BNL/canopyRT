@@ -255,13 +255,8 @@ system.time(for (i in seq_along(1:3) ) {
   print(" ")
   print(paste0("Inverting: ",unlist(refl_spec_info2[i,title_var])))
   obs <- unlist(sub_refl_data[i,])
-  settings <- list(iterations = 55000) #45000
+  settings <- list(iterations = 75000) #45000; 100000
   samples <- BayesianTools::runMCMC(setup, sampler = "DEzs", settings = settings)
-  #samples <- BayesianTools::runMCMC(setup)
-  
-  ## !! HERE WE COULD ADD A NON PECAN AUTOBURNIN !!
-  #temp <- coda::gelman.plot(BayesianTools::getSample(samples, coda = TRUE), bin.width = 10, max.bins = 50,
-  #            confidence = 0.95, transform = FALSE, autoburnin=TRUE, auto.layout = TRUE)
   samples_burned <- autoburnin(BayesianTools::getSample(samples, coda = TRUE), method = 'gelman.plot')
   coda::varnames(samples_burned) <- c("N", "Cab", "Car", "Cbrown", "Canth", "Cw", "Cm", "rsd")
   mean_estimates <- do.call(cbind, summary(samples_burned)[c('statistics', 'quantiles')])
@@ -282,11 +277,11 @@ system.time(for (i in seq_along(1:3) ) {
   RT_pred <- array(data=NA,c(n_target,2101))
   print("*** Calculating error stats ***")
   for (r in seq_len(n_target)) {
-    perturbed.prospect.ref <- rnorm(spec.length, rrtm::prospect5(param.samples[r,1], param.samples[r,2],
+    perturbed.prospect.ref <- rnorm(spec.length, rrtm::prospectd(param.samples[r,1], param.samples[r,2],
                                                                  param.samples[r,3], param.samples[r,4],
-                                                                 param.samples[r,5], 
-                                                                 param.samples[r,6])$reflectance,
-                                    param.samples[r,7])
+                                                                 param.samples[r,5], param.samples[r,6],
+                                                                 param.samples[r,7])$reflectance,
+                                    param.samples[r,8])
     RT_pred[r,] <- perturbed.prospect.ref
   }
   
@@ -295,10 +290,10 @@ system.time(for (i in seq_along(1:3) ) {
   p.refl.stats$upper[i,] <- apply(RT_pred,2,stats::quantile,probs=c(0.95), na.rm=T)
   
   # Generate modeled spectra
-  num_params <- 6 # PROSPECT-5b
+  num_params <- 7 # PROSPECT-D
   input.params <- as.vector(unlist(mean_estimates[,1]))[1:num_params]
-  LRT <- prospect5(input.params[1], input.params[2], input.params[3], input.params[4],
-                   input.params[5], input.params[6])
+  LRT <- prospectd(input.params[1], input.params[2], input.params[3], input.params[4],
+                   input.params[5], input.params[6], input.params[7])
   output_sample_info <- droplevels(output_sample_info_all[i,])
   
   output.LRT$Spec.Info[i,] <- unlist(lapply(output_sample_info, as.character))
@@ -346,15 +341,10 @@ system.time(for (i in seq_along(1:3) ) {
 
 #--------------------------------------------------------------------------------------------------#
 ## Clean up
-# names: N.mu, N.q25, N.q975, Cab.mu, Cab.q25, Cab.q75, Car.mu, Car.q25, Car.q75,
-# Cw.mu, Cw.q25, Cw.q75, Cm.mu, Cm.q25, Cm.q75
 mod.params <- as.data.frame(mod.params)
-#names(mod.params) <- c("N.mu", "N.q25", "N.q975", "Cab.mu", "Cab.q25", "Cab.q975", "Car.mu", "Car.q25",
-#                       "Car.q975", "Canth.mu", "Canth.q25", "Canth.q975", "Cbrown.mu", "Cbrown.q25", 
-#                       "Cbrown.q975","Cw.mu", "Cw.q25", "Cw.q975", "Cm.mu", "Cm.q25", "Cm.q975")
 names(mod.params) <- c("N.mu", "N.q25", "N.q975", "Cab.mu", "Cab.q25", "Cab.q975", "Car.mu", "Car.q25",
-                       "Car.q975", "Cbrown.mu", "Cbrown.q25", "Cbrown.q975","Cw.mu", "Cw.q25", "Cw.q975", 
-                       "Cm.mu", "Cm.q25", "Cm.q975")
+                       "Car.q975", "Cbrown.mu", "Cbrown.q25", "Cbrown.q975", "Canth.mu", "Canth.q25", 
+                       "Canth.q975","Cw.mu", "Cw.q25", "Cw.q975", "Cm.mu", "Cm.q25", "Cm.q975")
 #--------------------------------------------------------------------------------------------------#
 
 
@@ -367,25 +357,25 @@ for (i in seq_along(1:3) ) {
   plot(waves,output.LRT$obs.Reflectance[i,], type="l", col="black",xlab="Wavelength (nm)",ylab="Reflectance (0-1)",
        lwd=3,main=paste0(output.LRT$Spec.Info[i,1]," ", output.LRT$Spec.Info[i,3]),
        ylim=c(min(p.refl.stats$lower[i,]), max(p.refl.stats$upper[i,])+0.1) )
-  lines(prospect_waves, rrtm::prospect5(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],mod.params[i,"Car.mu"],
-                                        mod.params[i,"Cbrown.mu"],mod.params[i,"Cw.mu"],
+  lines(prospect_waves, rrtm::prospectd(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],mod.params[i,"Car.mu"],
+                                        mod.params[i,"Cbrown.mu"], mod.params[i,"Canth.mu"], mod.params[i,"Cw.mu"],
                                         mod.params[i,"Cm.mu"])$reflectance,col="red",lwd=2)
   polygon(c(prospect_waves ,rev(prospect_waves)),c(p.refl.stats$upper[i,], rev(p.refl.stats$lower[i,])),
           col="grey70",border=NA)
   lines(waves,output.LRT$obs.Reflectance[i,],col="black",lwd=2)
-  lines(prospect_waves, rrtm::prospect5(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],mod.params[i,"Car.mu"],
-                                        mod.params[i,"Cbrown.mu"],mod.params[i,"Cw.mu"],
+  lines(prospect_waves, rrtm::prospectd(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],mod.params[i,"Car.mu"],
+                                        mod.params[i,"Cbrown.mu"], mod.params[i,"Canth.mu"], mod.params[i,"Cw.mu"],
                                         mod.params[i,"Cm.mu"])$reflectance,col="red",lwd=2)
   legend("topright",legend=c("Observed","Modeled","Modeled 95% PI"),lty=1,col=c("black","red","grey70"),
          lwd=c(3,3,8),bty = "n")
   box(lwd=2.2)
   plot(waves,output.LRT$obs.Reflectance[i,], type="l", col="black",xlab="Wavelength (nm)",ylab="Reflectance (0-1)",
        lwd=3,ylim=c(0,1),main=paste0(output.LRT$Spec.Info[i,1]," ", output.LRT$Spec.Info[i,3]),cex.lab=1.7)
-  lines(prospect_waves, rrtm::prospect5(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],mod.params[i,"Car.mu"],
-                                        mod.params[i,"Cbrown.mu"],mod.params[i,"Cw.mu"],
-                                        mod.params[i,"Cm.mu"])$reflectance,col="red",lwd=2)
-  lines(prospect_waves,1-rrtm::prospect5(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],mod.params[i,"Car.mu"],
-                                         mod.params[i,"Cbrown.mu"],mod.params[i,"Cw.mu"],
+  lines(prospect_waves, rrtm::prospectd(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],mod.params[i,"Car.mu"],
+                                        mod.params[i,"Cbrown.mu"], mod.params[i,"Canth.mu"], mod.params[i,"Cw.mu"],
+                                        mod.params[i,"Cm.mu"])$reflectance, col="red",lwd=2)
+  lines(prospect_waves,1-rrtm::prospectd(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],mod.params[i,"Car.mu"],
+                                         mod.params[i,"Cbrown.mu"], mod.params[i,"Canth.mu"], mod.params[i,"Cw.mu"],
                                          mod.params[i,"Cm.mu"])$transmittance,col="grey70",lwd=3) 
   axis(4,labels = rev(seq(0.0, 1.0, 0.2)), at = seq(0.0, 1.0, 0.2))
   mtext("Transmittance (0-1)",side=4,line=3,cex=1.7)
@@ -423,11 +413,13 @@ for (i in 1:dim(mod.params)[1] ) {
   # Using observed refl data instead of modeled
   #refl <- spectral.response(unlist(sub_refl_data[i,]), 'licor')
   # Using modeled reflectance spectra
-  refl <- rrtm::spectral.response(as.vector(rrtm::prospect5(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],
-                                                                mod.params[i,"Car.mu"],
-                                                                mod.params[i,"Cbrown.mu"],mod.params[i,"Cw.mu"],
-                                                                mod.params[i,"Cm.mu"])$reflectance), 'licor')
-  trans <- rrtm::spectral.response(as.vector(rrtm::prospect5(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],
+  refl <- rrtm::spectral.response(as.vector(rrtm::prospectd(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],
+                                                            mod.params[i,"Car.mu"],
+                                                            mod.params[i,"Cbrown.mu"],
+                                                            
+                                                            mod.params[i,"Cw.mu"],
+                                                            mod.params[i,"Cm.mu"])$reflectance), 'licor')
+  trans <- rrtm::spectral.response(as.vector(rrtm::prospectd(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],
                                                                  mod.params[i,"Car.mu"],
                                                                  mod.params[i,"Cbrown.mu"],mod.params[i,"Cw.mu"],
                                                                  mod.params[i,"Cm.mu"])$transmittance), 'licor')
