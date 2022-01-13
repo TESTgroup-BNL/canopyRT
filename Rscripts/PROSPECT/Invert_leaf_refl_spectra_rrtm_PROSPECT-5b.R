@@ -410,21 +410,17 @@ leaf_vis_absorption_final <- data.frame(output.LRT$Spec.Info, leaf_vis_absorptio
 names(leaf_vis_absorption_final) <- c(names_output_sample_info,"Leaf_VIS_Spectral_Absorption")
 
 ## Licor Fs absorption
-library(PEcAnRTM)
-data(sensor.rsr)
 licor.abs <- array(NA,dim=c(dim(mod.params)[1],3))
 for (i in 1:dim(mod.params)[1] ) {
   #for (i in 1:6 ) {
   # Using observed refl data instead of modeled
   #refl <- spectral.response(unlist(sub_refl_data[i,]), 'licor')
   # Using modeled reflectance spectra
-  
-  # !!!! HERE ALSO NEED TO REMOVE DEPENDS ON PECAN !!!! Is there a replacement in rrtm??
-  refl <- PEcAnRTM::spectral.response(as.vector(rrtm::prospect5(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],
+  refl <- rrtm::spectral.response(as.vector(rrtm::prospect5(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],
                                                                 mod.params[i,"Car.mu"],
                                                                 mod.params[i,"Cbrown.mu"],mod.params[i,"Cw.mu"],
                                                                 mod.params[i,"Cm.mu"])$reflectance), 'licor')
-  trans <- PEcAnRTM::spectral.response(as.vector(rrtm::prospect5(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],
+  trans <- rrtm::spectral.response(as.vector(rrtm::prospect5(mod.params[i,"N.mu"],mod.params[i,"Cab.mu"],
                                                                  mod.params[i,"Car.mu"],
                                                                  mod.params[i,"Cbrown.mu"],mod.params[i,"Cw.mu"],
                                                                  mod.params[i,"Cm.mu"])$transmittance), 'licor')
