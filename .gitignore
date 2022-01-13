@@ -43,5 +43,8 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
+# plots
+Rplots.pdf
+
 # SLURM chaff
 prospect_job*.*

@@ -244,8 +244,8 @@ print("Starting Inversion:")
 print(paste0("Inverting: ", dim(sub_refl_data)[1]))
 print(" ")
 pb <- txtProgressBar(min = 0, max = dim(sub_refl_data)[1], width= 50,style = 3)
-#system.time(for (i in seq_along(1:dim(sub_refl_data)[1]) ) {
-system.time(for (i in seq_along(1:3) ) {
+system.time(for (i in seq_along(1:dim(sub_refl_data)[1]) ) {
+#system.time(for (i in seq_along(1:3) ) {
   print(" ")
   print(paste0("Inverting: ",unlist(refl_spec_info2[i,title_var])))
   obs <- unlist(sub_refl_data[i,])
@@ -356,8 +356,8 @@ names(mod.params) <- c("N.mu", "N.q25", "N.q975", "Cab.mu", "Cab.q25", "Cab.q975
 ## Plot comparison
 grDevices::pdf(file=file.path(out.dir,'PROSPECTD_Inversion_Diagnostics.pdf'),height=8,width=9)
 par(mfrow=c(1,1), mar=c(4.3,4.3,1.0,4.3), oma=c(0.1,0.1,0.1,0.1)) # B L T R
-#for (i in seq_along(1:dim(sub_refl_data)[1] )) {
-for (i in seq_along(1:3) ) {
+for (i in seq_along(1:dim(sub_refl_data)[1] )) {
+#for (i in seq_along(1:3) ) {
   plot(waves,output.LRT$obs.Reflectance[i,], type="l", col="black",xlab="Wavelength (nm)",ylab="Reflectance (0-1)",
        lwd=3,main=paste0(output.LRT$Spec.Info[i,1]," ", output.LRT$Spec.Info[i,3]),
        ylim=c(min(p.refl.stats$lower[i,]), max(p.refl.stats$upper[i,])+0.1) )
