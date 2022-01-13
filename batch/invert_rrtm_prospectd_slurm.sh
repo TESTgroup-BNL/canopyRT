@@ -12,14 +12,14 @@
 
 #######################################################################################
 ### SLURM usage example
-# sbatch -w node03 -c 3 --partition compute --job-name=prospect --mail-user=sserbin@bnl.gov batch/invert_rrtm_prospect_slurm.sh
-# sbatch -w node03 --partition compute --job-name=prospect --mail-user=sserbin@bnl.gov batch/invert_rrtm_prospect_slurm.sh
+# sbatch -w node03 -c 3 --partition compute --job-name=prospect --mail-user=sserbin@bnl.gov batch/invert_rrtm_prospectd_slurm.sh
+# sbatch -w node03 --partition compute --job-name=prospect --mail-user=sserbin@bnl.gov batch/invert_rrtm_prospectd_slurm.sh
+# sbatch -w node03 --partition compute --oversubscribe --job-name=prospect --mail-user=sserbin@bnl.gov batch/invert_rrtm_prospectd_slurm.sh
 #######################################################################################
 
 # which version of the script/model? 
-# 5b
-script_name=Rscripts/PROSPECT/Invert_leaf_refl_spectra_rrtm_PROSPECT-5b.R
 # D
+script_name=Rscripts/PROSPECT/Invert_leaf_refl_spectra_rrtm_PROSPECT-D.R
 
 echo "Running ${script_name}"
 echo "Starting at: `date`"
