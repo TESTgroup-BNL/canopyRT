@@ -76,7 +76,7 @@ spectra <- droplevels(dataset[,spec_waves])
 
 #--------------------------------------------------------------------------------------------------#
 ## Output directory
-out.dir <- file.path(here::here(),"R_Output",dataID,"PROSPECT5b",'Range_400_700nm')
+out.dir <- file.path(here::here(),"R_Output",dataID,"PROSPECTD_rrtm",'Range_400_700nm')
 if (! file.exists(out.dir)) dir.create(out.dir,recursive=TRUE)
 #--------------------------------------------------------------------------------------------------#
 
@@ -128,16 +128,16 @@ output.LRT <- list(Spec.Info=array(NA,dim=c(dim(output_sample_info_all)[1],dim(o
                    mod.Reflectance=array(NA,dim=c(dim(sub_refl_data)[1],length(prospect_waves))),
                    mod.Transmittance=array(NA,dim=c(dim(sub_refl_data)[1],length(prospect_waves))))
 
-mod.params <- array(NA,dim=c(dim(sub_refl_data)[1],18))
+mod.params <- array(NA,dim=c(dim(sub_refl_data)[1],21))
 inv.samples <- NA
-# names: N.mu, N.q25, N.q975, Cab.mu, Cab.q25, Cab.q75, Car.mu, Car.q25, Car.q75, Canth.mu,
-# Canth.q25, Canth.q75, Cbrown.mu, Cbrown.q25, Cbrown.q75,
+# names: N.mu, N.q25, N.q975, Cab.mu, Cab.q25, Cab.q75, Car.mu, Car.q25, Car.q75, 
+# Cbrown.mu, Cbrown.q25, Cbrown.q75, Canth.mu, Canth.q25, Canth.q75,
 # Cw.mu, Cw.q25, Cw.q75, Cm.mu, Cm.q25, Cm.q75, gelman.diag
 #--------------------------------------------------------------------------------------------------#
 
 
 #--------------------------------------------------------------------------------------------------#
-### Run inversion: PROSPECT-5b w/ rrtm
+### Run inversion: PROSPECT-D w/ rrtm
 
 # setup prospect error envelope list
 p.refl.stats <- list(lower = array(data=NA,c(dim(sub_refl_data)[1],2101)),
@@ -145,15 +145,15 @@ p.refl.stats <- list(lower = array(data=NA,c(dim(sub_refl_data)[1],2101)),
 
 # setup likelihood function
 likelihood <- function(params) {
-  #N, Cab, Car, Cbrown, Cw, Cm
+  #N, Cab, Car, Cbrown, Canth, Cw, Cm,
   #mod <- prospect5(params[1], params[2], params[3], params[4], params[5], 
   #                 params[6])[min(which(prospect_waves %in% subset_waves, 
   #                                      arr.ind = TRUE)):2101,1]
   #sum(dnorm(obs, mod[["reflectance"]], params[7], log = TRUE))
-  mod <- prospect5(params[1], params[2], params[3], params[4], params[5], 
-                   params[6])$reflectance[min(which(prospect_waves %in% subset_waves, 
+  mod <- prospectd(params[1], params[2], params[3], params[4], params[5], 
+                   params[6], params[7])$reflectance[min(which(prospect_waves %in% subset_waves, 
                                         arr.ind = TRUE)):2101]
-  sum(dnorm(obs, mod, params[7], log = TRUE))
+  sum(dnorm(obs, mod, params[8], log = TRUE))
 
 }
 # !! in here the likelihood assumes the spectra to invert is labeled "obs"
@@ -182,6 +182,12 @@ curve(dgamma(x, 2.1, 0.2), 0, 40)
 Cbrownd <- distributions3::Normal(0.05, 0.03)
 curve(dnorm(x, 0.03, 0.01), 0, 1)
 
+# Cant density
+#Canthd <- distributions3::LogNormal(2.1, 0.2)
+#curve(dlnorm(x, 2.1, 0.7), 0, 40)
+Canthd <- distributions3::Gamma(1.1, 0.08)
+curve(dgamma(x, 1.1, 0.16), 0, 40)
+
 # Cw density  
 #Cwd <- distributions3::LogNormal(-4.456, 1.216)
 #curve(dlnorm(x, -4.456, 1.216), 0, 0.2)
@@ -208,24 +214,24 @@ prior <- createPrior(
       distributions3::log_pdf(Cabd, x[2]) +
       distributions3::log_pdf(Card, x[3]) +
       distributions3::log_pdf(Cbrownd, x[4]) +
-      distributions3::log_pdf(Cwd, x[5]) +
-      distributions3::log_pdf(Cmd, x[6]) +
-      distributions3::log_pdf(rsdd, x[7])
+      distributions3::log_pdf(Canthd, x[5]) +
+      distributions3::log_pdf(Cwd, x[6]) +
+      distributions3::log_pdf(Cmd, x[7]) +
+      distributions3::log_pdf(rsdd, x[8])
   },
   sampler = function(n = 1) {
     N <- distributions3::random(Nd, n)
     Cab <- distributions3::random(Cabd, n)
     Car <- distributions3::random(Card, n)
     Cbrown <- distributions3::random(Cbrownd, n)
+    Canth <- distributions3::random(Canthd, n)
     Cw <- distributions3::random(Cwd, n)
     Cm <- distributions3::random(Cmd, n)
     rsd <- distributions3::random(rsdd, n)
-    cbind(N, Cab, Car, Cbrown, Cw, Cm, rsd)
+    cbind(N, Cab, Car, Cbrown, Canth, Cw, Cm, rsd)
   },
-  lower = c(1, 1, 0, 0, 0, 0, 0),
-  upper = c(7, 195, 25, 1, 1, 1, 1) # are these OK upper constraints?
-  #upper = c(1,Inf,25,1,Inf,Inf,Inf)
- # prior$best <- c(2,55,8,2.5,0.003,0.014,0.001,0.001)
+  lower = c(1, 1, 0, 0, 0, 0, 0, 0),
+  upper = c(7, 195, 30, 1, 15, 1, 1, 1) # are these OK upper constraints?
 )
 ## --------------------- END Create priors --------------------- ##
 
@@ -257,9 +263,9 @@ system.time(for (i in seq_along(1:3) ) {
   #temp <- coda::gelman.plot(BayesianTools::getSample(samples, coda = TRUE), bin.width = 10, max.bins = 50,
   #            confidence = 0.95, transform = FALSE, autoburnin=TRUE, auto.layout = TRUE)
   samples_burned <- autoburnin(BayesianTools::getSample(samples, coda = TRUE), method = 'gelman.plot')
-  coda::varnames(samples_burned) <- c("N", "Cab", "Car", "Cbrown", "Cw", "Cm", "rsd")
+  coda::varnames(samples_burned) <- c("N", "Cab", "Car", "Cbrown", "Canth", "Cw", "Cm", "rsd")
   mean_estimates <- do.call(cbind, summary(samples_burned)[c('statistics', 'quantiles')])
-  row.names(mean_estimates) <- c("N", "Cab", "Car", "Cbrown", "Cw", "Cm", "rsd")
+  row.names(mean_estimates) <- c("N", "Cab", "Car", "Cbrown", "Canth", "Cw", "Cm", "rsd")
   
   grDevices::pdf(file = file.path(out.dir,paste0(unlist(refl_spec_info2[i,title_var]),'_MCMC_trace_diag.pdf')), 
                  width = 8, height = 6, onefile=T)
@@ -310,12 +316,12 @@ system.time(for (i in seq_along(1:3) ) {
                       mean_estimates[row.names(mean_estimates)=="Car",colnames(mean_estimates)=="Mean"],
                       mean_estimates[row.names(mean_estimates)=="Car",colnames(mean_estimates)=="25%"],
                       mean_estimates[row.names(mean_estimates)=="Car",colnames(mean_estimates)=="97.5%"],
-                      #mean_estimates[row.names(mean_estimates)=="Canth",colnames(mean_estimates)=="Mean"],
-                      #mean_estimates[row.names(mean_estimates)=="Canth",colnames(mean_estimates)=="25%"],
-                      #mean_estimates[row.names(mean_estimates)=="Canth",colnames(mean_estimates)=="97.5%"],
                       mean_estimates[row.names(mean_estimates)=="Cbrown",colnames(mean_estimates)=="Mean"],
                       mean_estimates[row.names(mean_estimates)=="Cbrown",colnames(mean_estimates)=="25%"],
                       mean_estimates[row.names(mean_estimates)=="Cbrown",colnames(mean_estimates)=="97.5%"],
+                      mean_estimates[row.names(mean_estimates)=="Canth",colnames(mean_estimates)=="Mean"],
+                      mean_estimates[row.names(mean_estimates)=="Canth",colnames(mean_estimates)=="25%"],
+                      mean_estimates[row.names(mean_estimates)=="Canth",colnames(mean_estimates)=="97.5%"],
                       mean_estimates[row.names(mean_estimates)=="Cw",colnames(mean_estimates)=="Mean"],
                       mean_estimates[row.names(mean_estimates)=="Cw",colnames(mean_estimates)=="25%"],
                       mean_estimates[row.names(mean_estimates)=="Cw",colnames(mean_estimates)=="97.5%"],
